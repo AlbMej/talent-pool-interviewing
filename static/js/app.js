@@ -6,14 +6,14 @@ const state = {
     recordingTime: 0,
     recordingInterval: null,
     videoStream: null,
+    audioRecorder: null,
+    audioChunks: [],
     recommendedQuestions: [],
     questionsCollapsed: true,
     isLoadingQuestions: false,
     questionsGenerated: false,
     questionHistory: [],
-    transcript: [
-        { timestamp: '15:49:03', text: "Hey my name is Thomas Uh I'm a junior engineer and I use React" }
-    ],
+    transcript: [],
     skillTree: null,
     candidateSkillTree: null,
     skillProgress: new Map(),
@@ -128,28 +128,69 @@ function toggleRecording() {
     }
 }
 
-function startRecording() {
+async function startRecording() {
     if (!state.videoStream && elements.videoElement) {
-        initVideoStream();
-    }
-    state.isRecording = true;
-    state.recordingTime = 0;
-    
-    if (state.recordingInterval) {
-        clearInterval(state.recordingInterval);
+        await initVideoStream();
     }
     
-    state.recordingInterval = setInterval(() => {
-        if (state.isRecording) {
-            state.recordingTime++;
-            updateRecordButton();
-            updateQuestionsOnRecordingChange();
+    try {
+        // Get audio stream - use existing video stream's audio or get new audio stream
+        let audioStream;
+        if (state.videoStream && state.videoStream.getAudioTracks().length > 0) {
+            // Extract audio tracks from existing video stream
+            const audioTracks = state.videoStream.getAudioTracks();
+            audioStream = new MediaStream(audioTracks);
+        } else {
+            // Get new audio stream
+            audioStream = await navigator.mediaDevices.getUserMedia({ audio: true });
         }
-    }, 1000);
-    
-    animateWaveform();
-    updateRecordButton();
-    updateQuestionsOnRecordingChange();
+        
+        // Initialize MediaRecorder
+        const options = { mimeType: 'audio/webm' };
+        if (!MediaRecorder.isTypeSupported(options.mimeType)) {
+            options.mimeType = 'audio/webm;codecs=opus';
+            if (!MediaRecorder.isTypeSupported(options.mimeType)) {
+                options.mimeType = ''; // Use default
+            }
+        }
+        
+        state.audioRecorder = new MediaRecorder(audioStream, options);
+        state.audioChunks = [];
+        
+        state.audioRecorder.ondataavailable = (event) => {
+            if (event.data.size > 0) {
+                state.audioChunks.push(event.data);
+            }
+        };
+        
+        state.audioRecorder.onstop = async () => {
+            // Process audio when recording stops
+            await processRecordedAudio();
+        };
+        
+        state.audioRecorder.start(100); // Collect data every 100ms
+        state.isRecording = true;
+        state.recordingTime = 0;
+        
+        if (state.recordingInterval) {
+            clearInterval(state.recordingInterval);
+        }
+        
+        state.recordingInterval = setInterval(() => {
+            if (state.isRecording) {
+                state.recordingTime++;
+                updateRecordButton();
+                updateQuestionsOnRecordingChange();
+            }
+        }, 1000);
+        
+        animateWaveform();
+        updateRecordButton();
+        updateQuestionsOnRecordingChange();
+    } catch (error) {
+        console.error('Error starting recording:', error);
+        alert('Failed to start recording. Please check microphone permissions.');
+    }
 }
 
 function stopRecording() {
@@ -158,9 +199,145 @@ function stopRecording() {
         clearInterval(state.recordingInterval);
         state.recordingInterval = null;
     }
+    
+    // Stop the audio recorder
+    if (state.audioRecorder && state.audioRecorder.state !== 'inactive') {
+        state.audioRecorder.stop();
+    }
+    
     animateWaveform();
     updateRecordButton();
     updateQuestionsOnRecordingChange();
+}
+
+async function processRecordedAudio() {
+    if (state.audioChunks.length === 0) {
+        console.log('No audio recorded');
+        return;
+    }
+    
+    try {
+        // Create blob from audio chunks
+        const audioBlob = new Blob(state.audioChunks, { type: 'audio/webm' });
+        
+        // Show loading state
+        const statusEl = document.createElement('div');
+        statusEl.className = 'resume-status loading';
+        statusEl.textContent = 'Transcribing audio...';
+        elements.transcriptContainer.insertBefore(statusEl, elements.transcriptContainer.firstChild);
+        
+        // Send to backend for transcription
+        const formData = new FormData();
+        formData.append('audio', audioBlob, 'recording.webm');
+        if (state.skillTree && state.skillTree.job_id) {
+            formData.append('job_id', state.skillTree.job_id);
+        }
+        
+        const response = await fetch('http://localhost:5000/api/v1/transcribe-audio', {
+            method: 'POST',
+            body: formData
+        });
+        
+        const data = await response.json();
+        
+        // Remove loading status
+        if (statusEl.parentNode) {
+            statusEl.parentNode.removeChild(statusEl);
+        }
+        
+        if (data.success && data.transcript) {
+            // Add transcript to state
+            const timestamp = new Date().toLocaleTimeString();
+            state.transcript.unshift({
+                timestamp: timestamp,
+                text: data.transcript
+            });
+            
+            // Update skill tree based on analysis
+            if (data.skill_analysis && data.skill_analysis.mentioned_skills) {
+                updateSkillTreeFromAnalysis(data.skill_analysis);
+                
+                // Update skill tree visualization immediately with new colors
+                if (state.skillTree && skillTreeViz) {
+                    // Force re-render to show updated colors
+                    skillTreeViz.update(state.skillTree, state.candidateSkillTree, state.skillSimilarities);
+                }
+            }
+            
+            // Render updated transcript
+            renderTranscript();
+            
+            // Update skill tree visualization if not already updated
+            if (state.skillTree && !skillTreeViz) {
+                renderSkillTree(state.skillTree);
+            }
+        } else {
+            throw new Error(data.error || 'Failed to transcribe audio');
+        }
+    } catch (error) {
+        console.error('Error processing audio:', error);
+        alert('Failed to transcribe audio. Please try again.');
+    } finally {
+        // Reset audio chunks
+        state.audioChunks = [];
+    }
+}
+
+function updateSkillTreeFromAnalysis(analysis) {
+    if (!analysis || !analysis.mentioned_skills) return;
+    
+    // Get all skill names from the current skill tree for matching
+    const skillTreeNames = new Map();
+    function extractSkillNames(node) {
+        if (node.type === 'skill' || node.type === 'requirement') {
+            skillTreeNames.set(node.name.toLowerCase(), node.name);
+        }
+        if (node.children) {
+            node.children.forEach(extractSkillNames);
+        }
+    }
+    if (state.skillTree) {
+        extractSkillNames(state.skillTree);
+    }
+    
+    // Update node colors based on analysis
+    analysis.mentioned_skills.forEach(skillData => {
+        const skillNameFromAnalysis = skillData.skill_name;
+        const color = skillData.color; // "red", "yellow", or "green"
+        
+        if (color && skillData.mentioned) {
+            // Map color string to hex code
+            const colorMap = {
+                'red': '#ef4444',
+                'yellow': '#eab308',
+                'green': '#16a34a'
+            };
+            
+            const hexColor = colorMap[color.toLowerCase()];
+            if (hexColor) {
+                // Try to find exact match first
+                let matchedSkillName = skillTreeNames.get(skillNameFromAnalysis.toLowerCase());
+                
+                // If no exact match, try partial matching
+                if (!matchedSkillName && skillTreeNames.size > 0) {
+                    for (const [lowerName, actualName] of skillTreeNames.entries()) {
+                        if (lowerName.includes(skillNameFromAnalysis.toLowerCase()) || 
+                            skillNameFromAnalysis.toLowerCase().includes(lowerName)) {
+                            matchedSkillName = actualName;
+                            break;
+                        }
+                    }
+                }
+                
+                // Use the matched name or the original name
+                const finalSkillName = matchedSkillName || skillNameFromAnalysis;
+                
+                // Update node color in state
+                state.nodeColors.set(finalSkillName, hexColor);
+                console.log(`Updated ${finalSkillName} to ${color} (${hexColor}): ${skillData.reason || ''}`);
+            }
+        }
+    });
 }
 
 function updateRecordButton() {

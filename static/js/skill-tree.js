@@ -11,8 +11,7 @@ class SkillTreeVisualization {
         this.jobSkills = new Set(); // Skills from job skill tree
         this.candidateSkills = new Set(); // Skills from candidate resume
         this.skillSimilarities = null; // Similarity data from Grok API
-        this.nodeColors = state.nodeColors || new Map(); // Manual node colors
-        this.nodeColors = state.nodeColors || new Map(); // Manual node colors
+        this.nodeColors = state.nodeColors || new Map(); // Manual node colors (reference to state)
         
         // Ensure container is empty before creating SVG
         if (container) {

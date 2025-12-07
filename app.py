@@ -7,6 +7,7 @@ import re
 import uuid
 import hashlib
 import requests
+from pathlib import Path
 from werkzeug.utils import secure_filename
 from dotenv import load_dotenv
 from resume_skill_tree import ResumeSkillTreeGenerator
@@ -27,16 +28,22 @@ CORS(app)
 
 # Configuration
 UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'uploads')
+AUDIO_FOLDER = os.path.join(os.path.dirname(__file__), 'uploads', 'audio')
 CANDIDATE_SKILL_TREES_DIR = os.path.join(os.path.dirname(__file__), 'data', 'candidate_skill_trees')
 JOB_SKILL_TREES_DIR = os.path.join(os.path.dirname(__file__), 'data', 'job_skill_trees')
 ALLOWED_EXTENSIONS = {'pdf'}
+ALLOWED_AUDIO_EXTENSIONS = {'webm', 'mp3', 'wav', 'ogg', 'm4a'}
 
 # Create directories if they don't exist
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+os.makedirs(AUDIO_FOLDER, exist_ok=True)
 os.makedirs(CANDIDATE_SKILL_TREES_DIR, exist_ok=True)
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+def allowed_audio_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_AUDIO_EXTENSIONS
 
 # Default skill tree data
 DEFAULT_SKILL_TREE = {
@@ -524,6 +531,184 @@ def get_candidate_skill_tree(file_id):
             return jsonify({'error': str(e)}), 500
     
     return jsonify({'error': 'Skill tree not found'}), 404
+
+def transcribe_audio_with_grok(audio_file_path):
+    """Transcribe audio file using Grok STT API"""
+    api_key = get_api_key()
+    if not api_key:
+        raise ValueError("XAI_API_KEY not found")
+    
+    api_url = "https://api.x.ai/v1/audio/transcriptions"
+    
+    headers = {
+        "Authorization": f"Bearer {api_key}"
+    }
+    
+    audio_path = Path(audio_file_path)
+    content_type = "audio/webm"
+    if audio_path.suffix == ".mp3":
+        content_type = "audio/mpeg"
+    elif audio_path.suffix == ".wav":
+        content_type = "audio/wav"
+    elif audio_path.suffix == ".m4a":
+        content_type = "audio/m4a"
+    elif audio_path.suffix == ".ogg":
+        content_type = "audio/ogg"
+    
+    try:
+        with open(audio_path, 'rb') as f:
+            files = {
+                "file": (audio_path.name, f, content_type)
+            }
+            response = requests.post(api_url, headers=headers, files=files, timeout=60)
+            response.raise_for_status()
+        
+        result = response.json()
+        return result.get('text', '')
+    except Exception as e:
+        print(f"Error transcribing audio: {e}")
+        raise
+
+def analyze_speech_for_skills(transcript, job_skill_tree):
+    """Analyze speech transcript to identify mentioned skills and update skill tree"""
+    if not transcript or not job_skill_tree:
+        return None
+    
+    api_key = get_api_key()
+    if not api_key:
+        return None
+    
+    # Extract all skills from job skill tree
+    job_skills = extract_skills_from_tree(job_skill_tree)
+    
+    api_url = "https://api.x.ai/v1/chat/completions"
+    
+    prompt = f"""Analyze the following interview transcript and identify which skills from the job requirements were mentioned by the candidate. For each skill, determine the candidate's experience level and assign a color code.
+
+Job Skills/Requirements:
+{json.dumps(job_skills[:30], indent=2)}
+
+Interview Transcript:
+"{transcript}"
+
+For each skill mentioned in the transcript, analyze the candidate's response and assign a color:
+- RED (#ef4444): Negative response, no experience, or explicitly stated lack of knowledge
+  Examples: "I don't know Rust", "I haven't used that", "No experience with that"
+- YELLOW (#eab308): Some experience, limited experience, or mentioned in passing
+  Examples: "I've used Rust before in an internship", "I've dabbled with it", "I know a little bit"
+- GREEN (#16a34a): Strong experience, extensive experience, or professional use
+  Examples: "Rust developer for 10 years", "I use it daily at work", "Expert level"
+
+Return a JSON object with this structure:
+{{
+    "mentioned_skills": [
+        {{
+            "skill_name": "skill name from job requirements (must match exactly)",
+            "mentioned": true,
+            "color": "red|yellow|green",
+            "reason": "brief explanation of why this color was assigned"
+        }}
+    ]
+}}
+
+Only return valid JSON, no additional text. Only include skills that were actually mentioned in the transcript."""
+    
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
+    
+    payload = {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are an expert at analyzing interview transcripts. Always return valid JSON only."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "model": "grok-4-fast",
+        "stream": False,
+        "temperature": 0.3
+    }
+    
+    try:
+        response = requests.post(api_url, headers=headers, json=payload, timeout=60)
+        response.raise_for_status()
+        result = response.json()
+        
+        content = result.get('choices', [{}])[0].get('message', {}).get('content', '{}')
+        content = content.strip()
+        
+        # Remove markdown code blocks if present
+        if content.startswith('```'):
+            lines = content.split('\n')
+            content = '\n'.join([line for line in lines if not line.strip().startswith('```')])
+        
+        analysis = json.loads(content)
+        return analysis
+        
+    except Exception as e:
+        print(f"Error analyzing speech: {e}")
+        return None
+
+@app.route('/api/v1/transcribe-audio', methods=['POST'])
+def transcribe_audio():
+    """Handle audio upload and transcribe using Grok STT"""
+    if 'audio' not in request.files:
+        return jsonify({'error': 'No audio file provided'}), 400
+    
+    file = request.files['audio']
+    if file.filename == '':
+        return jsonify({'error': 'No file selected'}), 400
+    
+    if not allowed_audio_file(file.filename):
+        return jsonify({'error': 'Invalid file type. Allowed: webm, mp3, wav, ogg, m4a'}), 400
+    
+    try:
+        # Generate unique filename
+        file_id = str(uuid.uuid4())
+        filename = secure_filename(file.filename)
+        file_ext = filename.rsplit('.', 1)[1].lower()
+        saved_filename = f"{file_id}.{file_ext}"
+        file_path = os.path.join(AUDIO_FOLDER, saved_filename)
+        
+        # Save uploaded file
+        file.save(file_path)
+        
+        # Transcribe using Grok STT
+        transcript = transcribe_audio_with_grok(file_path)
+        
+        # Get job skill tree if available
+        job_id = request.form.get('job_id')
+        job_skill_tree = None
+        if job_id:
+            json_files = glob.glob(os.path.join(JOB_SKILL_TREES_DIR, f'job_{job_id}_*.json'))
+            if json_files:
+                with open(json_files[0], 'r', encoding='utf-8') as f:
+                    job_skill_tree = json.load(f)
+        
+        # Analyze transcript for skills
+        skill_analysis = None
+        if job_skill_tree and transcript:
+            skill_analysis = analyze_speech_for_skills(transcript, job_skill_tree)
+        
+        # Clean up audio file
+        try:
+            os.remove(file_path)
+        except:
+            pass
+        
+        return jsonify({
+            'success': True,
+            'transcript': transcript,
+            'skill_analysis': skill_analysis
+        })
+    
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
