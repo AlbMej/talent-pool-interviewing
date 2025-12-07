@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "NextJS",
+              "type": "skill"
+            },
+            {
+              "name": "Tailwind",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "WebGL",
+              "type": "skill"
+            },
+            {
+              "name": "WebSockets",
+              "type": "skill"
+            },
+            {
+              "name": "WebAssembly",
+              "type": "skill"
+            },
+            {
+              "name": "web workers",
+              "type": "skill"
+            },
+            {
+              "name": "PWAs",
+              "type": "skill"
+            },
+            {
+              "name": "CSS animations",
+              "type": "skill"
+            },
+            {
+              "name": "HTML",
+              "type": "skill"
+            },
+            {
+              "name": "CSS",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "performance",
+          "type": "skill"
+        },
+        {
+          "name": "accessibility",
+          "type": "skill"
+        },
+        {
+          "name": "frontend security",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "UI design",
+          "type": "skill"
+        },
+        {
+          "name": "UX design",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4784549007,
+  "job_title": "React Frontend Engineer - grok.com & API",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4784549007"
+}

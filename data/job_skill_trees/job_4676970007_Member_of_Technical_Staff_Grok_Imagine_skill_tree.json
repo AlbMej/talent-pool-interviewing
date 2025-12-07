@@ -1,0 +1,133 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "scalable machine learning systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "multimodal post-training techniques",
+          "type": "skill"
+        },
+        {
+          "name": "inference",
+          "type": "skill"
+        },
+        {
+          "name": "distillation",
+          "type": "skill"
+        },
+        {
+          "name": "real-time generation",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal applications",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "human data collection systems",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic data collection systems",
+          "type": "skill"
+        },
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "production integration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience in multimodal post-training techniques",
+          "type": "requirement"
+        },
+        {
+          "name": "developing scalable machine learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "creating multimodal applications",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4676970007,
+  "job_title": "Member of Technical Staff, Grok Imagine",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4676970007"
+}

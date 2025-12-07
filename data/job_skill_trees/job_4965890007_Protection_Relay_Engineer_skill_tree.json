@@ -1,0 +1,230 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Structured Text",
+              "type": "skill"
+            },
+            {
+              "name": "Ladder Logic",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "IEC 61131-3",
+              "type": "skill"
+            },
+            {
+              "name": "SEL Logic Engine",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "acSELerator QuickSet",
+              "type": "skill"
+            },
+            {
+              "name": "SEL Grid Configurator",
+              "type": "skill"
+            },
+            {
+              "name": "acSELerator Architect",
+              "type": "skill"
+            },
+            {
+              "name": "SEL SynchroWAVE",
+              "type": "skill"
+            },
+            {
+              "name": "Event Reporter",
+              "type": "skill"
+            },
+            {
+              "name": "RTAC Web Interface",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "SEL protective relays",
+              "type": "skill"
+            },
+            {
+              "name": "SEL RTAC platforms",
+              "type": "skill"
+            },
+            {
+              "name": "DNP3",
+              "type": "skill"
+            },
+            {
+              "name": "Modbus",
+              "type": "skill"
+            },
+            {
+              "name": "IEC 61850 GOOSE/MMS",
+              "type": "skill"
+            },
+            {
+              "name": "SEL protocols",
+              "type": "skill"
+            },
+            {
+              "name": "Ethernet interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "serial interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "synchrophasor applications",
+              "type": "skill"
+            },
+            {
+              "name": "remedial action schemes",
+              "type": "skill"
+            },
+            {
+              "name": "IEC 61850 configuration",
+              "type": "skill"
+            },
+            {
+              "name": "SCL files",
+              "type": "skill"
+            },
+            {
+              "name": "SCD",
+              "type": "skill"
+            },
+            {
+              "name": "ICD",
+              "type": "skill"
+            },
+            {
+              "name": "CID",
+              "type": "skill"
+            },
+            {
+              "name": "NERC CIP cybersecurity",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "factory acceptance testing",
+          "type": "skill"
+        },
+        {
+          "name": "site acceptance testing",
+          "type": "skill"
+        },
+        {
+          "name": "relay setting validation",
+          "type": "skill"
+        },
+        {
+          "name": "end-to-end functional verification",
+          "type": "skill"
+        },
+        {
+          "name": "relay event analysis",
+          "type": "skill"
+        },
+        {
+          "name": "custom automation logic development",
+          "type": "skill"
+        },
+        {
+          "name": "system energization",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "post-commissioning maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "firmware updates",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "protection and automation systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "SEL Authorized Training",
+          "type": "certification"
+        },
+        {
+          "name": "SEL-5030",
+          "type": "certification"
+        },
+        {
+          "name": "SEL-5033",
+          "type": "certification"
+        },
+        {
+          "name": "PE license",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "configuration and programming of SEL protective relays",
+          "type": "requirement"
+        },
+        {
+          "name": "automation sequences development",
+          "type": "requirement"
+        },
+        {
+          "name": "relay event analysis",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4965890007,
+  "job_title": "Protection Relay Engineer",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4965890007"
+}

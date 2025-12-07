@@ -1,0 +1,87 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "PyTorch",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "machine learning systems",
+              "type": "skill"
+            },
+            {
+              "name": "infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "machine learning algorithm",
+          "type": "skill"
+        },
+        {
+          "name": "deep learning",
+          "type": "skill"
+        },
+        {
+          "name": "model architectures",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "training data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "deploying to production",
+          "type": "skill"
+        },
+        {
+          "name": "data extraction",
+          "type": "skill"
+        },
+        {
+          "name": "developing guiding metrics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "developing and shipping ML solutions end-to-end",
+          "type": "requirement"
+        },
+        {
+          "name": "work with real-world data",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4823082007,
+  "job_title": "Member of Technical Staff, Community Notes ",
+  "location": "Palo Alto, CA; Seattle, WA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4823082007"
+}

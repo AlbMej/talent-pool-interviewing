@@ -1,0 +1,181 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Revit",
+              "type": "skill"
+            },
+            {
+              "name": "BIM",
+              "type": "skill"
+            },
+            {
+              "name": "Autodesk",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "mechanical systems",
+              "type": "skill"
+            },
+            {
+              "name": "electrical systems",
+              "type": "skill"
+            },
+            {
+              "name": "structural systems",
+              "type": "skill"
+            },
+            {
+              "name": "network systems",
+              "type": "skill"
+            },
+            {
+              "name": "data center infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "AI infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "supercomputers",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "design change processes",
+          "type": "skill"
+        },
+        {
+          "name": "RFIs",
+          "type": "skill"
+        },
+        {
+          "name": "site reviews",
+          "type": "skill"
+        },
+        {
+          "name": "technical reports",
+          "type": "skill"
+        },
+        {
+          "name": "project closeout",
+          "type": "skill"
+        },
+        {
+          "name": "as-built documentation",
+          "type": "skill"
+        },
+        {
+          "name": "commissioning",
+          "type": "skill"
+        },
+        {
+          "name": "QA/QC practices",
+          "type": "skill"
+        },
+        {
+          "name": "energy efficiency",
+          "type": "skill"
+        },
+        {
+          "name": "resiliency",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "mission-critical infrastructure design",
+          "type": "skill"
+        },
+        {
+          "name": "data center design",
+          "type": "skill"
+        },
+        {
+          "name": "data center construction",
+          "type": "skill"
+        },
+        {
+          "name": "data center commissioning",
+          "type": "skill"
+        },
+        {
+          "name": "data center operation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Professional Engineer (PE)",
+          "type": "certification"
+        },
+        {
+          "name": "Registered Architect (RA)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "BS in Engineering, Architecture, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7+ years of experience in mission-critical infrastructure design",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience stamping construction drawing packages",
+          "type": "requirement"
+        },
+        {
+          "name": "Deep knowledge of industry standards, building codes, and safety regulations",
+          "type": "requirement"
+        },
+        {
+          "name": "Expertise in data center infrastructure design, construction, commissioning, and operation",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience building AI infrastructure or supercomputers at scale",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4974518007,
+  "job_title": "Design Manager - AI Infrastructure",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4974518007"
+}

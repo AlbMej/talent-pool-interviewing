@@ -1,0 +1,107 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Golang",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "gRPC",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "data processing pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "full stack development",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "ads delivery",
+          "type": "skill"
+        },
+        {
+          "name": "ads targeting",
+          "type": "skill"
+        },
+        {
+          "name": "ads measurement",
+          "type": "skill"
+        },
+        {
+          "name": "ads optimization systems",
+          "type": "skill"
+        },
+        {
+          "name": "advertising products",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of industry experience building large scale and high-performance advertising products",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with ads delivery, targeting, measurement, or optimization systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4754213007,
+  "job_title": "Member of Technical Staff, Ads Product",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4754213007"
+}

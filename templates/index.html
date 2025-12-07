@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Assessment</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar (collapsible) -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h2>Job Listing</h2>
+                <button class="sidebar-toggle" id="sidebarToggle">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+            <div class="sidebar-content" id="sidebarContent">
+                <div class="loading-text">Loading jobs...</div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <!-- Left Sidebar -->
+            <aside class="left-panel">
+                <div class="panel-header">
+                    <h2>Interview</h2>
+                </div>
+                
+                <div class="panel-scroll">
+                    <div class="panel-content">
+                        <!-- Recommended Questions -->
+                        <div class="section">
+                            <button class="section-header" id="questionsToggle">
+                                <span>Recommended questions</span>
+                                <i class="fas fa-chevron-up" id="questionsIcon"></i>
+                            </button>
+                            <div class="questions-container" id="questionsContainer">
+                                <div id="questionsLoading" class="loading-text">Generating questions...</div>
+                                <div id="questionsList" class="questions-list"></div>
+                            </div>
+                        </div>
+
+                        <div class="separator"></div>
+
+                        <!-- Question History -->
+                        <div class="section">
+                            <h3 class="section-title">Question history</h3>
+                            <div id="questionHistory" class="history-container">
+                                <p class="empty-text">No questions asked yet.</p>
+                            </div>
+                        </div>
+
+                        <div class="separator"></div>
+
+                        <!-- Video Feed -->
+                        <div class="video-container">
+                            <div class="video-wrapper">
+                                <video id="videoElement" autoplay muted playsinline></video>
+                                <div id="noVideo" class="no-video">No video</div>
+                            </div>
+                        </div>
+
+                        <div class="separator"></div>
+
+                        <!-- Transcript -->
+                        <div class="section">
+                            <h3 class="section-title">Transcript</h3>
+                            <div id="transcriptContainer" class="transcript-container">
+                                <div class="transcript-entry">
+                                    <p class="transcript-time">15:49:03</p>
+                                    <p class="transcript-text">Hey my name is Thomas Uh I'm a junior engineer and I use React</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Controls -->
+                <div class="controls">
+                    <!-- Waveform -->
+                    <div class="waveform" id="waveform">
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                        <div class="waveform-bar"></div>
+                    </div>
+
+                    <div class="controls-buttons">
+                        <button class="btn btn-primary" id="recordButton">
+                            <i class="fas fa-pause" id="recordIcon"></i>
+                            <span id="recordText">Start</span>
+                        </button>
+                        <button class="btn btn-icon" id="muteButton">
+                            <i class="fas fa-microphone" id="muteIcon"></i>
+                        </button>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Right Panel - Skill Tree -->
+            <div class="right-panel">
+                <div class="panel-header">
+                    <h2>Skill Assessment</h2>
+                    <div class="panel-header-actions">
+                        <button class="btn btn-ghost" id="jobLinkButton" style="display: none;">
+                            <i class="fas fa-external-link-alt"></i>
+                            Job Link
+                        </button>
+                        <button class="btn btn-ghost" id="resetLayoutButton">
+                            <i class="fas fa-th"></i>
+                            Reset Layout
+                        </button>
+                    </div>
+                </div>
+                <div class="skill-tree-container" id="skillTreeContainer">
+                    <div class="loading-text">Loading skill tree...</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/skill-tree.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
+

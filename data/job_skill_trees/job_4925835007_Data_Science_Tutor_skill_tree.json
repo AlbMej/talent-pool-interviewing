@@ -1,0 +1,97 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "databases",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data science",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's or PhD in a data science related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "publication in a reputable journal or outlet",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing experience",
+          "type": "requirement"
+        },
+        {
+          "name": "professional background as a Data Scientist",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925835007,
+  "job_title": "Data Science Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925835007"
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "compilers",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "Windows",
+              "type": "skill"
+            },
+            {
+              "name": "virtualization techniques",
+              "type": "skill"
+            },
+            {
+              "name": "networking stack",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "sandboxing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "code generation",
+          "type": "skill"
+        },
+        {
+          "name": "code evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "distributed systems design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "expert knowledge of Rust, C++ or Go",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with Python",
+          "type": "requirement"
+        },
+        {
+          "name": "solid understanding of Linux or Windows",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with virtualization techniques and implementations",
+          "type": "requirement"
+        },
+        {
+          "name": "good knowledge of networking stack",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4991427007,
+  "job_title": "Systems Software Engineer - Linux or Windows",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4991427007"
+}

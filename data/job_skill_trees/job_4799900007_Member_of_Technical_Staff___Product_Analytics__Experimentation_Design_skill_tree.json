@@ -1,0 +1,113 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "A/B testing",
+          "type": "skill"
+        },
+        {
+          "name": "multivariate trials",
+          "type": "skill"
+        },
+        {
+          "name": "causal inference",
+          "type": "skill"
+        },
+        {
+          "name": "statistics",
+          "type": "skill"
+        },
+        {
+          "name": "inference",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "experimentation design",
+          "type": "skill"
+        },
+        {
+          "name": "noisy signal analysis",
+          "type": "skill"
+        },
+        {
+          "name": "hypothesis validation",
+          "type": "skill"
+        },
+        {
+          "name": "impact measurement",
+          "type": "skill"
+        },
+        {
+          "name": "correlation analysis",
+          "type": "skill"
+        },
+        {
+          "name": "causal factor analysis",
+          "type": "skill"
+        },
+        {
+          "name": "experimentation pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven methods",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "product analytics",
+          "type": "skill"
+        },
+        {
+          "name": "user insight extraction",
+          "type": "skill"
+        },
+        {
+          "name": "behavioral data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "production logs analysis",
+          "type": "skill"
+        },
+        {
+          "name": "engagement metrics",
+          "type": "skill"
+        },
+        {
+          "name": "user experience",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in engineering roles",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4799900007,
+  "job_title": "Member of Technical Staff - Product Analytics & Experimentation Design",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4799900007"
+}

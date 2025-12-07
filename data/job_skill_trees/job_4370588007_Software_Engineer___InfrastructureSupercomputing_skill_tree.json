@@ -1,0 +1,146 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Flux",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "GPU supercomputing clusters",
+              "type": "skill"
+            },
+            {
+              "name": "containerized applications",
+              "type": "skill"
+            },
+            {
+              "name": "compute fleets",
+              "type": "skill"
+            },
+            {
+              "name": "on-premise clusters",
+              "type": "skill"
+            },
+            {
+              "name": "deployment pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI training",
+          "type": "skill"
+        },
+        {
+          "name": "model serving",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "IaC",
+          "type": "skill"
+        },
+        {
+          "name": "secure service delivery",
+          "type": "skill"
+        },
+        {
+          "name": "security best practices",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "supercomputing",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "scalable containerized applications",
+          "type": "requirement"
+        },
+        {
+          "name": "highly available containerized applications",
+          "type": "requirement"
+        },
+        {
+          "name": "stateful automation",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4370588007,
+  "job_title": "Software Engineer - Infrastructure/Supercomputing",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4370588007"
+}

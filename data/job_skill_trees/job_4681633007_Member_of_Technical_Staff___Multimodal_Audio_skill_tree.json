@@ -1,0 +1,137 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale distributed machine learning systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "neural networks",
+          "type": "skill"
+        },
+        {
+          "name": "audio understanding",
+          "type": "skill"
+        },
+        {
+          "name": "audio generation",
+          "type": "skill"
+        },
+        {
+          "name": "model debugging",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data filtering techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data generation techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data studies",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "internal benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "algorithms for audio model performance",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven experiment designs",
+          "type": "skill"
+        },
+        {
+          "name": "systematic analysis",
+          "type": "skill"
+        },
+        {
+          "name": "iterative model debugging",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "pre-training",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "audio",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "leading studies for neural networks",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4681633007,
+  "job_title": "Member of Technical Staff - Multimodal (Audio)",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4681633007"
+}

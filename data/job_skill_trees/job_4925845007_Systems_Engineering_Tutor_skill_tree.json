@@ -1,0 +1,104 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "AI task training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Industrial Engineering",
+          "type": "skill"
+        },
+        {
+          "name": "Systems Engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's in Industrial or Systems Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Industrial or Systems Engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in real-world problems in Industrial or Systems Engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "Teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing experience",
+          "type": "requirement"
+        },
+        {
+          "name": "publication in reputable journal",
+          "type": "requirement"
+        },
+        {
+          "name": "professional background as industrial or systems engineer",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925845007,
+  "job_title": "Systems Engineering Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925845007"
+}

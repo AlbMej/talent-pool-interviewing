@@ -1,0 +1,241 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "hand tools",
+              "type": "skill"
+            },
+            {
+              "name": "power tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "MEP systems",
+              "type": "skill"
+            },
+            {
+              "name": "pumps",
+              "type": "skill"
+            },
+            {
+              "name": "piping",
+              "type": "skill"
+            },
+            {
+              "name": "chillers",
+              "type": "skill"
+            },
+            {
+              "name": "cooling towers",
+              "type": "skill"
+            },
+            {
+              "name": "CRAH units",
+              "type": "skill"
+            },
+            {
+              "name": "wiring",
+              "type": "skill"
+            },
+            {
+              "name": "lighting systems",
+              "type": "skill"
+            },
+            {
+              "name": "generators",
+              "type": "skill"
+            },
+            {
+              "name": "motors",
+              "type": "skill"
+            },
+            {
+              "name": "water supply",
+              "type": "skill"
+            },
+            {
+              "name": "UPS",
+              "type": "skill"
+            },
+            {
+              "name": "switchgear",
+              "type": "skill"
+            },
+            {
+              "name": "HVAC",
+              "type": "skill"
+            },
+            {
+              "name": "power systems",
+              "type": "skill"
+            },
+            {
+              "name": "environmental controls",
+              "type": "skill"
+            },
+            {
+              "name": "PLC-based control systems",
+              "type": "skill"
+            },
+            {
+              "name": "Building Management Systems",
+              "type": "skill"
+            },
+            {
+              "name": "Building and Electrical Power Monitoring Systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "writing and executing MOPs",
+          "type": "skill"
+        },
+        {
+          "name": "writing and executing SOPs",
+          "type": "skill"
+        },
+        {
+          "name": "writing and executing EOPs",
+          "type": "skill"
+        },
+        {
+          "name": "daily inspections of critical systems",
+          "type": "skill"
+        },
+        {
+          "name": "spare parts inventory management",
+          "type": "skill"
+        },
+        {
+          "name": "coordinate scheduled system shutdowns",
+          "type": "skill"
+        },
+        {
+          "name": "energy monitoring metrics",
+          "type": "skill"
+        },
+        {
+          "name": "commissioning",
+          "type": "skill"
+        },
+        {
+          "name": "equipment startup witnessing",
+          "type": "skill"
+        },
+        {
+          "name": "functional testing",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "process optimization",
+          "type": "skill"
+        },
+        {
+          "name": "maintenance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center operations",
+          "type": "skill"
+        },
+        {
+          "name": "supercomputing data centers",
+          "type": "skill"
+        },
+        {
+          "name": "mechanical engineering principles",
+          "type": "skill"
+        },
+        {
+          "name": "electrical engineering principles",
+          "type": "skill"
+        },
+        {
+          "name": "critical systems documentation",
+          "type": "skill"
+        },
+        {
+          "name": "site safety and environmental compliance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "valid driver’s license",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s Degree in Mechanical or Electrical",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7+ years of hands-on operations/facilities work experience",
+          "type": "requirement"
+        },
+        {
+          "name": "data center experience",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with critical systems documentation including Plans, Procedures, and Operations Manuals",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with Building and Electrical Power Monitoring Systems and Operations",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with PLC-based control systems",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with Building Management Systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4538639007,
+  "job_title": "Facilities Operations Technician",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4538639007"
+}

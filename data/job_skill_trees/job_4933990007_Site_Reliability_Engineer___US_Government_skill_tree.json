@@ -1,0 +1,215 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            },
+            {
+              "name": "Kyverno",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "GPU hardware",
+              "type": "skill"
+            },
+            {
+              "name": "CNI",
+              "type": "skill"
+            },
+            {
+              "name": "CRI",
+              "type": "skill"
+            },
+            {
+              "name": "CSI",
+              "type": "skill"
+            },
+            {
+              "name": "bare metal",
+              "type": "skill"
+            },
+            {
+              "name": "classified cloud",
+              "type": "skill"
+            },
+            {
+              "name": "hybrid cloud",
+              "type": "skill"
+            },
+            {
+              "name": "training clusters",
+              "type": "skill"
+            },
+            {
+              "name": "inference clusters",
+              "type": "skill"
+            },
+            {
+              "name": "storage infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Infrastructure-as-Code",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "security practices",
+          "type": "skill"
+        },
+        {
+          "name": "incident management",
+          "type": "skill"
+        },
+        {
+          "name": "postmortems",
+          "type": "skill"
+        },
+        {
+          "name": "SLAs",
+          "type": "skill"
+        },
+        {
+          "name": "SLOs",
+          "type": "skill"
+        },
+        {
+          "name": "chaos engineering",
+          "type": "skill"
+        },
+        {
+          "name": "capacity planning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "secure systems",
+          "type": "skill"
+        },
+        {
+          "name": "federal compliance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Top Secret security clearance",
+          "type": "certification"
+        },
+        {
+          "name": "CISSP",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years as Infrastructure Engineer or Site Reliability Engineer",
+          "type": "requirement"
+        },
+        {
+          "name": "building and maintaining reliable scalable systems in secure environments",
+          "type": "requirement"
+        },
+        {
+          "name": "managing storage infrastructure with IaC tools",
+          "type": "requirement"
+        },
+        {
+          "name": "Kubernetes stack",
+          "type": "requirement"
+        },
+        {
+          "name": "improving system reliability through incident management postmortems and SLAs SLOs",
+          "type": "requirement"
+        },
+        {
+          "name": "installing and using GPU hardware",
+          "type": "requirement"
+        },
+        {
+          "name": "high-traffic web or mobile application workloads",
+          "type": "requirement"
+        },
+        {
+          "name": "optimizing Kubernetes for large-scale deployments",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4933990007,
+  "job_title": "Site Reliability Engineer - US Government",
+  "location": "Palo Alto, CA; Washington, D.C.",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4933990007"
+}

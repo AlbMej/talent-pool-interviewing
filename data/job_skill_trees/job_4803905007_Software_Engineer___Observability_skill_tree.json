@@ -1,0 +1,152 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Prometheus",
+              "type": "skill"
+            },
+            {
+              "name": "Grafana",
+              "type": "skill"
+            },
+            {
+              "name": "OpenTelemetry",
+              "type": "skill"
+            },
+            {
+              "name": "VictoriaMetrics",
+              "type": "skill"
+            },
+            {
+              "name": "ClickHouse",
+              "type": "skill"
+            },
+            {
+              "name": "Kafka",
+              "type": "skill"
+            },
+            {
+              "name": "Redis",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "ClickHouse",
+              "type": "skill"
+            },
+            {
+              "name": "Redis",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "telemetry architecture",
+              "type": "skill"
+            },
+            {
+              "name": "metrics",
+              "type": "skill"
+            },
+            {
+              "name": "logging",
+              "type": "skill"
+            },
+            {
+              "name": "tracing",
+              "type": "skill"
+            },
+            {
+              "name": "telemetry pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "query engines",
+              "type": "skill"
+            },
+            {
+              "name": "time series databases",
+              "type": "skill"
+            },
+            {
+              "name": "orchestration environments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "instrumentation",
+          "type": "skill"
+        },
+        {
+          "name": "alerting",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building and operating infrastructure at scale",
+          "type": "requirement"
+        },
+        {
+          "name": "operating observability pipelines in Kubernetes",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4803905007,
+  "job_title": "Software Engineer - Observability",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4803905007"
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            },
+            {
+              "name": "PyTorch",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kafka",
+              "type": "skill"
+            },
+            {
+              "name": "Spark",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Clickhouse",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CUDA kernels",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "recommendation algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "recommender systems",
+          "type": "skill"
+        },
+        {
+          "name": "ranking algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "search technologies",
+          "type": "skill"
+        },
+        {
+          "name": "deep learning",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "training jobs",
+          "type": "skill"
+        },
+        {
+          "name": "experimentation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "recommendation systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "implementing recommender systems at industrial scale",
+          "type": "requirement"
+        },
+        {
+          "name": "deep learning applications at industrial scale",
+          "type": "requirement"
+        },
+        {
+          "name": "writing CUDA kernels",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4703144007,
+  "job_title": "Member of Technical Staff, Recommendation Systems",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4703144007"
+}

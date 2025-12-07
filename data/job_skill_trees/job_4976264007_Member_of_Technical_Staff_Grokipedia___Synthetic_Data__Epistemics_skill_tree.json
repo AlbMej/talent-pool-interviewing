@@ -1,0 +1,180 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Agent frameworks",
+              "type": "skill"
+            },
+            {
+              "name": "Ray",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLMs",
+          "type": "skill"
+        },
+        {
+          "name": "agentic systems",
+          "type": "skill"
+        },
+        {
+          "name": "epistemics in AI",
+          "type": "skill"
+        },
+        {
+          "name": "prompting engineering",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic data creation",
+          "type": "skill"
+        },
+        {
+          "name": "long-form text generation",
+          "type": "skill"
+        },
+        {
+          "name": "inference pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "retrieval-augmented generation (RAG)",
+          "type": "skill"
+        },
+        {
+          "name": "epistemic uncertainty modeling",
+          "type": "skill"
+        },
+        {
+          "name": "chain-of-thought reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "self-critique",
+          "type": "skill"
+        },
+        {
+          "name": "multi-agent debates",
+          "type": "skill"
+        },
+        {
+          "name": "bias mitigation",
+          "type": "skill"
+        },
+        {
+          "name": "reducing hallucinations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "prompting strategies",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic data generation methods",
+          "type": "skill"
+        },
+        {
+          "name": "article rewrite pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "user feedback loops",
+          "type": "skill"
+        },
+        {
+          "name": "automatic update systems",
+          "type": "skill"
+        },
+        {
+          "name": "verification mechanisms",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale data processing",
+          "type": "skill"
+        },
+        {
+          "name": "data generation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "knowledge-intensive tasks",
+          "type": "skill"
+        },
+        {
+          "name": "epistemic integrity",
+          "type": "skill"
+        },
+        {
+          "name": "factual accuracy",
+          "type": "skill"
+        },
+        {
+          "name": "long-form content",
+          "type": "skill"
+        },
+        {
+          "name": "knowledge bases",
+          "type": "skill"
+        },
+        {
+          "name": "content platforms",
+          "type": "skill"
+        },
+        {
+          "name": "wiki-like systems",
+          "type": "skill"
+        },
+        {
+          "name": "AI-driven knowledge management tools",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4976264007,
+  "job_title": "Member of Technical Staff, Grokipedia - Synthetic Data & Epistemics",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4976264007"
+}

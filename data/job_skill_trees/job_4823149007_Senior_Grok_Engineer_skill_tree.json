@@ -1,0 +1,226 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "back-end interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "front-end interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "full stack development",
+              "type": "skill"
+            },
+            {
+              "name": "product architecture",
+              "type": "skill"
+            },
+            {
+              "name": "SDKs",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "prompt engineering",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning fundamentals",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "training",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "deploying machine learning models to production",
+          "type": "skill"
+        },
+        {
+          "name": "LLM-powered software",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "evals",
+          "type": "skill"
+        },
+        {
+          "name": "system prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "generating synthetic data",
+          "type": "skill"
+        },
+        {
+          "name": "human data generation",
+          "type": "skill"
+        },
+        {
+          "name": "analyze request logs",
+          "type": "skill"
+        },
+        {
+          "name": "prompt data",
+          "type": "skill"
+        },
+        {
+          "name": "massive datasets",
+          "type": "skill"
+        },
+        {
+          "name": "optimize performance",
+          "type": "skill"
+        },
+        {
+          "name": "scale systems",
+          "type": "skill"
+        },
+        {
+          "name": "high-throughput workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "building evals",
+          "type": "skill"
+        },
+        {
+          "name": "evaluating systems",
+          "type": "skill"
+        },
+        {
+          "name": "writing developer documentation",
+          "type": "skill"
+        },
+        {
+          "name": "creating and maintaining SDKs",
+          "type": "skill"
+        },
+        {
+          "name": "building internal tooling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Software Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Physics",
+          "type": "qualification"
+        },
+        {
+          "name": "Data Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "AI or machine learning product implementation with APIs, back-end, and front-end interfaces",
+          "type": "requirement"
+        },
+        {
+          "name": "prompt engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "full stack with product architecture",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4823149007,
+  "job_title": "Senior Grok Engineer",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4823149007"
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "TCP/IP",
+              "type": "skill"
+            },
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "RDMA",
+              "type": "skill"
+            },
+            {
+              "name": "IaC",
+              "type": "skill"
+            },
+            {
+              "name": "deployment pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "metrics coverage",
+              "type": "skill"
+            },
+            {
+              "name": "GPU supercomputing network fabrics",
+              "type": "skill"
+            },
+            {
+              "name": "network topologies",
+              "type": "skill"
+            },
+            {
+              "name": "network protocols",
+              "type": "skill"
+            },
+            {
+              "name": "zero-touch provisioning",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "auto-remediation",
+              "type": "skill"
+            },
+            {
+              "name": "scalable software design",
+              "type": "skill"
+            },
+            {
+              "name": "orchestrating network devices",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI training",
+          "type": "skill"
+        },
+        {
+          "name": "serving inference queries",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "IaC best practices",
+          "type": "skill"
+        },
+        {
+          "name": "automation-first solutions",
+          "type": "skill"
+        },
+        {
+          "name": "metric collection",
+          "type": "skill"
+        },
+        {
+          "name": "configuration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "network management",
+          "type": "skill"
+        },
+        {
+          "name": "production networks",
+          "type": "skill"
+        },
+        {
+          "name": "ancillary networks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing scalable and reliable software",
+          "type": "requirement"
+        },
+        {
+          "name": "building and orchestrating network devices",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4794531007,
+  "job_title": "Software Engineer - Networking Software and Services",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4794531007"
+}

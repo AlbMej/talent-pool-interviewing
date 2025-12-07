@@ -1,0 +1,149 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale distributed machine learning systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "multimodal understanding",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal generation",
+          "type": "skill"
+        },
+        {
+          "name": "neural networks",
+          "type": "skill"
+        },
+        {
+          "name": "model debugging",
+          "type": "skill"
+        },
+        {
+          "name": "model performance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data filtering techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data generation techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data study",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "internal benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven experiment designs",
+          "type": "skill"
+        },
+        {
+          "name": "systematic analysis",
+          "type": "skill"
+        },
+        {
+          "name": "iterative model debugging",
+          "type": "skill"
+        },
+        {
+          "name": "algorithm design",
+          "type": "skill"
+        },
+        {
+          "name": "algorithm implementation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "image",
+          "type": "skill"
+        },
+        {
+          "name": "video",
+          "type": "skill"
+        },
+        {
+          "name": "audio",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "leading engineering for neural networks",
+          "type": "requirement"
+        },
+        {
+          "name": "developing large-scale distributed machine learning systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4378347007,
+  "job_title": "Member of Technical Staff, Multimodal Understanding",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4378347007"
+}

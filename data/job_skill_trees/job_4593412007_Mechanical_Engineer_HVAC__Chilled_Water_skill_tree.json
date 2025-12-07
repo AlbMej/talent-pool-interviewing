@@ -1,0 +1,149 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "AutoCAD",
+              "type": "skill"
+            },
+            {
+              "name": "Revit",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HVAC systems",
+              "type": "skill"
+            },
+            {
+              "name": "chilled water systems",
+              "type": "skill"
+            },
+            {
+              "name": "chillers",
+              "type": "skill"
+            },
+            {
+              "name": "cooling towers",
+              "type": "skill"
+            },
+            {
+              "name": "pumps",
+              "type": "skill"
+            },
+            {
+              "name": "piping",
+              "type": "skill"
+            },
+            {
+              "name": "data center operations",
+              "type": "skill"
+            },
+            {
+              "name": "thermal management",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "feasibility studies",
+          "type": "skill"
+        },
+        {
+          "name": "system design",
+          "type": "skill"
+        },
+        {
+          "name": "system implementation",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "capacity management",
+          "type": "skill"
+        },
+        {
+          "name": "energy efficiency strategies",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "chilled water distribution",
+          "type": "skill"
+        },
+        {
+          "name": "data center infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Professional Engineer (PE) license",
+          "type": "certification"
+        },
+        {
+          "name": "ASHRAE certifications",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s Degree in Mechanical Engineering or related field",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's degree in Mechanical Engineering or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5-7 years in data center operations with focus on chilled water systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Expert knowledge of design and construction process for chilled water systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Expertise in HVAC systems particularly chilled water systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4593412007,
+  "job_title": "Mechanical Engineer (HVAC / Chilled Water)  ",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4593412007"
+}

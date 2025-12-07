@@ -1,0 +1,161 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Burp Suite",
+              "type": "skill"
+            },
+            {
+              "name": "OWASP ZAP",
+              "type": "skill"
+            },
+            {
+              "name": "SAST",
+              "type": "skill"
+            },
+            {
+              "name": "DAST",
+              "type": "skill"
+            },
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "SBOM management",
+              "type": "skill"
+            },
+            {
+              "name": "dependency scanning",
+              "type": "skill"
+            },
+            {
+              "name": "Grok",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable backend architectures",
+              "type": "skill"
+            },
+            {
+              "name": "containerized applications",
+              "type": "skill"
+            },
+            {
+              "name": "software supply chain tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI-driven security tools",
+          "type": "skill"
+        },
+        {
+          "name": "AI-driven security agents",
+          "type": "skill"
+        },
+        {
+          "name": "integrating AI into security workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "security testing",
+          "type": "skill"
+        },
+        {
+          "name": "deploying containerized applications",
+          "type": "skill"
+        },
+        {
+          "name": "securing containerized applications",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "platform security",
+          "type": "skill"
+        },
+        {
+          "name": "Kubernetes-based infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "cloud-native infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "secure AI-driven systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building tools from scratch",
+          "type": "requirement"
+        },
+        {
+          "name": "building systems from scratch",
+          "type": "requirement"
+        },
+        {
+          "name": "designing scalable backend architectures",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4835611007,
+  "job_title": "Member of Technical Staff,  X Platform Security",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4835611007"
+}

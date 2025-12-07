@@ -1,0 +1,149 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Chromebook",
+              "type": "skill"
+            },
+            {
+              "name": "Mac with macOS 11.0 or later",
+              "type": "skill"
+            },
+            {
+              "name": "Windows 10 or later",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotations",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data annotation workflows",
+          "type": "skill"
+        },
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data analysis",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "sell-side finance",
+          "type": "skill"
+        },
+        {
+          "name": "trading strategies",
+          "type": "skill"
+        },
+        {
+          "name": "trade execution",
+          "type": "skill"
+        },
+        {
+          "name": "investment banking transactions",
+          "type": "skill"
+        },
+        {
+          "name": "client sales",
+          "type": "skill"
+        },
+        {
+          "name": "regulatory compliance",
+          "type": "skill"
+        },
+        {
+          "name": "operational workflows",
+          "type": "skill"
+        },
+        {
+          "name": "risk assessment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Series 7",
+          "type": "certification"
+        },
+        {
+          "name": "Series 63",
+          "type": "certification"
+        },
+        {
+          "name": "CFA",
+          "type": "certification"
+        },
+        {
+          "name": "FRM",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in sell-side finance",
+          "type": "requirement"
+        },
+        {
+          "name": "data annotation experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4933187007,
+  "job_title": "AI Finance Tutor - Sell-Side",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4933187007"
+}

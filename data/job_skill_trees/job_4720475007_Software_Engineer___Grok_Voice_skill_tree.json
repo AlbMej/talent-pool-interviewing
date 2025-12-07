@@ -1,0 +1,70 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "low-latency systems",
+              "type": "skill"
+            },
+            {
+              "name": "WebSocket",
+              "type": "skill"
+            },
+            {
+              "name": "WebRTC",
+              "type": "skill"
+            },
+            {
+              "name": "audio processing pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "audio processing",
+          "type": "skill"
+        },
+        {
+          "name": "audio research",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building high performance audio processing pipelines",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4720475007,
+  "job_title": "Software Engineer - Grok Voice",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4720475007"
+}

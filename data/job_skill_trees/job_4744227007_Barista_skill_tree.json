@@ -1,0 +1,112 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Microsoft Office",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Outlook",
+              "type": "skill"
+            },
+            {
+              "name": "manual espresso machines",
+              "type": "skill"
+            },
+            {
+              "name": "drip coffee brewers",
+              "type": "skill"
+            },
+            {
+              "name": "coffee bean grinders",
+              "type": "skill"
+            },
+            {
+              "name": "frozen yogurt machines",
+              "type": "skill"
+            },
+            {
+              "name": "serving utensils",
+              "type": "skill"
+            },
+            {
+              "name": "drip coffee stations",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "food safety and sanitation practices",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "coffee and beverage services",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CA food handler card",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma or equivalency certificate",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of customer service experience in a food service environment that includes coffee and beverage services",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years of customer service related experience in a food service environment that includes coffee and beverage services",
+          "type": "requirement"
+        },
+        {
+          "name": "Manual espresso machine experience",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in a corporate environment",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4744227007,
+  "job_title": "Barista",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4744227007"
+}

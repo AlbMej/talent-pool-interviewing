@@ -1,0 +1,331 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Golang",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Envoy",
+              "type": "skill"
+            },
+            {
+              "name": "NGINX",
+              "type": "skill"
+            },
+            {
+              "name": "HAProxy",
+              "type": "skill"
+            },
+            {
+              "name": "Istio",
+              "type": "skill"
+            },
+            {
+              "name": "Linkerd",
+              "type": "skill"
+            },
+            {
+              "name": "gRPC",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Calico",
+              "type": "skill"
+            },
+            {
+              "name": "Cilium",
+              "type": "skill"
+            },
+            {
+              "name": "Flannel",
+              "type": "skill"
+            },
+            {
+              "name": "CoreDNS",
+              "type": "skill"
+            },
+            {
+              "name": "Unbound",
+              "type": "skill"
+            },
+            {
+              "name": "iptables",
+              "type": "skill"
+            },
+            {
+              "name": "nftables",
+              "type": "skill"
+            },
+            {
+              "name": "IPVS",
+              "type": "skill"
+            },
+            {
+              "name": "eBPF",
+              "type": "skill"
+            },
+            {
+              "name": "xDS",
+              "type": "skill"
+            },
+            {
+              "name": "DNS",
+              "type": "skill"
+            },
+            {
+              "name": "grpcio",
+              "type": "skill"
+            },
+            {
+              "name": "grpc-go",
+              "type": "skill"
+            },
+            {
+              "name": "grpc-java",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "Cloudflare Workers",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "L4/L7 proxies",
+              "type": "skill"
+            },
+            {
+              "name": "service discovery",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes CNI plugins",
+              "type": "skill"
+            },
+            {
+              "name": "IPAM",
+              "type": "skill"
+            },
+            {
+              "name": "VPC Route Tables",
+              "type": "skill"
+            },
+            {
+              "name": "Cloud NAT",
+              "type": "skill"
+            },
+            {
+              "name": "Peering / Transit Gateways",
+              "type": "skill"
+            },
+            {
+              "name": "CDN",
+              "type": "skill"
+            },
+            {
+              "name": "host networking",
+              "type": "skill"
+            },
+            {
+              "name": "gRPC channel management",
+              "type": "skill"
+            },
+            {
+              "name": "egress proxies",
+              "type": "skill"
+            },
+            {
+              "name": "VPC routing",
+              "type": "skill"
+            },
+            {
+              "name": "PNI",
+              "type": "skill"
+            },
+            {
+              "name": "edge caching",
+              "type": "skill"
+            },
+            {
+              "name": "L4 loadbalancing",
+              "type": "skill"
+            },
+            {
+              "name": "k8s networking",
+              "type": "skill"
+            },
+            {
+              "name": "L7 routing",
+              "type": "skill"
+            },
+            {
+              "name": "TLS",
+              "type": "skill"
+            },
+            {
+              "name": "TCP/IP",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "production inference engines",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale training runs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "load balancing",
+          "type": "skill"
+        },
+        {
+          "name": "routing",
+          "type": "skill"
+        },
+        {
+          "name": "overload control",
+          "type": "skill"
+        },
+        {
+          "name": "authentication / authorization",
+          "type": "skill"
+        },
+        {
+          "name": "encryption in transit",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Kubernetes clusters",
+          "type": "skill"
+        },
+        {
+          "name": "on-premise clusters",
+          "type": "skill"
+        },
+        {
+          "name": "cloud-based clusters",
+          "type": "skill"
+        },
+        {
+          "name": "service mesh",
+          "type": "skill"
+        },
+        {
+          "name": "AI infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years operating Kubernetes clusters",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years configuring and deploying Envoy, NGINX, HAProxy",
+          "type": "requirement"
+        },
+        {
+          "name": "1+ years deploying and configuring Kubernetes CNI plugins or IPAM",
+          "type": "requirement"
+        },
+        {
+          "name": "1+ years with DNS systems or service discovery control planes",
+          "type": "requirement"
+        },
+        {
+          "name": "1+ years with cloud networking primitives",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with host level network proxies",
+          "type": "requirement"
+        },
+        {
+          "name": "deep experience with gRPC Client libraries",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with service mesh",
+          "type": "requirement"
+        },
+        {
+          "name": "demonstrated experience in Kubernetes and Envoy internals",
+          "type": "requirement"
+        },
+        {
+          "name": "demonstrated experience debugging L3 to L7 issues",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4832223007,
+  "job_title": "Infrastructure Engineering - Traffic",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4832223007"
+}

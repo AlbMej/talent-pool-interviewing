@@ -1,0 +1,222 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "eBPF",
+              "type": "skill"
+            },
+            {
+              "name": "blktrace",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "NVMe",
+              "type": "skill"
+            },
+            {
+              "name": "PCIe",
+              "type": "skill"
+            },
+            {
+              "name": "RDMA",
+              "type": "skill"
+            },
+            {
+              "name": "RoCE",
+              "type": "skill"
+            },
+            {
+              "name": "Lustre",
+              "type": "skill"
+            },
+            {
+              "name": "GPFS",
+              "type": "skill"
+            },
+            {
+              "name": "Weka",
+              "type": "skill"
+            },
+            {
+              "name": "Linux storage stacks",
+              "type": "skill"
+            },
+            {
+              "name": "kernel tuning",
+              "type": "skill"
+            },
+            {
+              "name": "firmware",
+              "type": "skill"
+            },
+            {
+              "name": "BMC logs",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI training I/O patterns",
+          "type": "skill"
+        },
+        {
+          "name": "checkpointing",
+          "type": "skill"
+        },
+        {
+          "name": "dataset streaming",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "root cause analysis",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "post-mortems",
+          "type": "skill"
+        },
+        {
+          "name": "capacity forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "zero-downtime upgrades",
+          "type": "skill"
+        },
+        {
+          "name": "hardware refreshes",
+          "type": "skill"
+        },
+        {
+          "name": "migration",
+          "type": "skill"
+        },
+        {
+          "name": "decommissioning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "storage operations",
+          "type": "skill"
+        },
+        {
+          "name": "exabyte-scale storage clusters",
+          "type": "skill"
+        },
+        {
+          "name": "high-density GPU environments",
+          "type": "skill"
+        },
+        {
+          "name": "data center environments",
+          "type": "skill"
+        },
+        {
+          "name": "parallel filesystems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Computer Science, Engineering, or a related technical field (or equivalent experience)",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in site reliability engineering, systems engineering, or storage operations at multi-PB+ scale",
+          "type": "requirement"
+        },
+        {
+          "name": "Hands-on experience with storage systems from vendors like VAST, DDN, Dell",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with parallel filesystems such as Lustre, GPFS, Weka",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with Linux storage stacks including kernel tuning, eBPF, blktrace, NVMe/RDMA/RoCE",
+          "type": "requirement"
+        },
+        {
+          "name": "Proficiency in scripting for automation (Python/Bash)",
+          "type": "requirement"
+        },
+        {
+          "name": "Troubleshooting skills across storage hardware including harddrives, SSDs, NVME drives, drive enclosures, software and firmware",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with incident response including on-call rotations, rapid resolution, root cause analysis, and preventative measures",
+          "type": "requirement"
+        },
+        {
+          "name": "Basic hardware knowledge for storage bring-up and debugging in data center environments",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4972368007,
+  "job_title": "Site Reliability Engineer - Storage",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4972368007"
+}

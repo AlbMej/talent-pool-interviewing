@@ -1,0 +1,101 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI alignment",
+          "type": "skill"
+        },
+        {
+          "name": "deceptive behavior reduction",
+          "type": "skill"
+        },
+        {
+          "name": "sycophantic behavior reduction",
+          "type": "skill"
+        },
+        {
+          "name": "power-seeking behavior reduction",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning training",
+          "type": "skill"
+        },
+        {
+          "name": "agentic propensities assessment",
+          "type": "skill"
+        },
+        {
+          "name": "agentic capabilities assessment",
+          "type": "skill"
+        },
+        {
+          "name": "LLM",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "behavior quantification",
+          "type": "skill"
+        },
+        {
+          "name": "training recipes",
+          "type": "skill"
+        },
+        {
+          "name": "benchmark development",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "frontier AI systems",
+          "type": "skill"
+        },
+        {
+          "name": "model development",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "alignment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "software engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "data analysis",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4855263007,
+  "job_title": "Member of Technical Staff, Reasoning (Alignment)",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4855263007"
+}

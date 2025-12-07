@@ -1,0 +1,169 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "CAD software",
+              "type": "skill"
+            },
+            {
+              "name": "Bluebeam software",
+              "type": "skill"
+            },
+            {
+              "name": "Genetec software",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CCTV",
+              "type": "skill"
+            },
+            {
+              "name": "access control",
+              "type": "skill"
+            },
+            {
+              "name": "intrusion detection systems",
+              "type": "skill"
+            },
+            {
+              "name": "alarm systems",
+              "type": "skill"
+            },
+            {
+              "name": "security network infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "hardware troubleshooting",
+              "type": "skill"
+            },
+            {
+              "name": "system diagnostics",
+              "type": "skill"
+            },
+            {
+              "name": "security and network architecture",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "physical security systems design",
+          "type": "skill"
+        },
+        {
+          "name": "system optimization",
+          "type": "skill"
+        },
+        {
+          "name": "preventive maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "security audits",
+          "type": "skill"
+        },
+        {
+          "name": "project schedules",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "physical security systems",
+          "type": "skill"
+        },
+        {
+          "name": "integrated security systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPP",
+          "type": "certification"
+        },
+        {
+          "name": "PSP",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor’s degree in Computer Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5 years in physical security systems design",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with CCTV",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with access control",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with intrusion detection systems",
+          "type": "requirement"
+        },
+        {
+          "name": "experience using CAD software",
+          "type": "requirement"
+        },
+        {
+          "name": "experience reading architectural drawings",
+          "type": "requirement"
+        },
+        {
+          "name": "experience using Bluebeam software",
+          "type": "requirement"
+        },
+        {
+          "name": "experience configuring security and network architecture",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4639658007,
+  "job_title": "Physical Security Systems Engineer",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4639658007"
+}

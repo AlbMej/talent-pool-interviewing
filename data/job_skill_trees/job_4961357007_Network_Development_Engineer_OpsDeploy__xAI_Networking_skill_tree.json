@@ -1,0 +1,210 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "OSPF",
+              "type": "skill"
+            },
+            {
+              "name": "ZTP",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable network architectures",
+              "type": "skill"
+            },
+            {
+              "name": "AI/HPC workloads",
+              "type": "skill"
+            },
+            {
+              "name": "inter-DC network fabrics",
+              "type": "skill"
+            },
+            {
+              "name": "Backbone network fabrics",
+              "type": "skill"
+            },
+            {
+              "name": "network operations",
+              "type": "skill"
+            },
+            {
+              "name": "network deployment",
+              "type": "skill"
+            },
+            {
+              "name": "network monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "data center buildouts",
+              "type": "skill"
+            },
+            {
+              "name": "backbone buildouts",
+              "type": "skill"
+            },
+            {
+              "name": "performance metrics analysis",
+              "type": "skill"
+            },
+            {
+              "name": "hyper scale networks",
+              "type": "skill"
+            },
+            {
+              "name": "GPU clusters",
+              "type": "skill"
+            },
+            {
+              "name": "RoCEv2",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/HPC workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "automating tasks",
+          "type": "skill"
+        },
+        {
+          "name": "acquiring metrics",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing large data sets",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "on-call rotations",
+          "type": "skill"
+        },
+        {
+          "name": "automating deployment process",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "network engineering",
+          "type": "skill"
+        },
+        {
+          "name": "Data Center networks",
+          "type": "skill"
+        },
+        {
+          "name": "Backbone networks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "related field or equivalent experience",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3 years in deploying or operating hyper scale networks",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with networking protocols",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with Python scripting",
+          "type": "requirement"
+        },
+        {
+          "name": "automating tasks",
+          "type": "requirement"
+        },
+        {
+          "name": "acquiring metrics",
+          "type": "requirement"
+        },
+        {
+          "name": "analyzing large data sets",
+          "type": "requirement"
+        },
+        {
+          "name": "designing hyper scale network infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "large-scale GPU clusters",
+          "type": "requirement"
+        },
+        {
+          "name": "automating deployment process",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4961357007,
+  "job_title": "Network Development Engineer (Ops&Deploy) -xAI Networking",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4961357007"
+}

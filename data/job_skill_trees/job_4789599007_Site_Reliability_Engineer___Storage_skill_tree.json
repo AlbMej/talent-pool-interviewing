@@ -1,0 +1,137 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "exascale storage systems",
+              "type": "skill"
+            },
+            {
+              "name": "distributed filesystems",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes storage primitives",
+              "type": "skill"
+            },
+            {
+              "name": "Persistent Volumes",
+              "type": "skill"
+            },
+            {
+              "name": "CSI drivers",
+              "type": "skill"
+            },
+            {
+              "name": "containerized workloads",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "handling large datasets for training and inference",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Infrastructure as Code",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "exascale data management",
+          "type": "skill"
+        },
+        {
+          "name": "storage infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "writing scalable high-performance code for storage-related applications",
+          "type": "requirement"
+        },
+        {
+          "name": "managing storage infrastructure with IaC tools",
+          "type": "requirement"
+        },
+        {
+          "name": "integrating storage vendor tooling",
+          "type": "requirement"
+        },
+        {
+          "name": "integrating storage with containerized workloads",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4789599007,
+  "job_title": "Site Reliability Engineer - Storage ",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4789599007"
+}

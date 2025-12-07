@@ -1,0 +1,181 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale distributed machine learning systems",
+              "type": "skill"
+            },
+            {
+              "name": "graphics engines",
+              "type": "skill"
+            },
+            {
+              "name": "rendering techniques",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "neural networks",
+          "type": "skill"
+        },
+        {
+          "name": "model debugging",
+          "type": "skill"
+        },
+        {
+          "name": "model performance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data filtering techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data generation techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data study",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven experiment designs",
+          "type": "skill"
+        },
+        {
+          "name": "systematic analysis",
+          "type": "skill"
+        },
+        {
+          "name": "iterative model debugging",
+          "type": "skill"
+        },
+        {
+          "name": "algorithm design",
+          "type": "skill"
+        },
+        {
+          "name": "algorithm implementation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "pretraining",
+          "type": "skill"
+        },
+        {
+          "name": "posttraining",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "image generation",
+          "type": "skill"
+        },
+        {
+          "name": "video generation",
+          "type": "skill"
+        },
+        {
+          "name": "image editing",
+          "type": "skill"
+        },
+        {
+          "name": "video editing",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "leading studies for neural networks",
+          "type": "requirement"
+        },
+        {
+          "name": "data-driven experiment designs",
+          "type": "requirement"
+        },
+        {
+          "name": "systematic analysis for model debugging",
+          "type": "requirement"
+        },
+        {
+          "name": "developing large-scale distributed machine learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "working with large-scale distributed machine learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "graphics engines",
+          "type": "requirement"
+        },
+        {
+          "name": "rendering techniques",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4720660007,
+  "job_title": "Member of Technical Staff, Video Generation",
+  "location": "Palo Alto, CA; San Francisco, CA; Seattle, WA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4720660007"
+}

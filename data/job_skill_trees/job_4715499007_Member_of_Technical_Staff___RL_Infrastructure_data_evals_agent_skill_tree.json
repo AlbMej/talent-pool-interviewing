@@ -1,0 +1,270 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Typescript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "CI/CD",
+              "type": "skill"
+            },
+            {
+              "name": "unit tests",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "sandboxes",
+              "type": "skill"
+            },
+            {
+              "name": "virtual machines",
+              "type": "skill"
+            },
+            {
+              "name": "simulations",
+              "type": "skill"
+            },
+            {
+              "name": "full-stack apps",
+              "type": "skill"
+            },
+            {
+              "name": "data visualization",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "AI agents",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "agent frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "data frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "eval frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "training frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "large scale RL jobs",
+          "type": "skill"
+        },
+        {
+          "name": "large scale RL training",
+          "type": "skill"
+        },
+        {
+          "name": "agentic model",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation dataset onboarding",
+          "type": "skill"
+        },
+        {
+          "name": "data preprocessing",
+          "type": "skill"
+        },
+        {
+          "name": "data augmentation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "automation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "workflow automation",
+          "type": "skill"
+        },
+        {
+          "name": "alerts",
+          "type": "skill"
+        },
+        {
+          "name": "metrics",
+          "type": "skill"
+        },
+        {
+          "name": "error handling",
+          "type": "skill"
+        },
+        {
+          "name": "refactoring for modularity",
+          "type": "skill"
+        },
+        {
+          "name": "operation procedures",
+          "type": "skill"
+        },
+        {
+          "name": "coding standards",
+          "type": "skill"
+        },
+        {
+          "name": "test automation",
+          "type": "skill"
+        },
+        {
+          "name": "rapid development cycles",
+          "type": "skill"
+        },
+        {
+          "name": "rapid iteration research to production",
+          "type": "skill"
+        },
+        {
+          "name": "preprocessing pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "data augmentation pipeline",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "RL infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "agent environments",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "data evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building and maintaining frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "building high-performance sandboxes",
+          "type": "requirement"
+        },
+        {
+          "name": "building virtual machines",
+          "type": "requirement"
+        },
+        {
+          "name": "building simulations",
+          "type": "requirement"
+        },
+        {
+          "name": "building full-stack apps",
+          "type": "requirement"
+        },
+        {
+          "name": "automating workflows",
+          "type": "requirement"
+        },
+        {
+          "name": "data visualization",
+          "type": "requirement"
+        },
+        {
+          "name": "test automation",
+          "type": "requirement"
+        },
+        {
+          "name": "CI/CD",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4715499007,
+  "job_title": "Member of Technical Staff - RL Infrastructure [data, evals, agent]",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4715499007"
+}

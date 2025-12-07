@@ -1,0 +1,151 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Ansible",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "firmware packages",
+              "type": "skill"
+            },
+            {
+              "name": "hardware integration",
+              "type": "skill"
+            },
+            {
+              "name": "CI/CD pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "high-performance computing",
+          "type": "skill"
+        },
+        {
+          "name": "AI infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "scripting for firmware upgrades",
+          "type": "skill"
+        },
+        {
+          "name": "automation of deployment processes",
+          "type": "skill"
+        },
+        {
+          "name": "orchestration",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "datacenter automation",
+          "type": "skill"
+        },
+        {
+          "name": "supercomputing clusters",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science, Engineering, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years in site reliability engineering or automation roles",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with firmware packages",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with hardware from NVIDIA, Dell, Supermicro, HP",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4974628007,
+  "job_title": "Site Reliability Engineer - Automation",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4974628007"
+}

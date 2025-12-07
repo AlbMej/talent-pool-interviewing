@@ -1,0 +1,202 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Spark",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Vector databases",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "scalable systems",
+              "type": "skill"
+            },
+            {
+              "name": "high-performance systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLMs",
+          "type": "skill"
+        },
+        {
+          "name": "agents",
+          "type": "skill"
+        },
+        {
+          "name": "embedding models",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "retrieval tasks",
+          "type": "skill"
+        },
+        {
+          "name": "knowledge-intensive tasks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "search indexing",
+          "type": "skill"
+        },
+        {
+          "name": "information retrieval",
+          "type": "skill"
+        },
+        {
+          "name": "search ranking",
+          "type": "skill"
+        },
+        {
+          "name": "hybrid search",
+          "type": "skill"
+        },
+        {
+          "name": "structured search",
+          "type": "skill"
+        },
+        {
+          "name": "semantic search",
+          "type": "skill"
+        },
+        {
+          "name": "dataset management",
+          "type": "skill"
+        },
+        {
+          "name": "dataset curation",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing latency",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing throughput",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "web-scale search engines",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal search",
+          "type": "skill"
+        },
+        {
+          "name": "real-time search",
+          "type": "skill"
+        },
+        {
+          "name": "trillion-document scale",
+          "type": "skill"
+        },
+        {
+          "name": "LLM agent consumption",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building web-scale search engines",
+          "type": "requirement"
+        },
+        {
+          "name": "working with LLMs",
+          "type": "requirement"
+        },
+        {
+          "name": "working with agents",
+          "type": "requirement"
+        },
+        {
+          "name": "working with embedding models",
+          "type": "requirement"
+        },
+        {
+          "name": "fine-tuning for retrieval tasks",
+          "type": "requirement"
+        },
+        {
+          "name": "managing large datasets",
+          "type": "requirement"
+        },
+        {
+          "name": "curating datasets",
+          "type": "requirement"
+        },
+        {
+          "name": "building scalable distributed systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4914222007,
+  "job_title": "Member of Technical Staff, Search and Retrieval",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4914222007"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale reinforcement learning systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "inference-time reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "tree search",
+          "type": "skill"
+        },
+        {
+          "name": "planning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "distributed RL systems",
+          "type": "skill"
+        },
+        {
+          "name": "framework optimization",
+          "type": "skill"
+        },
+        {
+          "name": "environment development for agents",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "reasoning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "large-scale reinforcement learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "designing distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "implementing distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "RL algorithms",
+          "type": "requirement"
+        },
+        {
+          "name": "inference time compute algorithms",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4528851007,
+  "job_title": "Member of Technical Staff - Reasoning",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4528851007"
+}

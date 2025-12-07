@@ -1,0 +1,202 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Puppet",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "GitHub Actions",
+              "type": "skill"
+            },
+            {
+              "name": "Prometheus",
+              "type": "skill"
+            },
+            {
+              "name": "Grafana",
+              "type": "skill"
+            },
+            {
+              "name": "CloudWatch",
+              "type": "skill"
+            },
+            {
+              "name": "Karma",
+              "type": "skill"
+            },
+            {
+              "name": "Wazuh",
+              "type": "skill"
+            },
+            {
+              "name": "Semgrep",
+              "type": "skill"
+            },
+            {
+              "name": "Trivy",
+              "type": "skill"
+            },
+            {
+              "name": "Falco",
+              "type": "skill"
+            },
+            {
+              "name": "SIEM",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "security platforms",
+              "type": "skill"
+            },
+            {
+              "name": "hybrid cloud environment",
+              "type": "skill"
+            },
+            {
+              "name": "IAM",
+              "type": "skill"
+            },
+            {
+              "name": "data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "container security",
+              "type": "skill"
+            },
+            {
+              "name": "CI/CD pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "code scanning platforms",
+              "type": "skill"
+            },
+            {
+              "name": "security metrics dashboards",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "Kubernetes security best practices",
+          "type": "skill"
+        },
+        {
+          "name": "secure container standards",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "cybersecurity",
+          "type": "skill"
+        },
+        {
+          "name": "banking",
+          "type": "skill"
+        },
+        {
+          "name": "money transmission",
+          "type": "skill"
+        },
+        {
+          "name": "P2P payments",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "securing hybrid AWS/on-premises environments",
+          "type": "requirement"
+        },
+        {
+          "name": "Kubernetes and container security",
+          "type": "requirement"
+        },
+        {
+          "name": "building GitHub Actions and workflows",
+          "type": "requirement"
+        },
+        {
+          "name": "Prometheus, Grafana, CloudWatch, and Karma",
+          "type": "requirement"
+        },
+        {
+          "name": "management and integrations of Wazuh",
+          "type": "requirement"
+        },
+        {
+          "name": "security scanning tools",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4803447007,
+  "job_title": "Site Reliability Engineer - Cybersecurity",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4803447007"
+}

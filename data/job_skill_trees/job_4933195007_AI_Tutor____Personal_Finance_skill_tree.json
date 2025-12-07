@@ -1,0 +1,133 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Chromebook",
+              "type": "skill"
+            },
+            {
+              "name": "Mac with macOS 11.0 or later",
+              "type": "skill"
+            },
+            {
+              "name": "Windows 10 or later",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tools design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "retail investing strategies",
+          "type": "skill"
+        },
+        {
+          "name": "personal budgeting",
+          "type": "skill"
+        },
+        {
+          "name": "financial planning",
+          "type": "skill"
+        },
+        {
+          "name": "personal tax preparation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CFP",
+          "type": "certification"
+        },
+        {
+          "name": "CFA",
+          "type": "certification"
+        },
+        {
+          "name": "Enrolled Agent",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in personal finance",
+          "type": "requirement"
+        },
+        {
+          "name": "retail investing",
+          "type": "requirement"
+        },
+        {
+          "name": "personal financial planning",
+          "type": "requirement"
+        },
+        {
+          "name": "personal tax preparation",
+          "type": "requirement"
+        },
+        {
+          "name": "financial advisory roles",
+          "type": "requirement"
+        },
+        {
+          "name": "data annotation workflows",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4933195007,
+  "job_title": "AI Tutor -  Personal Finance",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4933195007"
+}

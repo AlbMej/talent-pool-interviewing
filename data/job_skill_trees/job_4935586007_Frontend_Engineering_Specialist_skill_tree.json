@@ -1,0 +1,318 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "JavaScript",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            },
+            {
+              "name": "CSS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "Redux",
+              "type": "skill"
+            },
+            {
+              "name": "Zustand",
+              "type": "skill"
+            },
+            {
+              "name": "Recoil",
+              "type": "skill"
+            },
+            {
+              "name": "Vue",
+              "type": "skill"
+            },
+            {
+              "name": "Angular",
+              "type": "skill"
+            },
+            {
+              "name": "Tailwind CSS",
+              "type": "skill"
+            },
+            {
+              "name": "Jest",
+              "type": "skill"
+            },
+            {
+              "name": "Vitest",
+              "type": "skill"
+            },
+            {
+              "name": "React Testing Library",
+              "type": "skill"
+            },
+            {
+              "name": "Playwright",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "browser DevTools",
+              "type": "skill"
+            },
+            {
+              "name": "performance monitoring tools",
+              "type": "skill"
+            },
+            {
+              "name": "Docker",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "responsive design",
+              "type": "skill"
+            },
+            {
+              "name": "UI interactions",
+              "type": "skill"
+            },
+            {
+              "name": "animations",
+              "type": "skill"
+            },
+            {
+              "name": "performance optimization",
+              "type": "skill"
+            },
+            {
+              "name": "lazy loading",
+              "type": "skill"
+            },
+            {
+              "name": "code splitting",
+              "type": "skill"
+            },
+            {
+              "name": "caching strategies",
+              "type": "skill"
+            },
+            {
+              "name": "asset optimization",
+              "type": "skill"
+            },
+            {
+              "name": "accessibility standards",
+              "type": "skill"
+            },
+            {
+              "name": "WCAG 2.1",
+              "type": "skill"
+            },
+            {
+              "name": "ARIA roles",
+              "type": "skill"
+            },
+            {
+              "name": "semantic HTML",
+              "type": "skill"
+            },
+            {
+              "name": "keyboard navigation",
+              "type": "skill"
+            },
+            {
+              "name": "SEO best practices",
+              "type": "skill"
+            },
+            {
+              "name": "REST APIs",
+              "type": "skill"
+            },
+            {
+              "name": "GraphQL APIs",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            },
+            {
+              "name": "analytics integration",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "front-end security",
+              "type": "skill"
+            },
+            {
+              "name": "Node.js",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "authentication",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "code refinement",
+          "type": "skill"
+        },
+        {
+          "name": "code evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "testing frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "front-end development",
+          "type": "skill"
+        },
+        {
+          "name": "enterprise-level AI-driven coding solutions",
+          "type": "skill"
+        },
+        {
+          "name": "human interactions",
+          "type": "skill"
+        },
+        {
+          "name": "problem-solving approaches",
+          "type": "skill"
+        },
+        {
+          "name": "text formats",
+          "type": "skill"
+        },
+        {
+          "name": "voice formats",
+          "type": "skill"
+        },
+        {
+          "name": "video formats",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of professional front-end development experience building responsive, user-facing web applications",
+          "type": "requirement"
+        },
+        {
+          "name": "experience implementing accessibility standards",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with testing frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "experience integrating analytics, monitoring and front-end security best practices",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with containerization technologies",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4935586007,
+  "job_title": "Frontend Engineering Specialist",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4935586007"
+}

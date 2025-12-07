@@ -1,0 +1,53 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "access control systems",
+              "type": "skill"
+            },
+            {
+              "name": "visitor management systems",
+              "type": "skill"
+            },
+            {
+              "name": "fire alarm systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma or equivalency certificate",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of experience as a Security Officer",
+          "type": "requirement"
+        },
+        {
+          "name": "Familiarity with operating access control and visitor management systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4746093007,
+  "job_title": "Front Desk Ambassador",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4746093007"
+}

@@ -1,0 +1,203 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Golang",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "C#",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            },
+            {
+              "name": "Linux shell scripting",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Grafana",
+              "type": "skill"
+            },
+            {
+              "name": "Prometheus",
+              "type": "skill"
+            },
+            {
+              "name": "InfluxDB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "InfluxDB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "JSON",
+              "type": "skill"
+            },
+            {
+              "name": "API interactions",
+              "type": "skill"
+            },
+            {
+              "name": "CI/CD pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring systems",
+              "type": "skill"
+            },
+            {
+              "name": "dashboards",
+              "type": "skill"
+            },
+            {
+              "name": "automation scripts",
+              "type": "skill"
+            },
+            {
+              "name": "version control",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "preventive maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "performance tuning",
+          "type": "skill"
+        },
+        {
+          "name": "root cause investigations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "datacenter monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "cloud environments",
+          "type": "skill"
+        },
+        {
+          "name": "high-performance computing monitoring",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of experience in site reliability engineering or monitoring roles in datacenter or cloud environments",
+          "type": "requirement"
+        },
+        {
+          "name": "Proficiency in at least two programming languages: Java, Golang, Python, C/C++/C#",
+          "type": "requirement"
+        },
+        {
+          "name": "Hands-on experience with JSON for data parsing, integration, and API interactions",
+          "type": "requirement"
+        },
+        {
+          "name": "Expert-level knowledge of Grafana for creating complex dashboards, queries, and integrations with Prometheus or InfluxDB",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience developing dashboards for health and monitoring views",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience managing monitoring tools and dashboards including optimization, alerting, and integration into CI/CD pipelines",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4972366007,
+  "job_title": "Site Reliability Engineer - Monitoring",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4972366007"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "C/C++",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "CUDA",
+              "type": "skill"
+            },
+            {
+              "name": "CUTLASS",
+              "type": "skill"
+            },
+            {
+              "name": "CuTe",
+              "type": "skill"
+            },
+            {
+              "name": "pybind",
+              "type": "skill"
+            },
+            {
+              "name": "JAX",
+              "type": "skill"
+            },
+            {
+              "name": "XLA",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Nsight",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Tensor cores",
+              "type": "skill"
+            },
+            {
+              "name": "CUDA cores",
+              "type": "skill"
+            },
+            {
+              "name": "attention kernel",
+              "type": "skill"
+            },
+            {
+              "name": "forward kernels",
+              "type": "skill"
+            },
+            {
+              "name": "backward kernels",
+              "type": "skill"
+            },
+            {
+              "name": "floating point errors",
+              "type": "skill"
+            },
+            {
+              "name": "memory-bound operations",
+              "type": "skill"
+            },
+            {
+              "name": "compute-bound operations",
+              "type": "skill"
+            },
+            {
+              "name": "register pressure",
+              "type": "skill"
+            },
+            {
+              "name": "shared-memory usage",
+              "type": "skill"
+            },
+            {
+              "name": "GPU utilization",
+              "type": "skill"
+            },
+            {
+              "name": "GPU memory hierarchy",
+              "type": "skill"
+            },
+            {
+              "name": "computation capabilities",
+              "type": "skill"
+            },
+            {
+              "name": "multi-GPU operations",
+              "type": "skill"
+            },
+            {
+              "name": "GeMM CUDA kernels",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "inference",
+          "type": "skill"
+        },
+        {
+          "name": "training",
+          "type": "skill"
+        },
+        {
+          "name": "deep learning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "low-level CUDA kernel optimizations",
+          "type": "skill"
+        },
+        {
+          "name": "profiling",
+          "type": "skill"
+        },
+        {
+          "name": "debugging",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing single and multi-GPU operations",
+          "type": "skill"
+        },
+        {
+          "name": "implementing deep learning methods in CUDA kernels",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "inference and training software stack",
+          "type": "skill"
+        },
+        {
+          "name": "GPU kernel development",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Building high-performance GeMM CUDA kernels using Tensor cores or CUDA cores",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing features for attention kernel",
+          "type": "requirement"
+        },
+        {
+          "name": "Writing forward and backward kernels",
+          "type": "requirement"
+        },
+        {
+          "name": "Optimizing for memory-bound and compute-bound operations",
+          "type": "requirement"
+        },
+        {
+          "name": "Reasoning about register pressure, shared-memory usage and GPU utilization",
+          "type": "requirement"
+        },
+        {
+          "name": "Optimizing inference and training workloads",
+          "type": "requirement"
+        },
+        {
+          "name": "Using pybind to integrate custom-written kernels into JAX/XLA",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4427873007,
+  "job_title": "Member of Technical Staff, CUDA/GPU Kernel",
+  "location": "Palo Alto, CA; San Francisco, CA; Seattle, WA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4427873007"
+}

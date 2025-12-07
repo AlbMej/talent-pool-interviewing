@@ -1,0 +1,145 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            },
+            {
+              "name": "PyTorch",
+              "type": "skill"
+            },
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Ray",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed training systems",
+              "type": "skill"
+            },
+            {
+              "name": "GPU utilization",
+              "type": "skill"
+            },
+            {
+              "name": "multimodal data management",
+              "type": "skill"
+            },
+            {
+              "name": "data crawling",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale data processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "multimodal model training",
+          "type": "skill"
+        },
+        {
+          "name": "inference",
+          "type": "skill"
+        },
+        {
+          "name": "model serving optimization",
+          "type": "skill"
+        },
+        {
+          "name": "Hardware/Software/Algorithm co-design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "profiling",
+          "type": "skill"
+        },
+        {
+          "name": "debugging",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing GPU utilization",
+          "type": "skill"
+        },
+        {
+          "name": "preparing multimodal training data",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "image",
+          "type": "skill"
+        },
+        {
+          "name": "video",
+          "type": "skill"
+        },
+        {
+          "name": "audio",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "worked on modalities other than text",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4802068007,
+  "job_title": "Hardcore Engineer - Multimodal Infrastructure",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4802068007"
+}

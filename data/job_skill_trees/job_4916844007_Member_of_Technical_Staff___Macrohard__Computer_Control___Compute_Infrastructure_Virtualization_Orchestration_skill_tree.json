@@ -1,0 +1,169 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "C/C++",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "KVM",
+              "type": "skill"
+            },
+            {
+              "name": "Xen",
+              "type": "skill"
+            },
+            {
+              "name": "QEMU",
+              "type": "skill"
+            },
+            {
+              "name": "Kata",
+              "type": "skill"
+            },
+            {
+              "name": "Firecracker",
+              "type": "skill"
+            },
+            {
+              "name": "gVisor",
+              "type": "skill"
+            },
+            {
+              "name": "Sysbox",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "virtualization",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            },
+            {
+              "name": "container orchestration",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Linux kernel development",
+              "type": "skill"
+            },
+            {
+              "name": "system programming",
+              "type": "skill"
+            },
+            {
+              "name": "low-level software engineering",
+              "type": "skill"
+            },
+            {
+              "name": "Linux resource management",
+              "type": "skill"
+            },
+            {
+              "name": "scheduling",
+              "type": "skill"
+            },
+            {
+              "name": "memory management",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLM agents",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "cluster management",
+          "type": "skill"
+        },
+        {
+          "name": "performance profiling",
+          "type": "skill"
+        },
+        {
+          "name": "debugging system-level issues",
+          "type": "skill"
+        },
+        {
+          "name": "cluster optimization for large scale training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "compute infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "virtualization",
+          "type": "skill"
+        },
+        {
+          "name": "orchestration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "industrial experience in Linux kernel development",
+          "type": "requirement"
+        },
+        {
+          "name": "industrial experience in system programming",
+          "type": "requirement"
+        },
+        {
+          "name": "industrial experience in low-level software engineering",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4916844007,
+  "job_title": "Member of Technical Staff - Macrohard / Computer Control - Compute Infrastructure (Virtualization, Orchestration)",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4916844007"
+}

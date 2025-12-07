@@ -1,0 +1,177 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Ansible",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "OCI",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "MPLS",
+              "type": "skill"
+            },
+            {
+              "name": "RSVP-TE",
+              "type": "skill"
+            },
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "IS-IS",
+              "type": "skill"
+            },
+            {
+              "name": "traffic engineering",
+              "type": "skill"
+            },
+            {
+              "name": "backbone infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "cloud VPCs",
+              "type": "skill"
+            },
+            {
+              "name": "network hardware",
+              "type": "skill"
+            },
+            {
+              "name": "Juniper hardware",
+              "type": "skill"
+            },
+            {
+              "name": "Cisco hardware",
+              "type": "skill"
+            },
+            {
+              "name": "Arista hardware",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "automation of deployments",
+          "type": "skill"
+        },
+        {
+          "name": "break/fix tasks",
+          "type": "skill"
+        },
+        {
+          "name": "capacity planning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "backbone networks",
+          "type": "skill"
+        },
+        {
+          "name": "hyperscale environments",
+          "type": "skill"
+        },
+        {
+          "name": "routing",
+          "type": "skill"
+        },
+        {
+          "name": "peering",
+          "type": "skill"
+        },
+        {
+          "name": "transit areas",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years backbone network hardware and protocols",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years routing with BGP and IS-IS",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years Python scripting for automation",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years managing and troubleshooting cloud VPCs and network hardware",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with Juniper, Cisco, and Arista hardware",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with AWS, GCP, and OCI",
+          "type": "requirement"
+        },
+        {
+          "name": "expertise in capacity planning for large networks",
+          "type": "requirement"
+        },
+        {
+          "name": "success in on-call rotations and incident response",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4950963007,
+  "job_title": "Network Engineer - Backbone",
+  "location": "Dublin, IE",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4950963007"
+}

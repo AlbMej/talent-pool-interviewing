@@ -1,0 +1,177 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale distributed machine learning systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "fine-tuning large language models",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "reward models",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "inference-time search techniques",
+          "type": "skill"
+        },
+        {
+          "name": "model optimizations",
+          "type": "skill"
+        },
+        {
+          "name": "multi-modality",
+          "type": "skill"
+        },
+        {
+          "name": "multi-context",
+          "type": "skill"
+        },
+        {
+          "name": "multi-agent",
+          "type": "skill"
+        },
+        {
+          "name": "long-horizon tasks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data collection pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "data generation techniques",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "model training frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "benchmark development",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven large language model behavior improvements",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "pre-training",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "ML",
+          "type": "requirement"
+        },
+        {
+          "name": "fine-tuning large language models",
+          "type": "requirement"
+        },
+        {
+          "name": "data-driven large language model behavior improvements",
+          "type": "requirement"
+        },
+        {
+          "name": "advanced reinforcement learning",
+          "type": "requirement"
+        },
+        {
+          "name": "inference-time search techniques",
+          "type": "requirement"
+        },
+        {
+          "name": "developing benchmarks",
+          "type": "requirement"
+        },
+        {
+          "name": "large-scale distributed machine learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "model optimizations",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4374125007,
+  "job_title": "Member of Technical Staff, Post-training",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4374125007"
+}

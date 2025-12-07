@@ -1,0 +1,18 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "open-source contributions",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4956005007,
+  "job_title": "Talent Engineer",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4956005007"
+}

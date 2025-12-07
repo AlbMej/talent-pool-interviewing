@@ -1,0 +1,256 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "borescope",
+              "type": "skill"
+            },
+            {
+              "name": "infrared thermography",
+              "type": "skill"
+            },
+            {
+              "name": "Det-Tronics",
+              "type": "skill"
+            },
+            {
+              "name": "CMMS",
+              "type": "skill"
+            },
+            {
+              "name": "DCS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "LM6000 aeroderivative gas turbines",
+              "type": "skill"
+            },
+            {
+              "name": "BOP systems",
+              "type": "skill"
+            },
+            {
+              "name": "13.8 kV switchgear",
+              "type": "skill"
+            },
+            {
+              "name": "generator breakers",
+              "type": "skill"
+            },
+            {
+              "name": "MODs",
+              "type": "skill"
+            },
+            {
+              "name": "exciter",
+              "type": "skill"
+            },
+            {
+              "name": "AVR",
+              "type": "skill"
+            },
+            {
+              "name": "protective relays",
+              "type": "skill"
+            },
+            {
+              "name": "black-start diesel",
+              "type": "skill"
+            },
+            {
+              "name": "480 V MCCs",
+              "type": "skill"
+            },
+            {
+              "name": "vibration sensors",
+              "type": "skill"
+            },
+            {
+              "name": "temperature sensors",
+              "type": "skill"
+            },
+            {
+              "name": "pressure sensors",
+              "type": "skill"
+            },
+            {
+              "name": "speed sensors",
+              "type": "skill"
+            },
+            {
+              "name": "fire & gas systems",
+              "type": "skill"
+            },
+            {
+              "name": "Reverse Osmosis system",
+              "type": "skill"
+            },
+            {
+              "name": "demineralized water system",
+              "type": "skill"
+            },
+            {
+              "name": "P&IDs",
+              "type": "skill"
+            },
+            {
+              "name": "electrical one-line diagrams",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "fast-start dispatches",
+          "type": "skill"
+        },
+        {
+          "name": "Level 1–2 maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "borescope inspections",
+          "type": "skill"
+        },
+        {
+          "name": "combustor/TBC inspections",
+          "type": "skill"
+        },
+        {
+          "name": "unit alignment",
+          "type": "skill"
+        },
+        {
+          "name": "VBV/IGV actuators replacement",
+          "type": "skill"
+        },
+        {
+          "name": "lube oil system maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "starters/clutches service",
+          "type": "skill"
+        },
+        {
+          "name": "protective relays calibration",
+          "type": "skill"
+        },
+        {
+          "name": "loop checks",
+          "type": "skill"
+        },
+        {
+          "name": "water purity testing",
+          "type": "skill"
+        },
+        {
+          "name": "chemical dosing",
+          "type": "skill"
+        },
+        {
+          "name": "resin beds regeneration",
+          "type": "skill"
+        },
+        {
+          "name": "LOTO",
+          "type": "skill"
+        },
+        {
+          "name": "hot work permits",
+          "type": "skill"
+        },
+        {
+          "name": "confined-space permits",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Control Room Operations",
+          "type": "skill"
+        },
+        {
+          "name": "Mechanical maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "Electrical maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "Instrumentation & Controls (I&C)",
+          "type": "skill"
+        },
+        {
+          "name": "Water Treatment/Chemistry",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "LM6000 Level 1 Maintenance Certification",
+          "type": "certification"
+        },
+        {
+          "name": "LM6000 Level 2 Maintenance Certification",
+          "type": "certification"
+        },
+        {
+          "name": "LM6000 Level 3 Maintenance Certification",
+          "type": "certification"
+        },
+        {
+          "name": "NFPA 70E Electrical Safety",
+          "type": "certification"
+        },
+        {
+          "name": "Vibration Analyst Category II",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2–5 years of direct hands-on experience on LM 6000 aeroderivative turbines",
+          "type": "requirement"
+        },
+        {
+          "name": "Competency in at least three of: Control Room Operations, Mechanical, Electrical, I&C, Water Treatment/Chemistry",
+          "type": "requirement"
+        },
+        {
+          "name": "Medium-voltage experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4992581007,
+  "job_title": "Operations & Maintenance Technician",
+  "location": "Memphis, TN; Southaven, MS",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4992581007"
+}

@@ -1,0 +1,229 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "information resources",
+              "type": "skill"
+            },
+            {
+              "name": "databases",
+              "type": "skill"
+            },
+            {
+              "name": "online resources",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "model performance improvement",
+          "type": "skill"
+        },
+        {
+          "name": "AI model guidance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "task training",
+          "type": "skill"
+        },
+        {
+          "name": "problem selection",
+          "type": "skill"
+        },
+        {
+          "name": "task interpretation",
+          "type": "skill"
+        },
+        {
+          "name": "task analysis",
+          "type": "skill"
+        },
+        {
+          "name": "task execution",
+          "type": "skill"
+        },
+        {
+          "name": "data gathering in text formats",
+          "type": "skill"
+        },
+        {
+          "name": "data gathering in voice formats",
+          "type": "skill"
+        },
+        {
+          "name": "data gathering in video formats",
+          "type": "skill"
+        },
+        {
+          "name": "annotations",
+          "type": "skill"
+        },
+        {
+          "name": "audio recordings",
+          "type": "skill"
+        },
+        {
+          "name": "video sessions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "materials science",
+          "type": "skill"
+        },
+        {
+          "name": "physics",
+          "type": "skill"
+        },
+        {
+          "name": "chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "chemical engineering",
+          "type": "skill"
+        },
+        {
+          "name": "energy materials",
+          "type": "skill"
+        },
+        {
+          "name": "semiconductors",
+          "type": "skill"
+        },
+        {
+          "name": "nanomaterials",
+          "type": "skill"
+        },
+        {
+          "name": "metals",
+          "type": "skill"
+        },
+        {
+          "name": "alloys",
+          "type": "skill"
+        },
+        {
+          "name": "biomaterials",
+          "type": "skill"
+        },
+        {
+          "name": "polymers",
+          "type": "skill"
+        },
+        {
+          "name": "elastomers",
+          "type": "skill"
+        },
+        {
+          "name": "ceramics",
+          "type": "skill"
+        },
+        {
+          "name": "glasses",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s or PhD in materials science, physics, chemistry, chemical engineering, or a highly related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "expertise in materials-related subdomain",
+          "type": "requirement"
+        },
+        {
+          "name": "publications",
+          "type": "requirement"
+        },
+        {
+          "name": "patents",
+          "type": "requirement"
+        },
+        {
+          "name": "first-author papers in peer-reviewed journals",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing experience",
+          "type": "requirement"
+        },
+        {
+          "name": "journalism experience",
+          "type": "requirement"
+        },
+        {
+          "name": "professional writing experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925823007,
+  "job_title": "Materials Science Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925823007"
+}

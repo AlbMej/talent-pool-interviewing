@@ -1,0 +1,206 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "QuickBooks Online",
+              "type": "skill"
+            },
+            {
+              "name": "Stripe Billing",
+              "type": "skill"
+            },
+            {
+              "name": "Anrok",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Google Sheets",
+              "type": "skill"
+            },
+            {
+              "name": "NetSuite",
+              "type": "skill"
+            },
+            {
+              "name": "Superset",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "dashboard design",
+              "type": "skill"
+            },
+            {
+              "name": "data modeling",
+              "type": "skill"
+            },
+            {
+              "name": "system integrations",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "revenue recognition",
+          "type": "skill"
+        },
+        {
+          "name": "ASC 606",
+          "type": "skill"
+        },
+        {
+          "name": "order-to-cash",
+          "type": "skill"
+        },
+        {
+          "name": "billing",
+          "type": "skill"
+        },
+        {
+          "name": "collections",
+          "type": "skill"
+        },
+        {
+          "name": "month-end close",
+          "type": "skill"
+        },
+        {
+          "name": "multi-element arrangements",
+          "type": "skill"
+        },
+        {
+          "name": "sales-tax compliance",
+          "type": "skill"
+        },
+        {
+          "name": "VAT/GST compliance",
+          "type": "skill"
+        },
+        {
+          "name": "indirect tax compliance",
+          "type": "skill"
+        },
+        {
+          "name": "revenue dashboards",
+          "type": "skill"
+        },
+        {
+          "name": "ARR",
+          "type": "skill"
+        },
+        {
+          "name": "MRR",
+          "type": "skill"
+        },
+        {
+          "name": "churn",
+          "type": "skill"
+        },
+        {
+          "name": "deferred revenue waterfalls",
+          "type": "skill"
+        },
+        {
+          "name": "automating workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "revenue accounting",
+          "type": "skill"
+        },
+        {
+          "name": "SaaS",
+          "type": "skill"
+        },
+        {
+          "name": "subscription models",
+          "type": "skill"
+        },
+        {
+          "name": "international revenue",
+          "type": "skill"
+        },
+        {
+          "name": "multi-currency",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Accounting, Finance, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "8+ years of progressive revenue accounting experience in SaaS, subscription, or technology companies",
+          "type": "requirement"
+        },
+        {
+          "name": "expertise in ASC 606 and complex revenue arrangements",
+          "type": "requirement"
+        },
+        {
+          "name": "automating manual revenue processes and scaling systems at high-growth startups",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with Superset",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4980869007,
+  "job_title": "Revenue Manager",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4980869007"
+}

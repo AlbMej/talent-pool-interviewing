@@ -1,0 +1,197 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "BIM tools",
+              "type": "skill"
+            },
+            {
+              "name": "IoT sensors",
+              "type": "skill"
+            },
+            {
+              "name": "project management platforms",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "hyperscaler ecosystem",
+              "type": "skill"
+            },
+            {
+              "name": "high-voltage systems",
+              "type": "skill"
+            },
+            {
+              "name": "cooling infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "AI hardware deployments",
+              "type": "skill"
+            },
+            {
+              "name": "GPU clusters",
+              "type": "skill"
+            },
+            {
+              "name": "liquid cooling rigs",
+              "type": "skill"
+            },
+            {
+              "name": "fiber optic backbone",
+              "type": "skill"
+            },
+            {
+              "name": "HVAC",
+              "type": "skill"
+            },
+            {
+              "name": "renewable energy tie-ins",
+              "type": "skill"
+            },
+            {
+              "name": "modular data hall designs",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Methods of Procedure (MOPs)",
+          "type": "skill"
+        },
+        {
+          "name": "RFIs",
+          "type": "skill"
+        },
+        {
+          "name": "change orders",
+          "type": "skill"
+        },
+        {
+          "name": "milestones tracking",
+          "type": "skill"
+        },
+        {
+          "name": "predictive analytics",
+          "type": "skill"
+        },
+        {
+          "name": "just-in-time logistics",
+          "type": "skill"
+        },
+        {
+          "name": "checklists and audits",
+          "type": "skill"
+        },
+        {
+          "name": "seismic resilience",
+          "type": "skill"
+        },
+        {
+          "name": "power redundancy (N+1, 2N)",
+          "type": "skill"
+        },
+        {
+          "name": "thermal efficiency",
+          "type": "skill"
+        },
+        {
+          "name": "PUE targets",
+          "type": "skill"
+        },
+        {
+          "name": "automation via scripts",
+          "type": "skill"
+        },
+        {
+          "name": "iterative design-build cadence",
+          "type": "skill"
+        },
+        {
+          "name": "scheduling",
+          "type": "skill"
+        },
+        {
+          "name": "cost tracking",
+          "type": "skill"
+        },
+        {
+          "name": "permitting processes",
+          "type": "skill"
+        },
+        {
+          "name": "space allocation",
+          "type": "skill"
+        },
+        {
+          "name": "real estate planning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data centers",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "four-year degree in engineering, construction management, or trade school",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years of experience working in the construction industry or an engineering organization",
+          "type": "requirement"
+        },
+        {
+          "name": "experience updating and managing construction data including milestone dates, requests for information (RFI), design changes, and change orders",
+          "type": "requirement"
+        },
+        {
+          "name": "4+ years of related construction experience in lieu of a degree",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4869828007,
+  "job_title": "Project Engineer",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4869828007"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "process improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "user information requests",
+          "type": "skill"
+        },
+        {
+          "name": "legal document processing",
+          "type": "skill"
+        },
+        {
+          "name": "emergency request handling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "legal education",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor’s degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience with user information requests",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with legal documents",
+          "type": "requirement"
+        },
+        {
+          "name": "Safety or Legal Operations role",
+          "type": "requirement"
+        },
+        {
+          "name": "paralegal",
+          "type": "requirement"
+        },
+        {
+          "name": "litigation support",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4996752007,
+  "job_title": "Associate, Law Enforcement Response Team",
+  "location": "Singapore, SG",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4996752007"
+}

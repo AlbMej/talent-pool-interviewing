@@ -1,0 +1,284 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Wireshark",
+              "type": "skill"
+            },
+            {
+              "name": "tcpdump",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "firewalls",
+              "type": "skill"
+            },
+            {
+              "name": "VPNs",
+              "type": "skill"
+            },
+            {
+              "name": "IDS/IPS",
+              "type": "skill"
+            },
+            {
+              "name": "routing protocols",
+              "type": "skill"
+            },
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "OSPF",
+              "type": "skill"
+            },
+            {
+              "name": "switching technologies",
+              "type": "skill"
+            },
+            {
+              "name": "TCP/IP",
+              "type": "skill"
+            },
+            {
+              "name": "VLANs",
+              "type": "skill"
+            },
+            {
+              "name": "ACLs",
+              "type": "skill"
+            },
+            {
+              "name": "VPCs",
+              "type": "skill"
+            },
+            {
+              "name": "Security Groups",
+              "type": "skill"
+            },
+            {
+              "name": "switches",
+              "type": "skill"
+            },
+            {
+              "name": "routers",
+              "type": "skill"
+            },
+            {
+              "name": "network security devices",
+              "type": "skill"
+            },
+            {
+              "name": "patches",
+              "type": "skill"
+            },
+            {
+              "name": "firmware",
+              "type": "skill"
+            },
+            {
+              "name": "maintenance",
+              "type": "skill"
+            },
+            {
+              "name": "network traffic analysis",
+              "type": "skill"
+            },
+            {
+              "name": "multi-cloud environments",
+              "type": "skill"
+            },
+            {
+              "name": "Infrastructure as Code",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI for network threat detection",
+          "type": "skill"
+        },
+        {
+          "name": "AI for automation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "firewall configurations",
+          "type": "skill"
+        },
+        {
+          "name": "network security solutions",
+          "type": "skill"
+        },
+        {
+          "name": "documentation",
+          "type": "skill"
+        },
+        {
+          "name": "change management",
+          "type": "skill"
+        },
+        {
+          "name": "automation of network security tasks",
+          "type": "skill"
+        },
+        {
+          "name": "network provisioning",
+          "type": "skill"
+        },
+        {
+          "name": "DevSecOps practices",
+          "type": "skill"
+        },
+        {
+          "name": "network security integration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "network security",
+          "type": "skill"
+        },
+        {
+          "name": "switching and routing",
+          "type": "skill"
+        },
+        {
+          "name": "cloud-native infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "AI-focused infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CCNP Security",
+          "type": "certification"
+        },
+        {
+          "name": "CCIE Security",
+          "type": "certification"
+        },
+        {
+          "name": "JNCIP-SEC",
+          "type": "certification"
+        },
+        {
+          "name": "PCNSE",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Cybersecurity",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Information Systems",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "4+ years of experience in network security engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on focus on switching and routing",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in multi-cloud environments",
+          "type": "requirement"
+        },
+        {
+          "name": "experience building custom tools or integrations",
+          "type": "requirement"
+        },
+        {
+          "name": "contributions to open-source projects in network security",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4800712007,
+  "job_title": "Network Security Engineer, X",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4800712007"
+}

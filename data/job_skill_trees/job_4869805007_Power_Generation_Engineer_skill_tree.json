@@ -1,0 +1,165 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "GE turbines",
+              "type": "skill"
+            },
+            {
+              "name": "Siemens turbines",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "natural gas turbines",
+              "type": "skill"
+            },
+            {
+              "name": "power generation equipment",
+              "type": "skill"
+            },
+            {
+              "name": "control systems",
+              "type": "skill"
+            },
+            {
+              "name": "power distribution",
+              "type": "skill"
+            },
+            {
+              "name": "generators",
+              "type": "skill"
+            },
+            {
+              "name": "combined cycle power plants",
+              "type": "skill"
+            },
+            {
+              "name": "renewable energy integration",
+              "type": "skill"
+            },
+            {
+              "name": "hybrid power systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "root cause analysis",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting mechanical issues",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting electrical issues",
+          "type": "skill"
+        },
+        {
+          "name": "maintenance on turbines",
+          "type": "skill"
+        },
+        {
+          "name": "maintenance on generators",
+          "type": "skill"
+        },
+        {
+          "name": "maintenance on control systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "power generation",
+          "type": "skill"
+        },
+        {
+          "name": "natural gas plants",
+          "type": "skill"
+        },
+        {
+          "name": "turbine operations",
+          "type": "skill"
+        },
+        {
+          "name": "energy efficiency",
+          "type": "skill"
+        },
+        {
+          "name": "sustainable power generation",
+          "type": "skill"
+        },
+        {
+          "name": "datacenter energy management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "PE (Professional Engineer)",
+          "type": "certification"
+        },
+        {
+          "name": "CEM (Certified Energy Manager)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Mechanical Engineering, Electrical Engineering, Chemical Engineering, or a related field",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's degree in a relevant engineering discipline",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of experience in power generation, with a focus on natural gas plants, turbines, or similar high-reliability energy systems",
+          "type": "requirement"
+        },
+        {
+          "name": "8+ years of experience, including leadership roles in power plant operations or datacenter energy management",
+          "type": "requirement"
+        },
+        {
+          "name": "Prior work in high-tech or mission-critical facilities, such as datacenters or aerospace",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4869805007,
+  "job_title": "Power Generation Engineer",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4869805007"
+}

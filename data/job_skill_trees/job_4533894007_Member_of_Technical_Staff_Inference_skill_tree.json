@@ -1,0 +1,230 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "PyTorch",
+              "type": "skill"
+            },
+            {
+              "name": "JAX",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "CUDA",
+              "type": "skill"
+            },
+            {
+              "name": "CUTLASS",
+              "type": "skill"
+            },
+            {
+              "name": "Triton",
+              "type": "skill"
+            },
+            {
+              "name": "NCCL",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "SGLang",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "GPU kernels",
+              "type": "skill"
+            },
+            {
+              "name": "code generation",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale inference engines",
+              "type": "skill"
+            },
+            {
+              "name": "reinforcement learning frameworks",
+              "type": "skill"
+            },
+            {
+              "name": "high-concurrent production serving",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model inference",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "test-time compute",
+          "type": "skill"
+        },
+        {
+          "name": "model-hardware co-design",
+          "type": "skill"
+        },
+        {
+          "name": "batching",
+          "type": "skill"
+        },
+        {
+          "name": "caching",
+          "type": "skill"
+        },
+        {
+          "name": "load balancing",
+          "type": "skill"
+        },
+        {
+          "name": "parallelism",
+          "type": "skill"
+        },
+        {
+          "name": "quantization",
+          "type": "skill"
+        },
+        {
+          "name": "distillation",
+          "type": "skill"
+        },
+        {
+          "name": "speculative decoding",
+          "type": "skill"
+        },
+        {
+          "name": "low-precision numerics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "system optimizations",
+          "type": "skill"
+        },
+        {
+          "name": "low-level optimizations",
+          "type": "skill"
+        },
+        {
+          "name": "algorithmic optimizations",
+          "type": "skill"
+        },
+        {
+          "name": "testing",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "scaling test-time compute",
+          "type": "skill"
+        },
+        {
+          "name": "rollout in reinforcement learning training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "inference",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning training",
+          "type": "skill"
+        },
+        {
+          "name": "next-generation architectures",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "system optimizations for model serving",
+          "type": "requirement"
+        },
+        {
+          "name": "low-level optimizations for inference",
+          "type": "requirement"
+        },
+        {
+          "name": "algorithmic optimizations for inference",
+          "type": "requirement"
+        },
+        {
+          "name": "large-scale inference engines",
+          "type": "requirement"
+        },
+        {
+          "name": "reinforcement learning frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "large-scale high-concurrent production serving",
+          "type": "requirement"
+        },
+        {
+          "name": "testing benchmarking and reliability of inference services",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4533894007,
+  "job_title": "Member of Technical Staff, Inference",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4533894007"
+}

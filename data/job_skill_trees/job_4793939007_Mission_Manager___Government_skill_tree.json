@@ -1,0 +1,171 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "SQL",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "secure scalable AI solutions",
+              "type": "skill"
+            },
+            {
+              "name": "LLM-powered software",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "model performance optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "tool-building",
+          "type": "skill"
+        },
+        {
+          "name": "data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "debugging",
+          "type": "skill"
+        },
+        {
+          "name": "handling large datasets",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing performance",
+          "type": "skill"
+        },
+        {
+          "name": "scaling for high-throughput",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI solutions",
+          "type": "skill"
+        },
+        {
+          "name": "software engineering",
+          "type": "skill"
+        },
+        {
+          "name": "data science",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "U.S. security clearance (Secret, Top Secret, Top Secret/SCI)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Software Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Physics",
+          "type": "qualification"
+        },
+        {
+          "name": "Data Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Government Partnership Experience on AI, software, or data initiatives",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in Software Engineering or Machine Learning",
+          "type": "requirement"
+        },
+        {
+          "name": "Background working with National Security customers",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4793939007,
+  "job_title": "Mission Manager - Government",
+  "location": "Palo Alto, CA; San Francisco, CA; Washington, D.C.",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4793939007"
+}

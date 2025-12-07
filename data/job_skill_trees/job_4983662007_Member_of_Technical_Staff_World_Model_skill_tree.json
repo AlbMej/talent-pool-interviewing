@@ -1,0 +1,169 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed machine learning systems",
+              "type": "skill"
+            },
+            {
+              "name": "graphics engines",
+              "type": "skill"
+            },
+            {
+              "name": "rendering techniques",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "neural networks",
+          "type": "skill"
+        },
+        {
+          "name": "real-time world simulation",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal world models",
+          "type": "skill"
+        },
+        {
+          "name": "pretraining",
+          "type": "skill"
+        },
+        {
+          "name": "posttraining",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data filtering techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data generation techniques",
+          "type": "skill"
+        },
+        {
+          "name": "data study",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "internal benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "algorithm design",
+          "type": "skill"
+        },
+        {
+          "name": "algorithm implementation",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven experiment designs",
+          "type": "skill"
+        },
+        {
+          "name": "systematic analysis",
+          "type": "skill"
+        },
+        {
+          "name": "iterative model debugging",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "image",
+          "type": "skill"
+        },
+        {
+          "name": "video",
+          "type": "skill"
+        },
+        {
+          "name": "audio",
+          "type": "skill"
+        },
+        {
+          "name": "real-time video",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "leading studies for neural networks",
+          "type": "requirement"
+        },
+        {
+          "name": "large-scale distributed machine learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "graphics engines",
+          "type": "requirement"
+        },
+        {
+          "name": "rendering techniques",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4983662007,
+  "job_title": "Member of Technical Staff, World Model",
+  "location": "Palo Alto, CA; Seattle, WA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4983662007"
+}

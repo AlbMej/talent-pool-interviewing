@@ -1,0 +1,152 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Google Docs",
+              "type": "skill"
+            },
+            {
+              "name": "Google Sheets",
+              "type": "skill"
+            },
+            {
+              "name": "Google Slides",
+              "type": "skill"
+            },
+            {
+              "name": "Gmail",
+              "type": "skill"
+            },
+            {
+              "name": "Google Drive",
+              "type": "skill"
+            },
+            {
+              "name": "Google Calendar",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "electrical systems",
+              "type": "skill"
+            },
+            {
+              "name": "mechanical systems",
+              "type": "skill"
+            },
+            {
+              "name": "environmental monitoring tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "risk assessments",
+          "type": "skill"
+        },
+        {
+          "name": "incident investigation",
+          "type": "skill"
+        },
+        {
+          "name": "root cause analysis",
+          "type": "skill"
+        },
+        {
+          "name": "safety management systems",
+          "type": "skill"
+        },
+        {
+          "name": "ISO 45001",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "construction safety",
+          "type": "skill"
+        },
+        {
+          "name": "industrial safety",
+          "type": "skill"
+        },
+        {
+          "name": "emergency response",
+          "type": "skill"
+        },
+        {
+          "name": "air quality assessments",
+          "type": "skill"
+        },
+        {
+          "name": "sound assessments",
+          "type": "skill"
+        },
+        {
+          "name": "first aid care",
+          "type": "skill"
+        },
+        {
+          "name": "OSHA regulations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "OSHA 30",
+          "type": "certification"
+        },
+        {
+          "name": "EMT",
+          "type": "certification"
+        },
+        {
+          "name": "AEMT",
+          "type": "certification"
+        },
+        {
+          "name": "Paramedic",
+          "type": "certification"
+        },
+        {
+          "name": "Nursing",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years in construction safety",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4777102007,
+  "job_title": "Safety Specialist",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4777102007"
+}

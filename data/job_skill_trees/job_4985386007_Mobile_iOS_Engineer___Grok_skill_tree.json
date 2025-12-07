@@ -1,0 +1,137 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Swift",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "SwiftUI",
+              "type": "skill"
+            },
+            {
+              "name": "UIKit",
+              "type": "skill"
+            },
+            {
+              "name": "Combine",
+              "type": "skill"
+            },
+            {
+              "name": "AVFoundation",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "performance optimization",
+              "type": "skill"
+            },
+            {
+              "name": "concurrency",
+              "type": "skill"
+            },
+            {
+              "name": "reactive programming",
+              "type": "skill"
+            },
+            {
+              "name": "REST",
+              "type": "skill"
+            },
+            {
+              "name": "gRPC",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI model outputs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "end-to-end feature ownership",
+          "type": "skill"
+        },
+        {
+          "name": "architecture design",
+          "type": "skill"
+        },
+        {
+          "name": "App Store deployment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "iOS development",
+          "type": "skill"
+        },
+        {
+          "name": "mobile UI design",
+          "type": "skill"
+        },
+        {
+          "name": "Apple ecosystem",
+          "type": "skill"
+        },
+        {
+          "name": "real-time audio processing",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing and shipping mobile UIs",
+          "type": "requirement"
+        },
+        {
+          "name": "high-throughput integrations with APIs",
+          "type": "requirement"
+        },
+        {
+          "name": "shipping apps or features",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4985386007,
+  "job_title": "Mobile iOS Engineer - Grok",
+  "location": "New York, NY; Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4985386007"
+}

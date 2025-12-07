@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "vector databases",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "search indices",
+              "type": "skill"
+            },
+            {
+              "name": "data stores for search applications",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale search systems",
+              "type": "skill"
+            },
+            {
+              "name": "production ML systems",
+              "type": "skill"
+            },
+            {
+              "name": "search infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "search and retrieval algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "ML ranking models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "search systems",
+          "type": "skill"
+        },
+        {
+          "name": "ranking",
+          "type": "skill"
+        },
+        {
+          "name": "retrieval",
+          "type": "skill"
+        },
+        {
+          "name": "Grok integration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "worked with vector databases, search indices, or similar data stores for search applications",
+          "type": "requirement"
+        },
+        {
+          "name": "worked on large-scale search systems",
+          "type": "requirement"
+        },
+        {
+          "name": "deep experience building or working with production ML systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4870745007,
+  "job_title": "Member of Technical Staff, X Search",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4870745007"
+}

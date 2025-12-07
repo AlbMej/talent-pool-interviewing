@@ -1,0 +1,271 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "back-end systems",
+              "type": "skill"
+            },
+            {
+              "name": "front-end prototypes",
+              "type": "skill"
+            },
+            {
+              "name": "secure design tools",
+              "type": "skill"
+            },
+            {
+              "name": "design tooling",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "cloud-based government environments",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "secure infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "machine learning fundamentals",
+          "type": "skill"
+        },
+        {
+          "name": "model interaction",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "user-facing tuning",
+          "type": "skill"
+        },
+        {
+          "name": "prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "model behavior specification",
+          "type": "skill"
+        },
+        {
+          "name": "model behavior evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "iterative design",
+          "type": "skill"
+        },
+        {
+          "name": "interface refinements",
+          "type": "skill"
+        },
+        {
+          "name": "building evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "deploying AI-enhanced designs to production",
+          "type": "skill"
+        },
+        {
+          "name": "working with complex datasets",
+          "type": "skill"
+        },
+        {
+          "name": "optimize user flows for performance",
+          "type": "skill"
+        },
+        {
+          "name": "scale designs for high-throughput workloads",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking designs for performance",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking designs for security",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing user feedback",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing system outputs",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing request logs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Interaction Design",
+          "type": "skill"
+        },
+        {
+          "name": "User Experience Design",
+          "type": "skill"
+        },
+        {
+          "name": "Computer Science",
+          "type": "skill"
+        },
+        {
+          "name": "AI-driven user experiences",
+          "type": "skill"
+        },
+        {
+          "name": "secure design principles",
+          "type": "skill"
+        },
+        {
+          "name": "regulated contexts",
+          "type": "skill"
+        },
+        {
+          "name": "web platforms",
+          "type": "skill"
+        },
+        {
+          "name": "mobile platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Active U.S. security clearance",
+          "type": "certification"
+        },
+        {
+          "name": "Top Secret",
+          "type": "certification"
+        },
+        {
+          "name": "Top Secret SCI",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Interaction Design",
+          "type": "qualification"
+        },
+        {
+          "name": "User Experience Design",
+          "type": "qualification"
+        },
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Government Partnership Experience with government agencies",
+          "type": "requirement"
+        },
+        {
+          "name": "Government Partnership Experience with DoD",
+          "type": "requirement"
+        },
+        {
+          "name": "Government Partnership Experience with federal contractors on AI projects",
+          "type": "requirement"
+        },
+        {
+          "name": "Government Partnership Experience with federal contractors on software projects",
+          "type": "requirement"
+        },
+        {
+          "name": "Government Partnership Experience with federal contractors on design projects",
+          "type": "requirement"
+        },
+        {
+          "name": "6+ years of design experience in high reliability environments",
+          "type": "requirement"
+        },
+        {
+          "name": "6+ years of design experience in security environments",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing AI interfaces with APIs",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing AI interfaces with back-end systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing AI interfaces with front-end prototypes",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing machine learning interfaces with APIs",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing machine learning interfaces with back-end systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Implementing machine learning interfaces with front-end prototypes",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4940191007,
+  "job_title": "Frontend Engineer / Design Engineer - US Government",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4940191007"
+}

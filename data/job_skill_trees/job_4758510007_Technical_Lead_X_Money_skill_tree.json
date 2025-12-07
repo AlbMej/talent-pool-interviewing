@@ -1,0 +1,157 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Golang",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kafka",
+              "type": "skill"
+            },
+            {
+              "name": "Memcached",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Postgres",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "high concurrency",
+              "type": "skill"
+            },
+            {
+              "name": "fault tolerance",
+              "type": "skill"
+            },
+            {
+              "name": "uptime",
+              "type": "skill"
+            },
+            {
+              "name": "secure transactions",
+              "type": "skill"
+            },
+            {
+              "name": "fraud protection mechanisms",
+              "type": "skill"
+            },
+            {
+              "name": "low-latency payments platform",
+              "type": "skill"
+            },
+            {
+              "name": "security",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "testing",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "continuous deployment",
+          "type": "skill"
+        },
+        {
+          "name": "systems design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "fintech",
+          "type": "skill"
+        },
+        {
+          "name": "payments",
+          "type": "skill"
+        },
+        {
+          "name": "digital wallets",
+          "type": "skill"
+        },
+        {
+          "name": "identity",
+          "type": "skill"
+        },
+        {
+          "name": "fraud detection",
+          "type": "skill"
+        },
+        {
+          "name": "regulatory compliance",
+          "type": "skill"
+        },
+        {
+          "name": "PCI-DSS",
+          "type": "skill"
+        },
+        {
+          "name": "AML/KYC",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "8+ years in backend or systems engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in fintech or high-scale platforms",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4758510007,
+  "job_title": "Technical Lead, X Money",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4758510007"
+}

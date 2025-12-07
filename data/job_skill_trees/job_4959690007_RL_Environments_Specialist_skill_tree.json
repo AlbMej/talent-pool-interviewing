@@ -1,0 +1,195 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React.js",
+              "type": "skill"
+            },
+            {
+              "name": "FastAPI",
+              "type": "skill"
+            },
+            {
+              "name": "Flask",
+              "type": "skill"
+            },
+            {
+              "name": "Django",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Docker Compose",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Cursor",
+              "type": "skill"
+            },
+            {
+              "name": "Claude",
+              "type": "skill"
+            },
+            {
+              "name": "Copilot",
+              "type": "skill"
+            },
+            {
+              "name": "Grok",
+              "type": "skill"
+            },
+            {
+              "name": "Aider",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "relational databases",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "containerization",
+              "type": "skill"
+            },
+            {
+              "name": "REST",
+              "type": "skill"
+            },
+            {
+              "name": "GraphQL",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "Reinforcement Learning",
+          "type": "skill"
+        },
+        {
+          "name": "RLHF",
+          "type": "skill"
+        },
+        {
+          "name": "PPO",
+          "type": "skill"
+        },
+        {
+          "name": "DPO",
+          "type": "skill"
+        },
+        {
+          "name": "reward modeling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "programmatically generate tasks",
+          "type": "skill"
+        },
+        {
+          "name": "task validation",
+          "type": "skill"
+        },
+        {
+          "name": "design relational database schema",
+          "type": "skill"
+        },
+        {
+          "name": "populate with large-scale mock data",
+          "type": "skill"
+        },
+        {
+          "name": "creating API endpoints",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "RL environments",
+          "type": "skill"
+        },
+        {
+          "name": "training computer use agents",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building sandbox UIs",
+          "type": "requirement"
+        },
+        {
+          "name": "building backend services",
+          "type": "requirement"
+        },
+        {
+          "name": "using coding agents",
+          "type": "requirement"
+        },
+        {
+          "name": "AI assistants as power user",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4959690007,
+  "job_title": "RL Environments Specialist",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4959690007"
+}

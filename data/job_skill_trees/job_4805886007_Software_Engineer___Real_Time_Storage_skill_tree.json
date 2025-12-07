@@ -1,0 +1,186 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Puppet",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "FoundationDB",
+              "type": "skill"
+            },
+            {
+              "name": "ValKey",
+              "type": "skill"
+            },
+            {
+              "name": "RockDB",
+              "type": "skill"
+            },
+            {
+              "name": "Memcache",
+              "type": "skill"
+            },
+            {
+              "name": "Redis",
+              "type": "skill"
+            },
+            {
+              "name": "MySQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "object store",
+              "type": "skill"
+            },
+            {
+              "name": "key/value store",
+              "type": "skill"
+            },
+            {
+              "name": "caching tier",
+              "type": "skill"
+            },
+            {
+              "name": "vector database",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "training",
+          "type": "skill"
+        },
+        {
+          "name": "inference",
+          "type": "skill"
+        },
+        {
+          "name": "recommendations",
+          "type": "skill"
+        },
+        {
+          "name": "real-time data extraction",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "performance optimization",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "code reviews",
+          "type": "skill"
+        },
+        {
+          "name": "design reviews",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "storage systems",
+          "type": "skill"
+        },
+        {
+          "name": "databases",
+          "type": "skill"
+        },
+        {
+          "name": "AI infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7 years in software development",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years building storage systems or databases",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4805886007,
+  "job_title": "Software Engineer - Real-Time Storage",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4805886007"
+}

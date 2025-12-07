@@ -1,0 +1,145 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed training",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale machine learning systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "multimodal AI",
+          "type": "skill"
+        },
+        {
+          "name": "AI safety",
+          "type": "skill"
+        },
+        {
+          "name": "neural networks",
+          "type": "skill"
+        },
+        {
+          "name": "safety AI models",
+          "type": "skill"
+        },
+        {
+          "name": "moderation AI models",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "designing experiments",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing results",
+          "type": "skill"
+        },
+        {
+          "name": "iterative model refinement",
+          "type": "skill"
+        },
+        {
+          "name": "AI/ML system design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal AI development",
+          "type": "skill"
+        },
+        {
+          "name": "AI safety",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience with safety and moderation AI models",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with large-scale machine learning systems",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with multimodal AI development",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with distributed training",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4679777007,
+  "job_title": "Member of Technical Staff, Product Safety",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4679777007"
+}

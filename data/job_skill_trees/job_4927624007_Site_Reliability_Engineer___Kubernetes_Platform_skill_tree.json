@@ -1,0 +1,160 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            },
+            {
+              "name": "Cluster API",
+              "type": "skill"
+            },
+            {
+              "name": "kubeadm",
+              "type": "skill"
+            },
+            {
+              "name": "Kyverno",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "CNI",
+              "type": "skill"
+            },
+            {
+              "name": "CRI",
+              "type": "skill"
+            },
+            {
+              "name": "CSI",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "storage infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Infrastructure-as-Code",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "security practices",
+          "type": "skill"
+        },
+        {
+          "name": "incident management",
+          "type": "skill"
+        },
+        {
+          "name": "postmortems",
+          "type": "skill"
+        },
+        {
+          "name": "SLAs",
+          "type": "skill"
+        },
+        {
+          "name": "SLOs",
+          "type": "skill"
+        },
+        {
+          "name": "chaos engineering",
+          "type": "skill"
+        },
+        {
+          "name": "capacity planning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Kubernetes orchestration",
+          "type": "skill"
+        },
+        {
+          "name": "Kubernetes clusters",
+          "type": "skill"
+        },
+        {
+          "name": "on-premises infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "managing Kubernetes infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "managing storage infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "Kubernetes stack",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4927624007,
+  "job_title": "Site Reliability Engineer - Kubernetes Platform",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4927624007"
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "R",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Tableau",
+              "type": "skill"
+            },
+            {
+              "name": "Git",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Google Sheets",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "relational databases",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "financial modeling",
+          "type": "skill"
+        },
+        {
+          "name": "revenue forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "market sizing",
+          "type": "skill"
+        },
+        {
+          "name": "pricing structures",
+          "type": "skill"
+        },
+        {
+          "name": "automation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "API platforms",
+          "type": "skill"
+        },
+        {
+          "name": "developer ecosystems",
+          "type": "skill"
+        },
+        {
+          "name": "revenue recognition",
+          "type": "skill"
+        },
+        {
+          "name": "financial analysis",
+          "type": "skill"
+        },
+        {
+          "name": "billing automation",
+          "type": "skill"
+        },
+        {
+          "name": "financial reporting",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3-5 years of experience in investment banking, investment management, management consulting, FP&A, or technology/API industry",
+          "type": "requirement"
+        },
+        {
+          "name": "experience writing SQL queries",
+          "type": "requirement"
+        },
+        {
+          "name": "experience pulling data from relational databases",
+          "type": "requirement"
+        },
+        {
+          "name": "financial modeling skills",
+          "type": "requirement"
+        },
+        {
+          "name": "experience manipulating complex and large data sets",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4948954007,
+  "job_title": "Revenue Financial Analyst, API",
+  "location": "New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4948954007"
+}

@@ -1,0 +1,158 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Typescript",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "Express",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "PostgreSQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "front-end",
+              "type": "skill"
+            },
+            {
+              "name": "back-end",
+              "type": "skill"
+            },
+            {
+              "name": "system design",
+              "type": "skill"
+            },
+            {
+              "name": "debugging",
+              "type": "skill"
+            },
+            {
+              "name": "testing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "machine learning model behavior",
+          "type": "skill"
+        },
+        {
+          "name": "data distribution",
+          "type": "skill"
+        },
+        {
+          "name": "data quality",
+          "type": "skill"
+        },
+        {
+          "name": "model reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "agentic capabilities",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "human data generation pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "data collection platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "frontier model performance",
+          "type": "skill"
+        },
+        {
+          "name": "model capabilities",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "safety",
+          "type": "skill"
+        },
+        {
+          "name": "alignment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "delivering web applications",
+          "type": "requirement"
+        },
+        {
+          "name": "connecting machine learning model behavior to data distribution and data quality",
+          "type": "requirement"
+        },
+        {
+          "name": "building data-collection platforms",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4547889007,
+  "job_title": "Senior Product Engineer - Starfleet",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4547889007"
+}

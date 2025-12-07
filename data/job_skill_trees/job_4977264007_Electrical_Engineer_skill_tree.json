@@ -1,0 +1,157 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "AutoCAD",
+              "type": "skill"
+            },
+            {
+              "name": "Revit",
+              "type": "skill"
+            },
+            {
+              "name": "Bluebeam",
+              "type": "skill"
+            },
+            {
+              "name": "SKM",
+              "type": "skill"
+            },
+            {
+              "name": "power system analysis software",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "transformers",
+              "type": "skill"
+            },
+            {
+              "name": "switchgear",
+              "type": "skill"
+            },
+            {
+              "name": "generators",
+              "type": "skill"
+            },
+            {
+              "name": "UPS systems",
+              "type": "skill"
+            },
+            {
+              "name": "PDUs",
+              "type": "skill"
+            },
+            {
+              "name": "cooling units",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "feasibility studies",
+          "type": "skill"
+        },
+        {
+          "name": "detailed specifications development",
+          "type": "skill"
+        },
+        {
+          "name": "maintenance schedules",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "power needs analysis",
+          "type": "skill"
+        },
+        {
+          "name": "forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "energy efficiency strategies",
+          "type": "skill"
+        },
+        {
+          "name": "project management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center electrical systems",
+          "type": "skill"
+        },
+        {
+          "name": "data center operations",
+          "type": "skill"
+        },
+        {
+          "name": "electrical engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Professional Engineer (PE) license",
+          "type": "certification"
+        },
+        {
+          "name": "EIT",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s Degree in Electrical Engineering or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5-8 years of relevant experience in data center operations or electrical engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in project management for large-scale data center projects",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4977264007,
+  "job_title": "Electrical Engineer",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4977264007"
+}

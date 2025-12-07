@@ -1,0 +1,77 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "pretraining",
+          "type": "skill"
+        },
+        {
+          "name": "serving",
+          "type": "skill"
+        },
+        {
+          "name": "efficient algorithms for large language models",
+          "type": "skill"
+        },
+        {
+          "name": "large language model scaling laws",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning techniques",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data processing pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "training pipelines",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience in efficient algorithms for large language models",
+          "type": "requirement"
+        },
+        {
+          "name": "publications in efficient algorithms for large language models",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4799909007,
+  "job_title": "Member of Technical Staff - Reasoning Efficiency",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4799909007"
+}

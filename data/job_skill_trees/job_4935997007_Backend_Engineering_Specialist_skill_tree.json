@@ -1,0 +1,215 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "JavaScript",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Node.js",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "ReactJS",
+              "type": "skill"
+            },
+            {
+              "name": "React",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "PostgreSQL",
+              "type": "skill"
+            },
+            {
+              "name": "MySQL",
+              "type": "skill"
+            },
+            {
+              "name": "MongoDB",
+              "type": "skill"
+            },
+            {
+              "name": "Redis",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "RESTful APIs",
+              "type": "skill"
+            },
+            {
+              "name": "GraphQL",
+              "type": "skill"
+            },
+            {
+              "name": "database optimization",
+              "type": "skill"
+            },
+            {
+              "name": "indexing strategies",
+              "type": "skill"
+            },
+            {
+              "name": "query performance",
+              "type": "skill"
+            },
+            {
+              "name": "authentication",
+              "type": "skill"
+            },
+            {
+              "name": "authorization",
+              "type": "skill"
+            },
+            {
+              "name": "data protection",
+              "type": "skill"
+            },
+            {
+              "name": "asynchronous processing",
+              "type": "skill"
+            },
+            {
+              "name": "background job systems",
+              "type": "skill"
+            },
+            {
+              "name": "unit testing",
+              "type": "skill"
+            },
+            {
+              "name": "integration testing",
+              "type": "skill"
+            },
+            {
+              "name": "end-to-end testing",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "AI-generated code evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "code curation",
+          "type": "skill"
+        },
+        {
+          "name": "code refinement",
+          "type": "skill"
+        },
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "backend development",
+          "type": "skill"
+        },
+        {
+          "name": "enterprise-level AI-driven coding solutions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of professional back-end development experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4935997007,
+  "job_title": "Backend Engineering Specialist",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4935997007"
+}

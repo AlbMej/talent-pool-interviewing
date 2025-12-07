@@ -1,0 +1,121 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "FASB codification",
+              "type": "skill"
+            },
+            {
+              "name": "SEC EDGAR",
+              "type": "skill"
+            },
+            {
+              "name": "10-K/10-Q filings",
+              "type": "skill"
+            },
+            {
+              "name": "ERP systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model critiques",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tools",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "corporate accounting",
+          "type": "skill"
+        },
+        {
+          "name": "financial reporting",
+          "type": "skill"
+        },
+        {
+          "name": "internal controls",
+          "type": "skill"
+        },
+        {
+          "name": "GAAP compliance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's in Accounting",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Accounting",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years Big 4 public accounting experience",
+          "type": "requirement"
+        },
+        {
+          "name": "audit/assurance on corporate or SEC clients",
+          "type": "requirement"
+        },
+        {
+          "name": "senior corporate accounting role",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4922800007,
+  "job_title": "AI Finance Tutor - Corporate Accounting",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4922800007"
+}

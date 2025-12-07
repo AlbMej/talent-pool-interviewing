@@ -1,0 +1,124 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "dashboards",
+              "type": "skill"
+            },
+            {
+              "name": "provisioning software systems",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "hyper scale networks",
+              "type": "skill"
+            },
+            {
+              "name": "networking topologies",
+              "type": "skill"
+            },
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "OSPF",
+              "type": "skill"
+            },
+            {
+              "name": "ROCEv2",
+              "type": "skill"
+            },
+            {
+              "name": "data centers",
+              "type": "skill"
+            },
+            {
+              "name": "backbone topologies",
+              "type": "skill"
+            },
+            {
+              "name": "configuration management",
+              "type": "skill"
+            },
+            {
+              "name": "operating system version management",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "workflows",
+          "type": "skill"
+        },
+        {
+          "name": "modelling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI/ML infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale GPU clusters",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "8+ years of experience in using python to automate hyper scale networks",
+          "type": "requirement"
+        },
+        {
+          "name": "10+ years in the networking industry",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years in a team lead role",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4855684007,
+  "job_title": "Network Deployment Automation Lead - xAI Networking",
+  "location": "Palo Alto, CA; Seattle, WA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4855684007"
+}

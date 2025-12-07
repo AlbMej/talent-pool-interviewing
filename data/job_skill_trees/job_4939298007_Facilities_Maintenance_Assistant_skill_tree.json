@@ -1,0 +1,137 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "hand tools",
+              "type": "skill"
+            },
+            {
+              "name": "power tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "mechanical systems",
+              "type": "skill"
+            },
+            {
+              "name": "electrical systems",
+              "type": "skill"
+            },
+            {
+              "name": "plumbing systems",
+              "type": "skill"
+            },
+            {
+              "name": "HVAC systems",
+              "type": "skill"
+            },
+            {
+              "name": "chiller maintenance",
+              "type": "skill"
+            },
+            {
+              "name": "CDU filter changeouts",
+              "type": "skill"
+            },
+            {
+              "name": "leak detection verification",
+              "type": "skill"
+            },
+            {
+              "name": "building envelope maintenance",
+              "type": "skill"
+            },
+            {
+              "name": "landscaping",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "daily inspections",
+          "type": "skill"
+        },
+        {
+          "name": "spare parts inventory management",
+          "type": "skill"
+        },
+        {
+          "name": "standard operating procedures",
+          "type": "skill"
+        },
+        {
+          "name": "safety protocols",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center facilities",
+          "type": "skill"
+        },
+        {
+          "name": "industrial facility setting",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "OSHA safety certification",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma or equivalent",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "1+ years of experience in maintenance, facilities, or related hands-on role",
+          "type": "requirement"
+        },
+        {
+          "name": "data center experience",
+          "type": "requirement"
+        },
+        {
+          "name": "industrial facility experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4939298007,
+  "job_title": "Facilities Maintenance Assistant",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4939298007"
+}

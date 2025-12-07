@@ -1,0 +1,152 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "annotations",
+          "type": "skill"
+        },
+        {
+          "name": "labels",
+          "type": "skill"
+        },
+        {
+          "name": "inputs",
+          "type": "skill"
+        },
+        {
+          "name": "curated data",
+          "type": "skill"
+        },
+        {
+          "name": "AI-generated video games",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "game mechanics",
+          "type": "skill"
+        },
+        {
+          "name": "narratives",
+          "type": "skill"
+        },
+        {
+          "name": "design elements",
+          "type": "skill"
+        },
+        {
+          "name": "gameplay critique",
+          "type": "skill"
+        },
+        {
+          "name": "iterative improvement",
+          "type": "skill"
+        },
+        {
+          "name": "testing and evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Game Design",
+          "type": "skill"
+        },
+        {
+          "name": "Computer Science",
+          "type": "skill"
+        },
+        {
+          "name": "Interactive Media",
+          "type": "skill"
+        },
+        {
+          "name": "indie game development",
+          "type": "skill"
+        },
+        {
+          "name": "video game concepts",
+          "type": "skill"
+        },
+        {
+          "name": "video game mechanics",
+          "type": "skill"
+        },
+        {
+          "name": "video game generation",
+          "type": "skill"
+        },
+        {
+          "name": "storytelling",
+          "type": "skill"
+        },
+        {
+          "name": "player experience",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "high proficiency in Game Design, Computer Science, Interactive Media, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "game design",
+          "type": "requirement"
+        },
+        {
+          "name": "indie game development",
+          "type": "requirement"
+        },
+        {
+          "name": "portfolio of created or contributed projects",
+          "type": "requirement"
+        },
+        {
+          "name": "reference game development tools, trends, and examples",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4879839007,
+  "job_title": "Video Games Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4879839007"
+}

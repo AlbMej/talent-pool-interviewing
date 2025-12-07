@@ -1,0 +1,185 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "light meter",
+              "type": "skill"
+            },
+            {
+              "name": "OTDR",
+              "type": "skill"
+            },
+            {
+              "name": "OPMs",
+              "type": "skill"
+            },
+            {
+              "name": "fiber certifier",
+              "type": "skill"
+            },
+            {
+              "name": "loopback",
+              "type": "skill"
+            },
+            {
+              "name": "optical probes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "fiber optics systems",
+              "type": "skill"
+            },
+            {
+              "name": "optical fiber installation",
+              "type": "skill"
+            },
+            {
+              "name": "optical fiber routing",
+              "type": "skill"
+            },
+            {
+              "name": "fiber splicing",
+              "type": "skill"
+            },
+            {
+              "name": "structured cabling",
+              "type": "skill"
+            },
+            {
+              "name": "different fiber types",
+              "type": "skill"
+            },
+            {
+              "name": "switches",
+              "type": "skill"
+            },
+            {
+              "name": "port identifications",
+              "type": "skill"
+            },
+            {
+              "name": "fiber cleaning",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "troubleshooting fiber optics",
+          "type": "skill"
+        },
+        {
+          "name": "fiber optic cable replacement",
+          "type": "skill"
+        },
+        {
+          "name": "maintenance routines",
+          "type": "skill"
+        },
+        {
+          "name": "signal strength tracking",
+          "type": "skill"
+        },
+        {
+          "name": "system records maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "system designs formulation",
+          "type": "skill"
+        },
+        {
+          "name": "system inspections",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "hyperscale data center environments",
+          "type": "skill"
+        },
+        {
+          "name": "datacenter installation projects",
+          "type": "skill"
+        },
+        {
+          "name": "Tier 3 facilities",
+          "type": "skill"
+        },
+        {
+          "name": "Tier 4 facilities",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "fiber optics certification",
+          "type": "certification"
+        },
+        {
+          "name": "cable installation certification",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma",
+          "type": "qualification"
+        },
+        {
+          "name": "equivalency certificate",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years installing and routing optical fiber in large scale Tier 3 or 4 facilities",
+          "type": "requirement"
+        },
+        {
+          "name": "experience installing, certifying, and troubleshooting fiber in hyperscale data center environments",
+          "type": "requirement"
+        },
+        {
+          "name": "extensive experience in fiber splicing",
+          "type": "requirement"
+        },
+        {
+          "name": "experience installing structured cabling",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4426115007,
+  "job_title": "Fiber Technician ",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4426115007"
+}

@@ -1,0 +1,312 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            },
+            {
+              "name": "PowerShell",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Okta",
+              "type": "skill"
+            },
+            {
+              "name": "Ping",
+              "type": "skill"
+            },
+            {
+              "name": "JumpCloud",
+              "type": "skill"
+            },
+            {
+              "name": "Google Workspace",
+              "type": "skill"
+            },
+            {
+              "name": "Slack",
+              "type": "skill"
+            },
+            {
+              "name": "JAMF",
+              "type": "skill"
+            },
+            {
+              "name": "Kandji",
+              "type": "skill"
+            },
+            {
+              "name": "Intune",
+              "type": "skill"
+            },
+            {
+              "name": "Workday",
+              "type": "skill"
+            },
+            {
+              "name": "Rippling",
+              "type": "skill"
+            },
+            {
+              "name": "Azure AD",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Teams",
+              "type": "skill"
+            },
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "IAM",
+              "type": "skill"
+            },
+            {
+              "name": "IGA",
+              "type": "skill"
+            },
+            {
+              "name": "RBAC",
+              "type": "skill"
+            },
+            {
+              "name": "SSO",
+              "type": "skill"
+            },
+            {
+              "name": "MFA",
+              "type": "skill"
+            },
+            {
+              "name": "directory sync",
+              "type": "skill"
+            },
+            {
+              "name": "role-based access provisioning",
+              "type": "skill"
+            },
+            {
+              "name": "MDM",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "event-based automation",
+              "type": "skill"
+            },
+            {
+              "name": "networking",
+              "type": "skill"
+            },
+            {
+              "name": "endpoint security",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI-enhanced workflows",
+          "type": "skill"
+        },
+        {
+          "name": "AI-driven platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "user lifecycle automation",
+          "type": "skill"
+        },
+        {
+          "name": "access workflows",
+          "type": "skill"
+        },
+        {
+          "name": "compliance reporting",
+          "type": "skill"
+        },
+        {
+          "name": "policy enforcement",
+          "type": "skill"
+        },
+        {
+          "name": "workflow integrations",
+          "type": "skill"
+        },
+        {
+          "name": "device compliance",
+          "type": "skill"
+        },
+        {
+          "name": "automated IT workflows",
+          "type": "skill"
+        },
+        {
+          "name": "scripting",
+          "type": "skill"
+        },
+        {
+          "name": "orchestration",
+          "type": "skill"
+        },
+        {
+          "name": "low-code/no-code",
+          "type": "skill"
+        },
+        {
+          "name": "ITIL",
+          "type": "skill"
+        },
+        {
+          "name": "Agile",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "identity and access management",
+          "type": "skill"
+        },
+        {
+          "name": "endpoint management",
+          "type": "skill"
+        },
+        {
+          "name": "employee lifecycle automation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Okta Certified Professional",
+          "type": "certification"
+        },
+        {
+          "name": "JAMF Certified Expert",
+          "type": "certification"
+        },
+        {
+          "name": "Google Workspace Administrator",
+          "type": "certification"
+        },
+        {
+          "name": "Microsoft Intune Administrator",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Computer Science, Information Technology, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7+ years of experience in IT engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years in a senior or staff-level capacity",
+          "type": "requirement"
+        },
+        {
+          "name": "Expertise in Okta or similar identity platforms",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience integrating IAM with Google Workspace, Slack, and HRIS tools",
+          "type": "requirement"
+        },
+        {
+          "name": "Strong experience with MDM platforms such as JAMF, Kandji, and Intune",
+          "type": "requirement"
+        },
+        {
+          "name": "Hands-on experience building automated IT workflows",
+          "type": "requirement"
+        },
+        {
+          "name": "Proficiency in Python, Bash, and PowerShell",
+          "type": "requirement"
+        },
+        {
+          "name": "Understanding of IT architecture across SaaS, networking, and endpoint security",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4780711007,
+  "job_title": "Senior IT Engineer",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4780711007"
+}

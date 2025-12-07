@@ -1,0 +1,198 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "back-end interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "front-end interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "data processing",
+              "type": "skill"
+            },
+            {
+              "name": "model serving architectures",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking models",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning models",
+          "type": "skill"
+        },
+        {
+          "name": "prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning fundamentals",
+          "type": "skill"
+        },
+        {
+          "name": "training models",
+          "type": "skill"
+        },
+        {
+          "name": "deploying machine learning models to production",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "system prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "fine tuning models",
+          "type": "skill"
+        },
+        {
+          "name": "analyze request logs",
+          "type": "skill"
+        },
+        {
+          "name": "prompt data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "build internal tooling",
+          "type": "skill"
+        },
+        {
+          "name": "writing developer documentation",
+          "type": "skill"
+        },
+        {
+          "name": "creating and maintaining SDKs",
+          "type": "skill"
+        },
+        {
+          "name": "work with massive datasets",
+          "type": "skill"
+        },
+        {
+          "name": "optimize performance",
+          "type": "skill"
+        },
+        {
+          "name": "scale systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI product implementation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Software Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Physics",
+          "type": "qualification"
+        },
+        {
+          "name": "Data Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "6+ years of software engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in AI or machine learning product implementation with APIs, back-end and front-end interfaces",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4620575007,
+  "job_title": "Member of Technical Staff, Enterprise",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4620575007"
+}

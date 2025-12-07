@@ -1,0 +1,186 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "shell",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Helm",
+              "type": "skill"
+            },
+            {
+              "name": "Github Actions",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Puppet",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Postgres",
+              "type": "skill"
+            },
+            {
+              "name": "FoundationDB",
+              "type": "skill"
+            },
+            {
+              "name": "S3",
+              "type": "skill"
+            },
+            {
+              "name": "Athena",
+              "type": "skill"
+            },
+            {
+              "name": "BigQuery",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS EKS",
+              "type": "skill"
+            },
+            {
+              "name": "AWS RDS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "bare metal Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "fault-tolerant infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale distributed production systems",
+              "type": "skill"
+            },
+            {
+              "name": "RDBMS",
+              "type": "skill"
+            },
+            {
+              "name": "Linux systems administration",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "CI/CD",
+          "type": "skill"
+        },
+        {
+          "name": "IaC",
+          "type": "skill"
+        },
+        {
+          "name": "disaster recovery",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "infrastructure engineering",
+          "type": "skill"
+        },
+        {
+          "name": "database systems",
+          "type": "skill"
+        },
+        {
+          "name": "PCI compliance",
+          "type": "skill"
+        },
+        {
+          "name": "security",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Kubernetes and Helm chart construction",
+          "type": "requirement"
+        },
+        {
+          "name": "Administration experience with RDBMS and large-scale data systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Advanced Linux systems administration skills",
+          "type": "requirement"
+        },
+        {
+          "name": "PCI compliance experience",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with CI/CD tools Github Actions and ArgoCD",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with AWS EKS, RDS, and associated services",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with IaC tools Terraform and Puppet",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4801644007,
+  "job_title": "X Money Infrastructure Engineer",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4801644007"
+}

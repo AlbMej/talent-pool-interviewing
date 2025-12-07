@@ -1,0 +1,126 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed RL systems",
+              "type": "skill"
+            },
+            {
+              "name": "large scale distributed training systems",
+              "type": "skill"
+            },
+            {
+              "name": "inference systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "multi-agent reinforcement learning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "RL training frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "async RL training frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "system performance optimization",
+          "type": "skill"
+        },
+        {
+          "name": "software and algorithm co-design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "pretraining-scale RL",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "PhD in AI or other scientific domains",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building, debugging, and optimizing large scale distributed training systems",
+          "type": "requirement"
+        },
+        {
+          "name": "building async RL training frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "building infra for large-scale reinforcement learning and multi-agent reinforcement learning",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4799185007,
+  "job_title": "Member of Technical Staff, RL Training Framework",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4799185007"
+}

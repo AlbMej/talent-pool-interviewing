@@ -1,0 +1,125 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "NCCL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "RoCEv2",
+              "type": "skill"
+            },
+            {
+              "name": "Ethernet",
+              "type": "skill"
+            },
+            {
+              "name": "Infiniband",
+              "type": "skill"
+            },
+            {
+              "name": "GPU clusters",
+              "type": "skill"
+            },
+            {
+              "name": "congestion control",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI training workloads",
+          "type": "skill"
+        },
+        {
+          "name": "AI inference workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "debugging NCCL",
+          "type": "skill"
+        },
+        {
+          "name": "building metric dashboards",
+          "type": "skill"
+        },
+        {
+          "name": "tweaking configurations",
+          "type": "skill"
+        },
+        {
+          "name": "automating tasks",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing large sets of data",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI/HPC networking",
+          "type": "skill"
+        },
+        {
+          "name": "large scale networks",
+          "type": "skill"
+        },
+        {
+          "name": "data center networks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "10 years designing and operating large scale networks",
+          "type": "requirement"
+        },
+        {
+          "name": "5 years in ethernet AI/HPC space",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4946691007,
+  "job_title": "AI/HPC Network Development Engineer - Networking",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4946691007"
+}

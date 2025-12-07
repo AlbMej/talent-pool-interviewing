@@ -1,0 +1,168 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Procore",
+              "type": "skill"
+            },
+            {
+              "name": "AutoCAD",
+              "type": "skill"
+            },
+            {
+              "name": "MS Project",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "PowerPoint",
+              "type": "skill"
+            },
+            {
+              "name": "Word",
+              "type": "skill"
+            },
+            {
+              "name": "Teams",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Project",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "concrete pouring",
+              "type": "skill"
+            },
+            {
+              "name": "concrete forming",
+              "type": "skill"
+            },
+            {
+              "name": "concrete finishing",
+              "type": "skill"
+            },
+            {
+              "name": "underground utility installations",
+              "type": "skill"
+            },
+            {
+              "name": "underground infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "conduits",
+              "type": "skill"
+            },
+            {
+              "name": "piping",
+              "type": "skill"
+            },
+            {
+              "name": "foundations",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "construction critical paths",
+          "type": "skill"
+        },
+        {
+          "name": "sequencing",
+          "type": "skill"
+        },
+        {
+          "name": "workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "concrete work",
+          "type": "skill"
+        },
+        {
+          "name": "underground systems",
+          "type": "skill"
+        },
+        {
+          "name": "data center construction",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma or equivalency certificate",
+          "type": "qualification"
+        },
+        {
+          "name": "Postsecondary diploma or degree in construction management",
+          "type": "qualification"
+        },
+        {
+          "name": "Postsecondary diploma or degree in civil engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "managing construction teams with focus on concrete work and underground utilities",
+          "type": "requirement"
+        },
+        {
+          "name": "direct experience in concrete pouring, forming, finishing, and underground infrastructure for large-scale industrial or commercial projects",
+          "type": "requirement"
+        },
+        {
+          "name": "managing concrete and underground construction for data centers or high-tech facilities",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with Memphis building codes and regulations",
+          "type": "requirement"
+        },
+        {
+          "name": "knowledge of construction materials, specifications, and methods for concrete and underground systems",
+          "type": "requirement"
+        },
+        {
+          "name": "application of safety and environmental principles",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4724404007,
+  "job_title": "Construction Supervisor",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4724404007"
+}

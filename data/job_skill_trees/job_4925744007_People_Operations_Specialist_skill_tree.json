@@ -1,0 +1,82 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HRIS platforms",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "HR documentation management",
+          "type": "skill"
+        },
+        {
+          "name": "new hire onboarding",
+          "type": "skill"
+        },
+        {
+          "name": "HRIS audits",
+          "type": "skill"
+        },
+        {
+          "name": "background checks",
+          "type": "skill"
+        },
+        {
+          "name": "employee job changes",
+          "type": "skill"
+        },
+        {
+          "name": "international transfers",
+          "type": "skill"
+        },
+        {
+          "name": "off-boarding process",
+          "type": "skill"
+        },
+        {
+          "name": "employee file management",
+          "type": "skill"
+        },
+        {
+          "name": "process improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree or equivalent experience",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "1+ years of experience in an HR administration, operations, or generalist role",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925744007,
+  "job_title": "People Operations Specialist",
+  "location": "New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925744007"
+}

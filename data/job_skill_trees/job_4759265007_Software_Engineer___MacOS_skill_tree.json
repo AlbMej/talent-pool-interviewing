@@ -1,0 +1,137 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Swift",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Objective-C",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "AppKit",
+              "type": "skill"
+            },
+            {
+              "name": "SwiftUI",
+              "type": "skill"
+            },
+            {
+              "name": "Core Data",
+              "type": "skill"
+            },
+            {
+              "name": "Core Animation",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Xcode",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "macOS APIs",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "asset management",
+              "type": "skill"
+            },
+            {
+              "name": "UI prototyping",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "quantitative evaluations",
+          "type": "skill"
+        },
+        {
+          "name": "optimization and code refinement",
+          "type": "skill"
+        },
+        {
+          "name": "handling complex long-running tasks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "macOS development",
+          "type": "skill"
+        },
+        {
+          "name": "Swift-based development",
+          "type": "skill"
+        },
+        {
+          "name": "desktop applications",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building Mac applications end to end",
+          "type": "requirement"
+        },
+        {
+          "name": "shipping high-performance desktop applications",
+          "type": "requirement"
+        },
+        {
+          "name": "releases, publications, open source projects related to SwiftUI, AppKit, macOS",
+          "type": "requirement"
+        },
+        {
+          "name": "systems and engineering skills in development frameworks like Swift, Rust",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4759265007,
+  "job_title": "Software Engineer - MacOS",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4759265007"
+}

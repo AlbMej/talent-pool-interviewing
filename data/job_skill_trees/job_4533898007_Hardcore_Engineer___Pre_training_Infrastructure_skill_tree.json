@@ -1,0 +1,190 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            },
+            {
+              "name": "XLA",
+              "type": "skill"
+            },
+            {
+              "name": "CUDA",
+              "type": "skill"
+            },
+            {
+              "name": "Triton",
+              "type": "skill"
+            },
+            {
+              "name": "MLIR",
+              "type": "skill"
+            },
+            {
+              "name": "FSDP",
+              "type": "skill"
+            },
+            {
+              "name": "Megatron",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "ibverbs",
+              "type": "skill"
+            },
+            {
+              "name": "NVLink",
+              "type": "skill"
+            },
+            {
+              "name": "NCCL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "POSIX",
+              "type": "skill"
+            },
+            {
+              "name": "distributed training systems",
+              "type": "skill"
+            },
+            {
+              "name": "multi-host GPU utilization",
+              "type": "skill"
+            },
+            {
+              "name": "HPC clusters",
+              "type": "skill"
+            },
+            {
+              "name": "scalable orchestration framework",
+              "type": "skill"
+            },
+            {
+              "name": "machine learning compilers",
+              "type": "skill"
+            },
+            {
+              "name": "runtime",
+              "type": "skill"
+            },
+            {
+              "name": "distributed training strategies",
+              "type": "skill"
+            },
+            {
+              "name": "pipeline parallelism",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "distributed training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "profiling",
+          "type": "skill"
+        },
+        {
+          "name": "debugging",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing GPU utilization",
+          "type": "skill"
+        },
+        {
+          "name": "hardware/software/algorithm co-design",
+          "type": "skill"
+        },
+        {
+          "name": "configuring operating systems",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting operating systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "pre-training infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale distributed training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "configuring and troubleshooting operating systems for maximum performance",
+          "type": "requirement"
+        },
+        {
+          "name": "built scalable training framework for AI models in HPC clusters",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4533898007,
+  "job_title": "Hardcore Engineer - Pre-training Infrastructure",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4533898007"
+}

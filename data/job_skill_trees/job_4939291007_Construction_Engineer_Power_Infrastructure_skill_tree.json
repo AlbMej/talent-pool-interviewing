@@ -1,0 +1,172 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "natural gas power plants",
+              "type": "skill"
+            },
+            {
+              "name": "turbines",
+              "type": "skill"
+            },
+            {
+              "name": "control systems",
+              "type": "skill"
+            },
+            {
+              "name": "power distribution",
+              "type": "skill"
+            },
+            {
+              "name": "combined cycle power systems",
+              "type": "skill"
+            },
+            {
+              "name": "energy storage",
+              "type": "skill"
+            },
+            {
+              "name": "grid integration",
+              "type": "skill"
+            },
+            {
+              "name": "datacenter power infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "site preparation",
+          "type": "skill"
+        },
+        {
+          "name": "commissioning",
+          "type": "skill"
+        },
+        {
+          "name": "equipment installation",
+          "type": "skill"
+        },
+        {
+          "name": "procurement",
+          "type": "skill"
+        },
+        {
+          "name": "logistics",
+          "type": "skill"
+        },
+        {
+          "name": "risk assessment",
+          "type": "skill"
+        },
+        {
+          "name": "change management",
+          "type": "skill"
+        },
+        {
+          "name": "progress reports",
+          "type": "skill"
+        },
+        {
+          "name": "cost tracking",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "power generation",
+          "type": "skill"
+        },
+        {
+          "name": "industrial projects",
+          "type": "skill"
+        },
+        {
+          "name": "oil & gas projects",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "PE (Professional Engineer)",
+          "type": "certification"
+        },
+        {
+          "name": "PMP (Project Management Professional)",
+          "type": "certification"
+        },
+        {
+          "name": "CCM (Certified Construction Manager)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Civil Engineering, Mechanical Engineering, Electrical Engineering, Construction Management, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of experience in construction engineering, with a focus on industrial or power generation projects (e.g., natural gas plants, turbines, or similar infrastructure)",
+          "type": "requirement"
+        },
+        {
+          "name": "managing large-scale construction projects",
+          "type": "requirement"
+        },
+        {
+          "name": "site management",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with power generation systems including turbines, control systems, and power distribution",
+          "type": "requirement"
+        },
+        {
+          "name": "compliance with industry standards and regulations (e.g., ASME, IEEE, EPA)",
+          "type": "requirement"
+        },
+        {
+          "name": "7+ years of experience in construction engineering, particularly on power generation or oil & gas projects valued at >$100MM",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with major turbine manufacturers (e.g., GE, Siemens)",
+          "type": "requirement"
+        },
+        {
+          "name": "experience scaling construction processes across multiple sites",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4939291007,
+  "job_title": "Construction Engineer: Power Infrastructure",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4939291007"
+}

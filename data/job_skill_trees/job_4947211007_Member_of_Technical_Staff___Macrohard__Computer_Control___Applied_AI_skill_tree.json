@@ -1,0 +1,131 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable systems",
+              "type": "skill"
+            },
+            {
+              "name": "reliable systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLM agents",
+          "type": "skill"
+        },
+        {
+          "name": "Computer Use Agents",
+          "type": "skill"
+        },
+        {
+          "name": "computer control models",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation suites",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking AI systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "statistical analysis",
+          "type": "skill"
+        },
+        {
+          "name": "experimental design",
+          "type": "skill"
+        },
+        {
+          "name": "benchmark development",
+          "type": "skill"
+        },
+        {
+          "name": "production-ready implementations",
+          "type": "skill"
+        },
+        {
+          "name": "system design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "automating repetitive processes",
+          "type": "skill"
+        },
+        {
+          "name": "building and testing software",
+          "type": "skill"
+        },
+        {
+          "name": "long-horizon tasks",
+          "type": "skill"
+        },
+        {
+          "name": "enterprise applications",
+          "type": "skill"
+        },
+        {
+          "name": "browser-based agent performance",
+          "type": "skill"
+        },
+        {
+          "name": "real-world settings",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing and implementing evaluation frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "statistical analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "experimental design",
+          "type": "requirement"
+        },
+        {
+          "name": "benchmarking AI systems in real-world settings",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4947211007,
+  "job_title": "Member of Technical Staff - Macrohard / Computer Control - Applied AI",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4947211007"
+}

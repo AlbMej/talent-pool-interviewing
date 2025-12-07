@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI output refinement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "labeling",
+          "type": "skill"
+        },
+        {
+          "name": "annotation",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "task development",
+          "type": "skill"
+        },
+        {
+          "name": "text composition",
+          "type": "skill"
+        },
+        {
+          "name": "structural refinement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "textual presentation",
+          "type": "skill"
+        },
+        {
+          "name": "content organization",
+          "type": "skill"
+        },
+        {
+          "name": "narrative enhancement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "English",
+          "type": "qualification"
+        },
+        {
+          "name": "Journalism",
+          "type": "qualification"
+        },
+        {
+          "name": "Communications",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "published works",
+          "type": "requirement"
+        },
+        {
+          "name": "writing roles",
+          "type": "requirement"
+        },
+        {
+          "name": "editing roles",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4879785007,
+  "job_title": "Presentation & Writing Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4879785007"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Greenhouse",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HRIS onboarding systems",
+              "type": "skill"
+            },
+            {
+              "name": "applicant tracking system",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "full-cycle recruiting process",
+          "type": "skill"
+        },
+        {
+          "name": "onboarding process",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years in recruiting/talent acquisition",
+          "type": "requirement"
+        },
+        {
+          "name": "recruiting for technical roles",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4994284007,
+  "job_title": "Technical Recruiter",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4994284007"
+}

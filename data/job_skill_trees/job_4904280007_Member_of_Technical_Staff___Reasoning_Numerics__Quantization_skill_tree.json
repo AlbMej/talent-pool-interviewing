@@ -1,0 +1,202 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "CUDA",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "tools to analyze numerics",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "low-precision solutions",
+              "type": "skill"
+            },
+            {
+              "name": "kernels",
+              "type": "skill"
+            },
+            {
+              "name": "algorithms",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "numerics",
+          "type": "skill"
+        },
+        {
+          "name": "low-precision training",
+          "type": "skill"
+        },
+        {
+          "name": "low-precision inference",
+          "type": "skill"
+        },
+        {
+          "name": "quantization",
+          "type": "skill"
+        },
+        {
+          "name": "LLM inference",
+          "type": "skill"
+        },
+        {
+          "name": "LLM training",
+          "type": "skill"
+        },
+        {
+          "name": "numerical properties",
+          "type": "skill"
+        },
+        {
+          "name": "training dynamics",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning techniques",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "develop low-precision solutions from kernel to algorithm",
+          "type": "skill"
+        },
+        {
+          "name": "analyze numerical properties of models",
+          "type": "skill"
+        },
+        {
+          "name": "analyze training dynamics",
+          "type": "skill"
+        },
+        {
+          "name": "co-design models",
+          "type": "skill"
+        },
+        {
+          "name": "co-design systems",
+          "type": "skill"
+        },
+        {
+          "name": "co-design recipes for stable training",
+          "type": "skill"
+        },
+        {
+          "name": "co-design recipes for optimal inference",
+          "type": "skill"
+        },
+        {
+          "name": "building testing for numerics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "reasoning training",
+          "type": "skill"
+        },
+        {
+          "name": "RL training",
+          "type": "skill"
+        },
+        {
+          "name": "large scale reasoning training",
+          "type": "skill"
+        },
+        {
+          "name": "flagship models",
+          "type": "skill"
+        },
+        {
+          "name": "large language models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "PhD in AI",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in scientific domains",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "knowledge in quantization and numerics in LLM inference and training",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in building testing/tools to analyze numerics",
+          "type": "requirement"
+        },
+        {
+          "name": "understanding of training/inference frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "understanding of reinforcement learning techniques",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4904280007,
+  "job_title": "Member of Technical Staff - Reasoning Numerics / Quantization",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4904280007"
+}

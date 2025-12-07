@@ -1,0 +1,18 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Product",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4940376007,
+  "job_title": "Client Partner",
+  "location": "Los Angeles, CA; New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4940376007"
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kafka",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Postgres",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "microservices",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "high-concurrency transactions",
+              "type": "skill"
+            },
+            {
+              "name": "low-latency environments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "system architecture",
+          "type": "skill"
+        },
+        {
+          "name": "testing",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "backend development",
+          "type": "skill"
+        },
+        {
+          "name": "fintech",
+          "type": "skill"
+        },
+        {
+          "name": "payments",
+          "type": "skill"
+        },
+        {
+          "name": "fraud detection",
+          "type": "skill"
+        },
+        {
+          "name": "compliance",
+          "type": "skill"
+        },
+        {
+          "name": "financial data handling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of software engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "backend development",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4986034007,
+  "job_title": "Software Engineer, X Money",
+  "location": "Tokyo, JP",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4986034007"
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            },
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "text data annotation",
+              "type": "skill"
+            },
+            {
+              "name": "voice data annotation",
+              "type": "skill"
+            },
+            {
+              "name": "video data annotation",
+              "type": "skill"
+            },
+            {
+              "name": "audio recording",
+              "type": "skill"
+            },
+            {
+              "name": "video recording",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "macroeconomics",
+          "type": "skill"
+        },
+        {
+          "name": "microeconomics",
+          "type": "skill"
+        },
+        {
+          "name": "behavioral economics",
+          "type": "skill"
+        },
+        {
+          "name": "macroeconomic forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "microeconomic incentives",
+          "type": "skill"
+        },
+        {
+          "name": "behavioral experiments",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "PhD in Economics or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "publication in economics journal",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience as professor",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4922802007,
+  "job_title": "AI Economics Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4922802007"
+}

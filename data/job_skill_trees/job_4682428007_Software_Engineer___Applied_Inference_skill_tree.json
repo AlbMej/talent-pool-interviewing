@@ -1,0 +1,220 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Buildkite",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            },
+            {
+              "name": "Prometheus",
+              "type": "skill"
+            },
+            {
+              "name": "Grafana",
+              "type": "skill"
+            },
+            {
+              "name": "PagerDuty",
+              "type": "skill"
+            },
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "SGLang",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "model serving",
+              "type": "skill"
+            },
+            {
+              "name": "load balancing",
+              "type": "skill"
+            },
+            {
+              "name": "auto scaling",
+              "type": "skill"
+            },
+            {
+              "name": "batch scheduling",
+              "type": "skill"
+            },
+            {
+              "name": "KVcache systems",
+              "type": "skill"
+            },
+            {
+              "name": "inference services",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "fault-tolerant designs",
+              "type": "skill"
+            },
+            {
+              "name": "testing",
+              "type": "skill"
+            },
+            {
+              "name": "tracing",
+              "type": "skill"
+            },
+            {
+              "name": "replaying issues",
+              "type": "skill"
+            },
+            {
+              "name": "GPU kernels",
+              "type": "skill"
+            },
+            {
+              "name": "benchmarking",
+              "type": "skill"
+            },
+            {
+              "name": "fine-tuning inference engines",
+              "type": "skill"
+            },
+            {
+              "name": "CI/CD infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "endpoint deployment",
+              "type": "skill"
+            },
+            {
+              "name": "image publishing",
+              "type": "skill"
+            },
+            {
+              "name": "feature rollouts",
+              "type": "skill"
+            },
+            {
+              "name": "inference engine updates",
+              "type": "skill"
+            },
+            {
+              "name": "custom debugging tools",
+              "type": "skill"
+            },
+            {
+              "name": "custom tracing tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "GPU inference engines",
+          "type": "skill"
+        },
+        {
+          "name": "inference engines",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "proactive monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "fault-tolerant designs",
+          "type": "skill"
+        },
+        {
+          "name": "rigorous testing",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "model serving",
+          "type": "skill"
+        },
+        {
+          "name": "inference services",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "large-scale high-concurrent production serving",
+          "type": "requirement"
+        },
+        {
+          "name": "GPU inference engines",
+          "type": "requirement"
+        },
+        {
+          "name": "testing benchmarking reliability of inference services",
+          "type": "requirement"
+        },
+        {
+          "name": "designing implementing CI/CD infrastructure",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4682428007,
+  "job_title": "Software Engineer - Applied Inference",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4682428007"
+}

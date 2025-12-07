@@ -1,0 +1,129 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "access control systems",
+              "type": "skill"
+            },
+            {
+              "name": "video management systems",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "public safety procedures",
+              "type": "skill"
+            },
+            {
+              "name": "security protocols",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "security incident response",
+          "type": "skill"
+        },
+        {
+          "name": "security inspections",
+          "type": "skill"
+        },
+        {
+          "name": "security guard force oversight",
+          "type": "skill"
+        },
+        {
+          "name": "auditing security procedures",
+          "type": "skill"
+        },
+        {
+          "name": "incident documentation",
+          "type": "skill"
+        },
+        {
+          "name": "emergency drills",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "site security",
+          "type": "skill"
+        },
+        {
+          "name": "emergency response",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPR/AED",
+          "type": "certification"
+        },
+        {
+          "name": "CPP",
+          "type": "certification"
+        },
+        {
+          "name": "PSP",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3 years of security experience",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years of military, law enforcement, or emergency response experience",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years of leadership experience in military, law enforcement or emergency response",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in a safety function managing large sites, corporate, or manufacturing environments",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4801488007,
+  "job_title": "Security Specialist",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4801488007"
+}

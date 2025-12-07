@@ -1,0 +1,99 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "RoCEv2",
+              "type": "skill"
+            },
+            {
+              "name": "InfiniBand",
+              "type": "skill"
+            },
+            {
+              "name": "data center network fabrics",
+              "type": "skill"
+            },
+            {
+              "name": "hyperscale network environments",
+              "type": "skill"
+            },
+            {
+              "name": "AI networking",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "network infrastructure design",
+          "type": "skill"
+        },
+        {
+          "name": "network infrastructure development",
+          "type": "skill"
+        },
+        {
+          "name": "network infrastructure optimization",
+          "type": "skill"
+        },
+        {
+          "name": "automation of engineering tasks",
+          "type": "skill"
+        },
+        {
+          "name": "compute resource optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center fabrics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years as technical lead in AI networking",
+          "type": "requirement"
+        },
+        {
+          "name": "8+ years in hyperscale network environments",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years with RoCEv2 and/or InfiniBand technologies",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4950910007,
+  "job_title": "Lead Network Engineer - Core",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4950910007"
+}

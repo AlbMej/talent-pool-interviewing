@@ -1,0 +1,197 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "light meter",
+              "type": "skill"
+            },
+            {
+              "name": "OTDR",
+              "type": "skill"
+            },
+            {
+              "name": "OPMs",
+              "type": "skill"
+            },
+            {
+              "name": "fiber certifier",
+              "type": "skill"
+            },
+            {
+              "name": "loopback",
+              "type": "skill"
+            },
+            {
+              "name": "optical probes",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Office",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Power Point",
+              "type": "skill"
+            },
+            {
+              "name": "Word",
+              "type": "skill"
+            },
+            {
+              "name": "Teams",
+              "type": "skill"
+            },
+            {
+              "name": "Project",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "optical fiber",
+              "type": "skill"
+            },
+            {
+              "name": "fiber optics systems",
+              "type": "skill"
+            },
+            {
+              "name": "fiber splicing",
+              "type": "skill"
+            },
+            {
+              "name": "structured cabling",
+              "type": "skill"
+            },
+            {
+              "name": "switches",
+              "type": "skill"
+            },
+            {
+              "name": "port identifications",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "troubleshooting fiber optics",
+          "type": "skill"
+        },
+        {
+          "name": "installing fiber optics",
+          "type": "skill"
+        },
+        {
+          "name": "certifying fiber",
+          "type": "skill"
+        },
+        {
+          "name": "fiber cleaning",
+          "type": "skill"
+        },
+        {
+          "name": "signal strength tracking",
+          "type": "skill"
+        },
+        {
+          "name": "system records maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "system designs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center cabling",
+          "type": "skill"
+        },
+        {
+          "name": "hyperscale data centers",
+          "type": "skill"
+        },
+        {
+          "name": "fiber types",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "fiber optics certification",
+          "type": "certification"
+        },
+        {
+          "name": "cable installation certification",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "high school diploma",
+          "type": "qualification"
+        },
+        {
+          "name": "equivalency certificate",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "managing teams for data center cabling",
+          "type": "requirement"
+        },
+        {
+          "name": "installing and routing optical fiber in Tier 3 or 4 facilities",
+          "type": "requirement"
+        },
+        {
+          "name": "fiber splicing",
+          "type": "requirement"
+        },
+        {
+          "name": "installing, certifying, and troubleshooting fiber in hyperscale data centers",
+          "type": "requirement"
+        },
+        {
+          "name": "installing structured cabling",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4968038007,
+  "job_title": "Fiber Foreman",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4968038007"
+}

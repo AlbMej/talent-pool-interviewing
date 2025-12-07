@@ -1,0 +1,142 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "OSPF",
+              "type": "skill"
+            },
+            {
+              "name": "ZTP",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "hyper scale networks",
+              "type": "skill"
+            },
+            {
+              "name": "ethernet",
+              "type": "skill"
+            },
+            {
+              "name": "infiniband",
+              "type": "skill"
+            },
+            {
+              "name": "RoCEv2",
+              "type": "skill"
+            },
+            {
+              "name": "AI/HPC workloads",
+              "type": "skill"
+            },
+            {
+              "name": "data center networks",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale GPU clusters",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "scalable network architectures",
+          "type": "skill"
+        },
+        {
+          "name": "network automation",
+          "type": "skill"
+        },
+        {
+          "name": "network monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "network performance analysis",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI/HPC",
+          "type": "skill"
+        },
+        {
+          "name": "data center buildouts",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science, Electrical Engineering, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5 years designing and operating hyper scale networks",
+          "type": "requirement"
+        },
+        {
+          "name": "3 years in ethernet/infiniband AI/HPC",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4803274007,
+  "job_title": "Core Network Development Engineer - xAI Networking",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4803274007"
+}

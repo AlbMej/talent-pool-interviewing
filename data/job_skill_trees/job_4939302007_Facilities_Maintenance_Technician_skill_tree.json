@@ -1,0 +1,153 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "hand tools",
+              "type": "skill"
+            },
+            {
+              "name": "power tools",
+              "type": "skill"
+            },
+            {
+              "name": "basic diagnostic equipment",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "mechanical systems",
+              "type": "skill"
+            },
+            {
+              "name": "electrical systems",
+              "type": "skill"
+            },
+            {
+              "name": "plumbing systems",
+              "type": "skill"
+            },
+            {
+              "name": "building management systems (BMS)",
+              "type": "skill"
+            },
+            {
+              "name": "environmental monitoring tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "standard operating procedures (SOPs)",
+          "type": "skill"
+        },
+        {
+          "name": "preventive maintenance scheduling",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "daily inspections",
+          "type": "skill"
+        },
+        {
+          "name": "spare parts inventory management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "chiller maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "CDU filter changeouts",
+          "type": "skill"
+        },
+        {
+          "name": "leak detection verification",
+          "type": "skill"
+        },
+        {
+          "name": "building envelope maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "landscaping",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "EPA Universal Refrigerant Certification (EPA 608 Technician)",
+          "type": "certification"
+        },
+        {
+          "name": "HVAC certification",
+          "type": "certification"
+        },
+        {
+          "name": "electrical certification",
+          "type": "certification"
+        },
+        {
+          "name": "mechanical certification",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Associate’s degree in a technical field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of experience in facilities maintenance",
+          "type": "requirement"
+        },
+        {
+          "name": "data center experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4939302007,
+  "job_title": "Facilities Maintenance Technician",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4939302007"
+}

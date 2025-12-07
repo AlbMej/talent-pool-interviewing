@@ -1,0 +1,217 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "labels",
+          "type": "skill"
+        },
+        {
+          "name": "annotations",
+          "type": "skill"
+        },
+        {
+          "name": "curated data",
+          "type": "skill"
+        },
+        {
+          "name": "visual nuances",
+          "type": "skill"
+        },
+        {
+          "name": "cinematographic techniques",
+          "type": "skill"
+        },
+        {
+          "name": "visual narratives",
+          "type": "skill"
+        },
+        {
+          "name": "visual interpretation",
+          "type": "skill"
+        },
+        {
+          "name": "visual creation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "task development",
+          "type": "skill"
+        },
+        {
+          "name": "workflow improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "cinematography",
+          "type": "skill"
+        },
+        {
+          "name": "videography",
+          "type": "skill"
+        },
+        {
+          "name": "film production",
+          "type": "skill"
+        },
+        {
+          "name": "video editing",
+          "type": "skill"
+        },
+        {
+          "name": "content creation",
+          "type": "skill"
+        },
+        {
+          "name": "visual media analysis",
+          "type": "skill"
+        },
+        {
+          "name": "composition",
+          "type": "skill"
+        },
+        {
+          "name": "lighting",
+          "type": "skill"
+        },
+        {
+          "name": "editing",
+          "type": "skill"
+        },
+        {
+          "name": "narrative flow",
+          "type": "skill"
+        },
+        {
+          "name": "multimedia elements",
+          "type": "skill"
+        },
+        {
+          "name": "images",
+          "type": "skill"
+        },
+        {
+          "name": "videos",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Film",
+          "type": "qualification"
+        },
+        {
+          "name": "Media Studies",
+          "type": "qualification"
+        },
+        {
+          "name": "Visual Arts",
+          "type": "qualification"
+        },
+        {
+          "name": "related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "hands-on production in cinematography or videography",
+          "type": "requirement"
+        },
+        {
+          "name": "analyzing and critiquing visual media",
+          "type": "requirement"
+        },
+        {
+          "name": "referencing industry standards for visual content",
+          "type": "requirement"
+        },
+        {
+          "name": "film production",
+          "type": "requirement"
+        },
+        {
+          "name": "video editing",
+          "type": "requirement"
+        },
+        {
+          "name": "content creation",
+          "type": "requirement"
+        },
+        {
+          "name": "visual critique and feedback",
+          "type": "requirement"
+        },
+        {
+          "name": "producing and sharing visual works",
+          "type": "requirement"
+        },
+        {
+          "name": "creating short films",
+          "type": "requirement"
+        },
+        {
+          "name": "creating advertisements",
+          "type": "requirement"
+        },
+        {
+          "name": "creating marketing materials",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4879781007,
+  "job_title": "Image & Video Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4879781007"
+}

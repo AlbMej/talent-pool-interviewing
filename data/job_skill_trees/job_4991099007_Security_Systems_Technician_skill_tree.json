@@ -1,0 +1,112 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "industry standard installation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "low voltage electrical systems",
+              "type": "skill"
+            },
+            {
+              "name": "video management systems",
+              "type": "skill"
+            },
+            {
+              "name": "access control systems",
+              "type": "skill"
+            },
+            {
+              "name": "surveillance cameras",
+              "type": "skill"
+            },
+            {
+              "name": "intrusion systems",
+              "type": "skill"
+            },
+            {
+              "name": "physical security systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "system architecture documentation",
+          "type": "skill"
+        },
+        {
+          "name": "technical surveillance countermeasures (TSCM) surveys",
+          "type": "skill"
+        },
+        {
+          "name": "security system design",
+          "type": "skill"
+        },
+        {
+          "name": "installation plans",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "technical security systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Gallagher",
+          "type": "certification"
+        },
+        {
+          "name": "Genetec",
+          "type": "certification"
+        },
+        {
+          "name": "BICSI",
+          "type": "certification"
+        },
+        {
+          "name": "CCNA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3-5+ years of experience servicing, installing, and maintaining technical security systems for corporate, manufacturing, and retail facilities",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4991099007,
+  "job_title": "Security Systems Technician",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4991099007"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "dataset generation",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "dataset generation",
+          "type": "skill"
+        },
+        {
+          "name": "model development",
+          "type": "skill"
+        },
+        {
+          "name": "feedback loops",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "coding agents",
+          "type": "skill"
+        },
+        {
+          "name": "AI assisted software development",
+          "type": "skill"
+        },
+        {
+          "name": "software developer tooling",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "data processing",
+          "type": "requirement"
+        },
+        {
+          "name": "developer tooling",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4800098007,
+  "job_title": "Member of Technical Staff - Coding Agents, Post Training - RL, Evals",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4800098007"
+}

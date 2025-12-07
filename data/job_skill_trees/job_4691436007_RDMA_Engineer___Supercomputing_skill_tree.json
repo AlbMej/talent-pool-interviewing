@@ -1,0 +1,206 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "MPI",
+              "type": "skill"
+            },
+            {
+              "name": "NCCL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "libibverbs",
+              "type": "skill"
+            },
+            {
+              "name": "NVPeerMemory",
+              "type": "skill"
+            },
+            {
+              "name": "Mellanox drivers",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "RDMA",
+              "type": "skill"
+            },
+            {
+              "name": "GPUDirect RDMA",
+              "type": "skill"
+            },
+            {
+              "name": "RoCE",
+              "type": "skill"
+            },
+            {
+              "name": "InfiniBand",
+              "type": "skill"
+            },
+            {
+              "name": "NVIDIA GPUs",
+              "type": "skill"
+            },
+            {
+              "name": "Mellanox NICs",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "GPU-accelerated workloads",
+              "type": "skill"
+            },
+            {
+              "name": "containerized environments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI training workflows",
+          "type": "skill"
+        },
+        {
+          "name": "inference workloads",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale parameter synchronization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "low-level networking optimization",
+          "type": "skill"
+        },
+        {
+          "name": "system optimization",
+          "type": "skill"
+        },
+        {
+          "name": "data pipelines acceleration",
+          "type": "skill"
+        },
+        {
+          "name": "performance bottlenecks troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "high-throughput networking",
+          "type": "skill"
+        },
+        {
+          "name": "low-latency networking",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "supercomputing",
+          "type": "skill"
+        },
+        {
+          "name": "HPC",
+          "type": "skill"
+        },
+        {
+          "name": "AI supercomputing",
+          "type": "skill"
+        },
+        {
+          "name": "distributed compute systems",
+          "type": "skill"
+        },
+        {
+          "name": "distributed storage systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience with NVIDIA RDMA technologies in HPC environments",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with NVIDIA RDMA technologies in AI supercomputing environments",
+          "type": "requirement"
+        },
+        {
+          "name": "experience optimizing distributed systems with MPI",
+          "type": "requirement"
+        },
+        {
+          "name": "experience optimizing distributed systems with NCCL",
+          "type": "requirement"
+        },
+        {
+          "name": "knowledge of Kubernetes networking",
+          "type": "requirement"
+        },
+        {
+          "name": "integrating RDMA into containerized environments",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4691436007,
+  "job_title": "RDMA Engineer - Supercomputing",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4691436007"
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Greenhouse ATS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "security clearances (TS/SCI)",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "full-cycle recruiting",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven decision-making",
+          "type": "skill"
+        },
+        {
+          "name": "sourcing strategies",
+          "type": "skill"
+        },
+        {
+          "name": "high-volume pipelines",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "technical recruiting",
+          "type": "skill"
+        },
+        {
+          "name": "research hiring",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of experience in recruiting at fast-paced, hyper-growth environments",
+          "type": "requirement"
+        },
+        {
+          "name": "experience hiring technical talent with security clearances (TS/SCI)",
+          "type": "requirement"
+        },
+        {
+          "name": "proven track record of developing and managing high-volume pipelines and specialty technical positions",
+          "type": "requirement"
+        },
+        {
+          "name": "full-cycle recruiting experience",
+          "type": "requirement"
+        },
+        {
+          "name": "experience hiring candidates across all technical disciplines, including research",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4927698007,
+  "job_title": "Technical Recruiter, Government",
+  "location": "New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4927698007"
+}

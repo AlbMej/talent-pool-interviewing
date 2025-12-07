@@ -1,0 +1,197 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            },
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "text data labeling",
+              "type": "skill"
+            },
+            {
+              "name": "voice data labeling",
+              "type": "skill"
+            },
+            {
+              "name": "video data labeling",
+              "type": "skill"
+            },
+            {
+              "name": "audio recording",
+              "type": "skill"
+            },
+            {
+              "name": "video recording",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "model performance improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "problem selection in medical fields",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "medicine",
+          "type": "skill"
+        },
+        {
+          "name": "pharmacy",
+          "type": "skill"
+        },
+        {
+          "name": "differential diagnosis",
+          "type": "skill"
+        },
+        {
+          "name": "patient management",
+          "type": "skill"
+        },
+        {
+          "name": "medical imaging",
+          "type": "skill"
+        },
+        {
+          "name": "clinical decision-making",
+          "type": "skill"
+        },
+        {
+          "name": "pharmaceutical discovery",
+          "type": "skill"
+        },
+        {
+          "name": "diagnostic imaging",
+          "type": "skill"
+        },
+        {
+          "name": "medical procedures",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "MD",
+          "type": "qualification"
+        },
+        {
+          "name": "DO",
+          "type": "qualification"
+        },
+        {
+          "name": "NP",
+          "type": "qualification"
+        },
+        {
+          "name": "PharmD",
+          "type": "qualification"
+        },
+        {
+          "name": "DDS",
+          "type": "qualification"
+        },
+        {
+          "name": "DMD",
+          "type": "qualification"
+        },
+        {
+          "name": "Master’s in related field",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "navigating information resources",
+          "type": "requirement"
+        },
+        {
+          "name": "navigating databases",
+          "type": "requirement"
+        },
+        {
+          "name": "navigating online resources",
+          "type": "requirement"
+        },
+        {
+          "name": "publications",
+          "type": "requirement"
+        },
+        {
+          "name": "first-authorship in journal",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "Teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "Technical writing experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4855858007,
+  "job_title": "Medicine Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4855858007"
+}

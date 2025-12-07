@@ -1,0 +1,88 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "WebSocket",
+              "type": "skill"
+            },
+            {
+              "name": "WebRTC",
+              "type": "skill"
+            },
+            {
+              "name": "low-latency systems",
+              "type": "skill"
+            },
+            {
+              "name": "high performance media processing pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "audio research",
+          "type": "skill"
+        },
+        {
+          "name": "gameplay research",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "building high performance media processing pipelines",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "realtime avatar products",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "iOS experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4789505007,
+  "job_title": "Fullstack Engineer - Companions",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4789505007"
+}

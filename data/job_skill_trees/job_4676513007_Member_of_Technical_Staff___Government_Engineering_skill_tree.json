@@ -1,0 +1,239 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "secure API design",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "back-end systems",
+              "type": "skill"
+            },
+            {
+              "name": "front-end interfaces",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLM-powered software",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking models",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "system prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "secure deployment",
+          "type": "skill"
+        },
+        {
+          "name": "scalable deployment",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "training",
+          "type": "skill"
+        },
+        {
+          "name": "deploying machine learning models to production",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "analyzing request logs",
+          "type": "skill"
+        },
+        {
+          "name": "prompt data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "system outputs analysis",
+          "type": "skill"
+        },
+        {
+          "name": "building internal tooling",
+          "type": "skill"
+        },
+        {
+          "name": "automating tasks",
+          "type": "skill"
+        },
+        {
+          "name": "refining SDKs",
+          "type": "skill"
+        },
+        {
+          "name": "developer documentation",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure-as-code",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing system performance",
+          "type": "skill"
+        },
+        {
+          "name": "scaling solutions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "secure environments",
+          "type": "skill"
+        },
+        {
+          "name": "regulated environments",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "U.S. security clearance (Secret, Top Secret)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Software Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Physics",
+          "type": "qualification"
+        },
+        {
+          "name": "Data Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "6+ years of software engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "working with government agencies on AI, software, or data projects",
+          "type": "requirement"
+        },
+        {
+          "name": "implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces",
+          "type": "requirement"
+        },
+        {
+          "name": "deploying machine learning models to production in secure or cloud-based government environments",
+          "type": "requirement"
+        },
+        {
+          "name": "working with massive datasets",
+          "type": "requirement"
+        },
+        {
+          "name": "optimizing system performance",
+          "type": "requirement"
+        },
+        {
+          "name": "scaling solutions for high-throughput workloads",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4676513007,
+  "job_title": "Member of Technical Staff - Government Engineering",
+  "location": "Palo Alto, CA; San Francisco, CA; Washington, D.C.",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4676513007"
+}

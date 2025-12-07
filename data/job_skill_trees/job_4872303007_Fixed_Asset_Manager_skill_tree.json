@@ -1,0 +1,286 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "NetSuite",
+              "type": "skill"
+            },
+            {
+              "name": "SAP",
+              "type": "skill"
+            },
+            {
+              "name": "Oracle",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Microsoft Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Power BI",
+              "type": "skill"
+            },
+            {
+              "name": "barcode/RFID integration",
+              "type": "skill"
+            },
+            {
+              "name": "workflow tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "GPUs",
+              "type": "skill"
+            },
+            {
+              "name": "networking equipment",
+              "type": "skill"
+            },
+            {
+              "name": "power and cooling systems",
+              "type": "skill"
+            },
+            {
+              "name": "leasehold improvements",
+              "type": "skill"
+            },
+            {
+              "name": "data center equipment",
+              "type": "skill"
+            },
+            {
+              "name": "servers",
+              "type": "skill"
+            },
+            {
+              "name": "networking hardware",
+              "type": "skill"
+            },
+            {
+              "name": "cooling systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "fixed asset lifecycle management",
+          "type": "skill"
+        },
+        {
+          "name": "capitalization",
+          "type": "skill"
+        },
+        {
+          "name": "depreciation",
+          "type": "skill"
+        },
+        {
+          "name": "transfers",
+          "type": "skill"
+        },
+        {
+          "name": "impairments",
+          "type": "skill"
+        },
+        {
+          "name": "disposal",
+          "type": "skill"
+        },
+        {
+          "name": "U.S. GAAP (ASC 360)",
+          "type": "skill"
+        },
+        {
+          "name": "fixed asset subledger maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "monthly roll-forwards",
+          "type": "skill"
+        },
+        {
+          "name": "audits",
+          "type": "skill"
+        },
+        {
+          "name": "physical inventories",
+          "type": "skill"
+        },
+        {
+          "name": "cycle counts",
+          "type": "skill"
+        },
+        {
+          "name": "asset tagging",
+          "type": "skill"
+        },
+        {
+          "name": "tracking processes",
+          "type": "skill"
+        },
+        {
+          "name": "depreciation schedules",
+          "type": "skill"
+        },
+        {
+          "name": "straight-line",
+          "type": "skill"
+        },
+        {
+          "name": "MACRS",
+          "type": "skill"
+        },
+        {
+          "name": "forecasts of depreciation expense",
+          "type": "skill"
+        },
+        {
+          "name": "capital expenditures",
+          "type": "skill"
+        },
+        {
+          "name": "asset installation",
+          "type": "skill"
+        },
+        {
+          "name": "commissioning workflows",
+          "type": "skill"
+        },
+        {
+          "name": "financial reporting",
+          "type": "skill"
+        },
+        {
+          "name": "schedules",
+          "type": "skill"
+        },
+        {
+          "name": "disclosures",
+          "type": "skill"
+        },
+        {
+          "name": "impairment testing",
+          "type": "skill"
+        },
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "process improvement",
+          "type": "skill"
+        },
+        {
+          "name": "tax depreciation requirements",
+          "type": "skill"
+        },
+        {
+          "name": "tax fixed asset reporting",
+          "type": "skill"
+        },
+        {
+          "name": "capitalization policies",
+          "type": "skill"
+        },
+        {
+          "name": "useful life tables",
+          "type": "skill"
+        },
+        {
+          "name": "componentization guidance",
+          "type": "skill"
+        },
+        {
+          "name": "ASC 842 interaction",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "fixed asset accounting",
+          "type": "skill"
+        },
+        {
+          "name": "AI compute assets",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        },
+        {
+          "name": "CMA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Accounting, Finance, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of progressive accounting/management experience",
+          "type": "requirement"
+        },
+        {
+          "name": "prior work in technology, manufacturing, hyperscale data centers, or semiconductor industries",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on expertise with Tier-1 ERP fixed asset modules",
+          "type": "requirement"
+        },
+        {
+          "name": "advanced data analysis skills",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4872303007,
+  "job_title": "Fixed Asset Manager",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4872303007"
+}

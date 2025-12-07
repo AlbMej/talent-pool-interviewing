@@ -1,0 +1,150 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Bloomberg",
+              "type": "skill"
+            },
+            {
+              "name": "Reuters",
+              "type": "skill"
+            },
+            {
+              "name": "SEC filings",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "financial modeling",
+          "type": "skill"
+        },
+        {
+          "name": "risk assessment",
+          "type": "skill"
+        },
+        {
+          "name": "investment analysis",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "equities",
+          "type": "skill"
+        },
+        {
+          "name": "commodities",
+          "type": "skill"
+        },
+        {
+          "name": "real estate",
+          "type": "skill"
+        },
+        {
+          "name": "fixed income",
+          "type": "skill"
+        },
+        {
+          "name": "forex",
+          "type": "skill"
+        },
+        {
+          "name": "derivatives",
+          "type": "skill"
+        },
+        {
+          "name": "accounting",
+          "type": "skill"
+        },
+        {
+          "name": "taxation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        },
+        {
+          "name": "CFA Charterholder",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's or PhD in Finance, Economics, Business Administration with finance focus, or related disciplines",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "investment analyst specializing in equity, commodities, real estate, fixed income, or accounting",
+          "type": "requirement"
+        },
+        {
+          "name": "professional experience as investment analyst, portfolio or wealth manager, or financial consultant",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience in finance-related subjects",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with publication in finance or economics journal",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4760806007,
+  "job_title": "AI Finance Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4760806007"
+}

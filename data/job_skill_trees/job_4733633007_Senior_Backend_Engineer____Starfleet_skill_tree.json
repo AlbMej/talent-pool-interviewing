@@ -1,0 +1,166 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Typescript",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "Express",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "PostgreSQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "GPU resources",
+              "type": "skill"
+            },
+            {
+              "name": "high-throughput data processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "human data generation",
+          "type": "skill"
+        },
+        {
+          "name": "agentic workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data pipelines for machine learning workloads",
+          "type": "skill"
+        },
+        {
+          "name": "real-time applications",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "frontier model performance",
+          "type": "skill"
+        },
+        {
+          "name": "model capabilities",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "safety",
+          "type": "skill"
+        },
+        {
+          "name": "alignment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building high-performance backend systems",
+          "type": "requirement"
+        },
+        {
+          "name": "designing scalable distributed systems and APIs with compiled languages",
+          "type": "requirement"
+        },
+        {
+          "name": "optimizing data pipelines for machine learning workloads",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with frontend technologies",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4733633007,
+  "job_title": "Senior Backend Engineer -  Starfleet",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4733633007"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "embedded systems",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale distributed infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "production infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "frontier AI models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "model development",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4956070007,
+  "job_title": "Exceptional Software Engineer (London)",
+  "location": "London, UK",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4956070007"
+}

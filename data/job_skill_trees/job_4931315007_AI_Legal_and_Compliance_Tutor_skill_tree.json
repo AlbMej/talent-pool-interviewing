@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            },
+            {
+              "name": "Chromebook",
+              "type": "skill"
+            },
+            {
+              "name": "macOS 11.0 or later",
+              "type": "skill"
+            },
+            {
+              "name": "Windows 10 or later",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotations",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data annotation workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "regulatory compliance",
+          "type": "skill"
+        },
+        {
+          "name": "contract analysis",
+          "type": "skill"
+        },
+        {
+          "name": "legal research",
+          "type": "skill"
+        },
+        {
+          "name": "dispute resolution",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "JD",
+          "type": "certification"
+        },
+        {
+          "name": "bar admission",
+          "type": "certification"
+        },
+        {
+          "name": "Certified Compliance Professional",
+          "type": "certification"
+        },
+        {
+          "name": "legal/compliance certification",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in legal, compliance, or related fields",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4931315007,
+  "job_title": "AI Legal and Compliance Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4931315007"
+}

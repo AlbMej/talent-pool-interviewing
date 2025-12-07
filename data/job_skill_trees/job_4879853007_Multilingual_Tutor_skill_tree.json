@@ -1,0 +1,108 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            },
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "multilingual text processing",
+              "type": "skill"
+            },
+            {
+              "name": "translations",
+              "type": "skill"
+            },
+            {
+              "name": "cultural adaptations",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "annotations",
+          "type": "skill"
+        },
+        {
+          "name": "labels",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "task development",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multilingual capabilities",
+          "type": "skill"
+        },
+        {
+          "name": "language representation",
+          "type": "skill"
+        },
+        {
+          "name": "contextual fidelity",
+          "type": "skill"
+        },
+        {
+          "name": "linguistics",
+          "type": "skill"
+        },
+        {
+          "name": "content localization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "multilingual data annotation",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4879853007,
+  "job_title": "Multilingual Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4879853007"
+}

@@ -1,0 +1,153 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "hand tools",
+              "type": "skill"
+            },
+            {
+              "name": "power tools",
+              "type": "skill"
+            },
+            {
+              "name": "internal applications for inventory and asset management",
+              "type": "skill"
+            },
+            {
+              "name": "environmental monitoring tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HVAC systems",
+              "type": "skill"
+            },
+            {
+              "name": "power distribution",
+              "type": "skill"
+            },
+            {
+              "name": "backup systems",
+              "type": "skill"
+            },
+            {
+              "name": "electrical systems",
+              "type": "skill"
+            },
+            {
+              "name": "mechanical systems",
+              "type": "skill"
+            },
+            {
+              "name": "building management systems (BMS)",
+              "type": "skill"
+            },
+            {
+              "name": "PLC-based control systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "preventive maintenance schedules",
+          "type": "skill"
+        },
+        {
+          "name": "equipment calibration",
+          "type": "skill"
+        },
+        {
+          "name": "system performance monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "standard operating procedures (SOPs)",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "critical facilities systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Project Management Professional (PMP)",
+          "type": "certification"
+        },
+        {
+          "name": "EPA Universal Refrigerant Certification (EPA 608 Technician)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Mechanical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor’s degree in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "related engineering field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "8+ years managing critical facilities systems including power, cooling, and environmental controls",
+          "type": "requirement"
+        },
+        {
+          "name": "8+ years troubleshooting and maintaining critical facilities infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years in inventory management including ordering, receiving, and maintaining facilities equipment",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in programming PLC-based control systems or working with Building Management Systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4821683007,
+  "job_title": "Facilities Operations Lead",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4821683007"
+}

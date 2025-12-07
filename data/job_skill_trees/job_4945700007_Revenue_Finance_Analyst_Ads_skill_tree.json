@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "SQL",
+              "type": "skill"
+            },
+            {
+              "name": "Tableau",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "financial modeling",
+              "type": "skill"
+            },
+            {
+              "name": "revenue forecasting models",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "revenue trend analysis",
+          "type": "skill"
+        },
+        {
+          "name": "financial data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "revenue recognition",
+          "type": "skill"
+        },
+        {
+          "name": "accounting processes",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "advertising revenue",
+          "type": "skill"
+        },
+        {
+          "name": "financial analysis",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Finance",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor’s degree in Accounting",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor’s degree in Economics",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "corporate finance",
+          "type": "requirement"
+        },
+        {
+          "name": "investment banking",
+          "type": "requirement"
+        },
+        {
+          "name": "strategic finance",
+          "type": "requirement"
+        },
+        {
+          "name": "management consulting",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4945700007,
+  "job_title": "Revenue Finance Analyst, Ads",
+  "location": "New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4945700007"
+}

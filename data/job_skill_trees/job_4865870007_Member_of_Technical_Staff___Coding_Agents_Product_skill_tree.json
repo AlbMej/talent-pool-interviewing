@@ -1,0 +1,80 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "command-line interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "remote agents",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "coding agents",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data collection",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "software developer tooling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience using coding agents",
+          "type": "requirement"
+        },
+        {
+          "name": "experience developing products on coding agents",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4865870007,
+  "job_title": "Member of Technical Staff - Coding Agents, Product",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4865870007"
+}

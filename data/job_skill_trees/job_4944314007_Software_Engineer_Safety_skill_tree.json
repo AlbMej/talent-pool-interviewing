@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Scala",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Scalding",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "high-scale event processing",
+              "type": "skill"
+            },
+            {
+              "name": "backend systems",
+              "type": "skill"
+            },
+            {
+              "name": "data systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Map-Reduce",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "abuse detection",
+          "type": "skill"
+        },
+        {
+          "name": "spam remediation",
+          "type": "skill"
+        },
+        {
+          "name": "child safety",
+          "type": "skill"
+        },
+        {
+          "name": "fraud prevention",
+          "type": "skill"
+        },
+        {
+          "name": "payments risk",
+          "type": "skill"
+        },
+        {
+          "name": "abuse mitigation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "backend or data systems",
+          "type": "requirement"
+        },
+        {
+          "name": "scalable software services",
+          "type": "requirement"
+        },
+        {
+          "name": "distributed systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4944314007,
+  "job_title": "Software Engineer, Safety",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4944314007"
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Workday",
+              "type": "skill"
+            },
+            {
+              "name": "Jira",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "ticketing systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "reporting",
+          "type": "skill"
+        },
+        {
+          "name": "process improvements",
+          "type": "skill"
+        },
+        {
+          "name": "automation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "HR operations",
+          "type": "skill"
+        },
+        {
+          "name": "employee lifecycle",
+          "type": "skill"
+        },
+        {
+          "name": "onboarding",
+          "type": "skill"
+        },
+        {
+          "name": "offboarding",
+          "type": "skill"
+        },
+        {
+          "name": "PTO accrual",
+          "type": "skill"
+        },
+        {
+          "name": "overtime allocations",
+          "type": "skill"
+        },
+        {
+          "name": "global leaves of absences",
+          "type": "skill"
+        },
+        {
+          "name": "contractor management",
+          "type": "skill"
+        },
+        {
+          "name": "vendor management",
+          "type": "skill"
+        },
+        {
+          "name": "data integrity",
+          "type": "skill"
+        },
+        {
+          "name": "compliance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree or equivalent",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "10+ years of HR generalist experience",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years of experience as a People Manager",
+          "type": "requirement"
+        },
+        {
+          "name": "In-depth knowledge of global HR regulatory requirements and labor laws",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with Workday and Jira or other ticketing systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Strong Excel skills for data analysis and reporting",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4936620007,
+  "job_title": "Manager, HR Operations",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4936620007"
+}

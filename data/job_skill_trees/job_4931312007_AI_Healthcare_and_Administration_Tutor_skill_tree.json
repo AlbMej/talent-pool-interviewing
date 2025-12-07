@@ -1,0 +1,153 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            },
+            {
+              "name": "Chromebook",
+              "type": "skill"
+            },
+            {
+              "name": "Mac with macOS 11.0 or later",
+              "type": "skill"
+            },
+            {
+              "name": "Windows 10 or later",
+              "type": "skill"
+            },
+            {
+              "name": "smartphone",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data annotation workflows",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "data annotations",
+          "type": "skill"
+        },
+        {
+          "name": "data labels",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tool design",
+          "type": "skill"
+        },
+        {
+          "name": "data analysis",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "healthcare administration",
+          "type": "skill"
+        },
+        {
+          "name": "patient care coordination",
+          "type": "skill"
+        },
+        {
+          "name": "medical billing",
+          "type": "skill"
+        },
+        {
+          "name": "administrative workflows",
+          "type": "skill"
+        },
+        {
+          "name": "healthcare operations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Certified Medical Manager",
+          "type": "certification"
+        },
+        {
+          "name": "Certified Professional in Healthcare Management",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in healthcare administration",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in medical and health services management",
+          "type": "requirement"
+        },
+        {
+          "name": "experience as medical secretary",
+          "type": "requirement"
+        },
+        {
+          "name": "experience as administrative assistant",
+          "type": "requirement"
+        },
+        {
+          "name": "experience mentoring in healthcare administration",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in operational practices",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4931312007,
+  "job_title": "AI Healthcare and Administration Tutor  ",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4931312007"
+}

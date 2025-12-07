@@ -1,0 +1,86 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable architectures",
+              "type": "skill"
+            },
+            {
+              "name": "type systems",
+              "type": "skill"
+            },
+            {
+              "name": "containerized applications",
+              "type": "skill"
+            },
+            {
+              "name": "microservices architecture",
+              "type": "skill"
+            },
+            {
+              "name": "functional programming principles",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing, developing, and maintaining scalable architectures",
+          "type": "requirement"
+        },
+        {
+          "name": "setting up observability best practices",
+          "type": "requirement"
+        },
+        {
+          "name": "working with Kubernetes and containerized applications",
+          "type": "requirement"
+        },
+        {
+          "name": "building libraries or frameworks",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4686526007,
+  "job_title": "Exceptional Engineer - Grok Chat",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4686526007"
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Swift",
+              "type": "skill"
+            },
+            {
+              "name": "Kotlin",
+              "type": "skill"
+            },
+            {
+              "name": "JavaScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Jenkins",
+              "type": "skill"
+            },
+            {
+              "name": "GitHub Actions",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CI/CD pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "bug-tracking tools",
+              "type": "skill"
+            },
+            {
+              "name": "web applications",
+              "type": "skill"
+            },
+            {
+              "name": "iOS applications",
+              "type": "skill"
+            },
+            {
+              "name": "Android applications",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "voice-based interfaces",
+          "type": "skill"
+        },
+        {
+          "name": "image generation systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "test planning",
+          "type": "skill"
+        },
+        {
+          "name": "test cases",
+          "type": "skill"
+        },
+        {
+          "name": "functional testing",
+          "type": "skill"
+        },
+        {
+          "name": "performance testing",
+          "type": "skill"
+        },
+        {
+          "name": "manual testing",
+          "type": "skill"
+        },
+        {
+          "name": "automated testing",
+          "type": "skill"
+        },
+        {
+          "name": "test scripts",
+          "type": "skill"
+        },
+        {
+          "name": "regression testing",
+          "type": "skill"
+        },
+        {
+          "name": "cross-platform testing",
+          "type": "skill"
+        },
+        {
+          "name": "quality metrics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI-driven products",
+          "type": "skill"
+        },
+        {
+          "name": "chat systems",
+          "type": "skill"
+        },
+        {
+          "name": "voice systems",
+          "type": "skill"
+        },
+        {
+          "name": "image generation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "quality assurance",
+          "type": "requirement"
+        },
+        {
+          "name": "software testing for AI-driven products",
+          "type": "requirement"
+        },
+        {
+          "name": "testing web applications",
+          "type": "requirement"
+        },
+        {
+          "name": "testing mobile applications",
+          "type": "requirement"
+        },
+        {
+          "name": "test automation scripting",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4846204007,
+  "job_title": "Quality Assurance Engineer",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4846204007"
+}

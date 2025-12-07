@@ -1,0 +1,177 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "SAP",
+              "type": "skill"
+            },
+            {
+              "name": "Oracle",
+              "type": "skill"
+            },
+            {
+              "name": "NetSuite",
+              "type": "skill"
+            },
+            {
+              "name": "QuickBooks",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "ERP systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "revenue recognition",
+          "type": "skill"
+        },
+        {
+          "name": "contract review",
+          "type": "skill"
+        },
+        {
+          "name": "revenue allocation",
+          "type": "skill"
+        },
+        {
+          "name": "invoicing",
+          "type": "skill"
+        },
+        {
+          "name": "collections",
+          "type": "skill"
+        },
+        {
+          "name": "deferred revenue accounting",
+          "type": "skill"
+        },
+        {
+          "name": "amortization",
+          "type": "skill"
+        },
+        {
+          "name": "billing cycles",
+          "type": "skill"
+        },
+        {
+          "name": "monthly reconciliations",
+          "type": "skill"
+        },
+        {
+          "name": "journal entries",
+          "type": "skill"
+        },
+        {
+          "name": "account reconciliations",
+          "type": "skill"
+        },
+        {
+          "name": "financial reports",
+          "type": "skill"
+        },
+        {
+          "name": "internal controls",
+          "type": "skill"
+        },
+        {
+          "name": "external audits",
+          "type": "skill"
+        },
+        {
+          "name": "revenue forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "process automation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "GAAP",
+          "type": "skill"
+        },
+        {
+          "name": "ASC 606",
+          "type": "skill"
+        },
+        {
+          "name": "revenue management",
+          "type": "skill"
+        },
+        {
+          "name": "billing workflows",
+          "type": "skill"
+        },
+        {
+          "name": "financial statements",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        },
+        {
+          "name": "CMA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Accounting, Finance, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Minimum of 5 years of progressive accounting experience with focus on revenue recognition and management",
+          "type": "requirement"
+        },
+        {
+          "name": "In-depth knowledge of GAAP principles including ASC 606",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4931138007,
+  "job_title": "Senior Accountant - Revenue",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4931138007"
+}

@@ -1,0 +1,140 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLMs",
+          "type": "skill"
+        },
+        {
+          "name": "agents",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning AI models",
+          "type": "skill"
+        },
+        {
+          "name": "information visualization",
+          "type": "skill"
+        },
+        {
+          "name": "conversational interfaces",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning visualization",
+          "type": "skill"
+        },
+        {
+          "name": "adaptive UIs",
+          "type": "skill"
+        },
+        {
+          "name": "step-by-step thought traces",
+          "type": "skill"
+        },
+        {
+          "name": "dynamic feedback loops",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "A/B testing",
+          "type": "skill"
+        },
+        {
+          "name": "user studies",
+          "type": "skill"
+        },
+        {
+          "name": "HCI evaluations",
+          "type": "skill"
+        },
+        {
+          "name": "prototyping HCI features",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "model deployment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "HCI",
+          "type": "skill"
+        },
+        {
+          "name": "UX design",
+          "type": "skill"
+        },
+        {
+          "name": "model design",
+          "type": "skill"
+        },
+        {
+          "name": "agent transparency",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in fast-paced environments at AI startups or tech companies",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience building or fine-tuning AI models",
+          "type": "requirement"
+        },
+        {
+          "name": "experience conducting user studies, A/B experiments, or HCI evaluations",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4799892007,
+  "job_title": "Member of Technical Staff - HCI / Model Designer",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4799892007"
+}

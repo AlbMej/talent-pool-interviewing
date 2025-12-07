@@ -1,0 +1,176 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "problem selection",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "genetics",
+          "type": "skill"
+        },
+        {
+          "name": "genomics",
+          "type": "skill"
+        },
+        {
+          "name": "developmental biology",
+          "type": "skill"
+        },
+        {
+          "name": "systems biology",
+          "type": "skill"
+        },
+        {
+          "name": "physiology and anatomy",
+          "type": "skill"
+        },
+        {
+          "name": "evolution",
+          "type": "skill"
+        },
+        {
+          "name": "microbiology",
+          "type": "skill"
+        },
+        {
+          "name": "plant biology",
+          "type": "skill"
+        },
+        {
+          "name": "zoology and animal biology",
+          "type": "skill"
+        },
+        {
+          "name": "marine biology and oceanography",
+          "type": "skill"
+        },
+        {
+          "name": "epidemiology",
+          "type": "skill"
+        },
+        {
+          "name": "biostatistics",
+          "type": "skill"
+        },
+        {
+          "name": "public health",
+          "type": "skill"
+        },
+        {
+          "name": "pharmacology",
+          "type": "skill"
+        },
+        {
+          "name": "toxicology and drug discovery",
+          "type": "skill"
+        },
+        {
+          "name": "genomic analysis",
+          "type": "skill"
+        },
+        {
+          "name": "evolutionary biology",
+          "type": "skill"
+        },
+        {
+          "name": "drug discovery",
+          "type": "skill"
+        },
+        {
+          "name": "biotechnology",
+          "type": "skill"
+        },
+        {
+          "name": "life sciences",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s or PhD in a biology-related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "navigate information resources, databases, and online resources",
+          "type": "requirement"
+        },
+        {
+          "name": "AI tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing",
+          "type": "requirement"
+        },
+        {
+          "name": "publications in peer-reviewed journals",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925783007,
+  "job_title": "Biology Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925783007"
+}

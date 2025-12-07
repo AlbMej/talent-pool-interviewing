@@ -1,0 +1,148 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "custom benchmarks",
+              "type": "skill"
+            },
+            {
+              "name": "A/B testing for AI",
+              "type": "skill"
+            },
+            {
+              "name": "user analytics",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "evaluation pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "RLHF",
+          "type": "skill"
+        },
+        {
+          "name": "preference-based learning systems",
+          "type": "skill"
+        },
+        {
+          "name": "AI alignment",
+          "type": "skill"
+        },
+        {
+          "name": "model performance",
+          "type": "skill"
+        },
+        {
+          "name": "model safety",
+          "type": "skill"
+        },
+        {
+          "name": "user satisfaction",
+          "type": "skill"
+        },
+        {
+          "name": "retention metrics",
+          "type": "skill"
+        },
+        {
+          "name": "engagement metrics",
+          "type": "skill"
+        },
+        {
+          "name": "model self-improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "AI evaluation methodologies",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "metrics for alignment",
+          "type": "skill"
+        },
+        {
+          "name": "user-centric improvement",
+          "type": "skill"
+        },
+        {
+          "name": "feedback loops",
+          "type": "skill"
+        },
+        {
+          "name": "metric optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "scaling AI products",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "RLHF implementation",
+          "type": "requirement"
+        },
+        {
+          "name": "AI alignment projects",
+          "type": "requirement"
+        },
+        {
+          "name": "building data pipelines for metric optimization and model self-improvement",
+          "type": "requirement"
+        },
+        {
+          "name": "evaluation tools and frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "evaluation work and feature development",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4914071007,
+  "job_title": "Product Engineer - AI Data",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4914071007"
+}

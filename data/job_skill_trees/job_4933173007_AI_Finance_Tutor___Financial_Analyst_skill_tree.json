@@ -1,0 +1,162 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data annotation",
+              "type": "skill"
+            },
+            {
+              "name": "AI model training",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tool design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "equity valuation",
+          "type": "skill"
+        },
+        {
+          "name": "fixed income analysis",
+          "type": "skill"
+        },
+        {
+          "name": "derivatives pricing",
+          "type": "skill"
+        },
+        {
+          "name": "macroeconomic trends",
+          "type": "skill"
+        },
+        {
+          "name": "forex trading",
+          "type": "skill"
+        },
+        {
+          "name": "cryptocurrency markets",
+          "type": "skill"
+        },
+        {
+          "name": "options strategies",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CFA",
+          "type": "certification"
+        },
+        {
+          "name": "FRM",
+          "type": "certification"
+        },
+        {
+          "name": "Series 7",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "advanced training",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in financial analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "equity analyst",
+          "type": "requirement"
+        },
+        {
+          "name": "FICC analyst",
+          "type": "requirement"
+        },
+        {
+          "name": "structured products/derivatives specialist",
+          "type": "requirement"
+        },
+        {
+          "name": "macro strategist",
+          "type": "requirement"
+        },
+        {
+          "name": "forex trader",
+          "type": "requirement"
+        },
+        {
+          "name": "crypto analyst",
+          "type": "requirement"
+        },
+        {
+          "name": "options trader",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4933173007,
+  "job_title": "AI Finance Tutor - Financial Analyst",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4933173007"
+}

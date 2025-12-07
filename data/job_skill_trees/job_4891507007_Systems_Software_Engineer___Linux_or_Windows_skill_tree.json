@@ -1,0 +1,78 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "Windows",
+              "type": "skill"
+            },
+            {
+              "name": "virtualization techniques",
+              "type": "skill"
+            },
+            {
+              "name": "networking stack",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "sandbox execution",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4891507007,
+  "job_title": "Systems Software Engineer - Linux or Windows",
+  "location": "London, UK",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4891507007"
+}

@@ -1,0 +1,201 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "WebRTC",
+              "type": "skill"
+            },
+            {
+              "name": "speech-to-text",
+              "type": "skill"
+            },
+            {
+              "name": "text-to-speech",
+              "type": "skill"
+            },
+            {
+              "name": "real-time voice processing",
+              "type": "skill"
+            },
+            {
+              "name": "voice data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "transcription pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "speech recognition",
+          "type": "skill"
+        },
+        {
+          "name": "speech synthesis",
+          "type": "skill"
+        },
+        {
+          "name": "natural language understanding",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "LLM-powered voice interfaces",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data collection",
+          "type": "skill"
+        },
+        {
+          "name": "human data collection for voice",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing for low-latency",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing voice request logs",
+          "type": "skill"
+        },
+        {
+          "name": "building transcription pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "real-time voice processing",
+          "type": "skill"
+        },
+        {
+          "name": "Voice AI integration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Voice AI",
+          "type": "skill"
+        },
+        {
+          "name": "enterprise voice solutions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "implementing voice AI or machine learning products",
+          "type": "requirement"
+        },
+        {
+          "name": "APIs",
+          "type": "requirement"
+        },
+        {
+          "name": "back-end",
+          "type": "requirement"
+        },
+        {
+          "name": "front-end voice interfaces",
+          "type": "requirement"
+        },
+        {
+          "name": "deploying voice AI models to production",
+          "type": "requirement"
+        },
+        {
+          "name": "working with large-scale audio datasets",
+          "type": "requirement"
+        },
+        {
+          "name": "optimizing voice processing pipelines",
+          "type": "requirement"
+        },
+        {
+          "name": "scaling systems for enterprise-grade workloads",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4717376007,
+  "job_title": "Member of Technical Staff, Voice (Enterprise)",
+  "location": "London, UK; Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4717376007"
+}

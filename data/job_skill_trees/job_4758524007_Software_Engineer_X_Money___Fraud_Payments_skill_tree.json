@@ -1,0 +1,158 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Golang",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kafka",
+              "type": "skill"
+            },
+            {
+              "name": "Memcached",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Postgres",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "fraud detection systems",
+              "type": "skill"
+            },
+            {
+              "name": "fraud prevention systems",
+              "type": "skill"
+            },
+            {
+              "name": "risk scoring engines",
+              "type": "skill"
+            },
+            {
+              "name": "anomaly detection pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "real-time enforcement mechanisms",
+              "type": "skill"
+            },
+            {
+              "name": "threat models",
+              "type": "skill"
+            },
+            {
+              "name": "defense-in-depth principles",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "machine learning for fraud",
+          "type": "skill"
+        },
+        {
+          "name": "real-time anomaly detection",
+          "type": "skill"
+        },
+        {
+          "name": "rule-based risk systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "systems design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "fraud engineering",
+          "type": "skill"
+        },
+        {
+          "name": "payments platform",
+          "type": "skill"
+        },
+        {
+          "name": "fintech",
+          "type": "skill"
+        },
+        {
+          "name": "trust & safety",
+          "type": "skill"
+        },
+        {
+          "name": "adversarial system design",
+          "type": "skill"
+        },
+        {
+          "name": "AML/KYC regulations",
+          "type": "skill"
+        },
+        {
+          "name": "chargeback flows",
+          "type": "skill"
+        },
+        {
+          "name": "identity verification systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7+ years of backend or systems engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "exposure to fraud, risk, or abuse prevention systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4758524007,
+  "job_title": "Software Engineer, X Money - Fraud, Payments",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4758524007"
+}

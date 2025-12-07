@@ -1,0 +1,160 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Autodesk Fusion",
+              "type": "skill"
+            },
+            {
+              "name": "AutoCAD",
+              "type": "skill"
+            },
+            {
+              "name": "CATIA",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CAD",
+              "type": "skill"
+            },
+            {
+              "name": "enclosures",
+              "type": "skill"
+            },
+            {
+              "name": "cooling systems",
+              "type": "skill"
+            },
+            {
+              "name": "structural assemblies",
+              "type": "skill"
+            },
+            {
+              "name": "stress analysis",
+              "type": "skill"
+            },
+            {
+              "name": "thermal analysis",
+              "type": "skill"
+            },
+            {
+              "name": "performance analyses",
+              "type": "skill"
+            },
+            {
+              "name": "thermal management",
+              "type": "skill"
+            },
+            {
+              "name": "structural analysis",
+              "type": "skill"
+            },
+            {
+              "name": "material selection",
+              "type": "skill"
+            },
+            {
+              "name": "CNC machining",
+              "type": "skill"
+            },
+            {
+              "name": "injection molding",
+              "type": "skill"
+            },
+            {
+              "name": "sheet metal fabrication",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI hardware requirements",
+          "type": "skill"
+        },
+        {
+          "name": "advanced cooling systems",
+          "type": "skill"
+        },
+        {
+          "name": "ruggedized designs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "prototyping",
+          "type": "skill"
+        },
+        {
+          "name": "testing",
+          "type": "skill"
+        },
+        {
+          "name": "iterative design processes",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "high-performance computing hardware",
+          "type": "skill"
+        },
+        {
+          "name": "datacenter systems",
+          "type": "skill"
+        },
+        {
+          "name": "consumer electronics",
+          "type": "skill"
+        },
+        {
+          "name": "high-density computing environments",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in mechanical design with focus on end-user products",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with prototyping, testing, and iterative design processes",
+          "type": "requirement"
+        },
+        {
+          "name": "knowledge of manufacturing techniques",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4832704007,
+  "job_title": "Mechanical Design Engineer: AI Hardware",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4832704007"
+}

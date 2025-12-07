@@ -1,0 +1,113 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "RL algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "intelligent agents",
+          "type": "skill"
+        },
+        {
+          "name": "agent-based systems",
+          "type": "skill"
+        },
+        {
+          "name": "vision-based RL agents",
+          "type": "skill"
+        },
+        {
+          "name": "visual inputs",
+          "type": "skill"
+        },
+        {
+          "name": "decision-making",
+          "type": "skill"
+        },
+        {
+          "name": "deployable models",
+          "type": "skill"
+        },
+        {
+          "name": "Computer Use Agents",
+          "type": "skill"
+        },
+        {
+          "name": "long-horizon tasks",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation suites",
+          "type": "skill"
+        },
+        {
+          "name": "LLM agents",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "designing RL algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "agent learning in realistic environments",
+          "type": "skill"
+        },
+        {
+          "name": "data acquisition",
+          "type": "skill"
+        },
+        {
+          "name": "building evaluation suites",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "LLM agents",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "developing and implementing reinforcement learning algorithms",
+          "type": "requirement"
+        },
+        {
+          "name": "designing and training vision-based RL agents",
+          "type": "requirement"
+        },
+        {
+          "name": "translating research ideas into deployable models",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4916837007,
+  "job_title": "Member of Technical Staff - Macrohard / Computer Control - Reinforcement Learning",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4916837007"
+}

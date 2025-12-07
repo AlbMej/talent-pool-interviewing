@@ -1,0 +1,224 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "SIEM platforms",
+              "type": "skill"
+            },
+            {
+              "name": "log analysis tools",
+              "type": "skill"
+            },
+            {
+              "name": "threat intelligence platforms",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "network protocols",
+              "type": "skill"
+            },
+            {
+              "name": "system administration",
+              "type": "skill"
+            },
+            {
+              "name": "common attack vectors",
+              "type": "skill"
+            },
+            {
+              "name": "containerized environments",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes security",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML security implications",
+          "type": "skill"
+        },
+        {
+          "name": "OWASP LLM Top 10",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "detection rules",
+          "type": "skill"
+        },
+        {
+          "name": "correlation logic",
+          "type": "skill"
+        },
+        {
+          "name": "root cause analysis",
+          "type": "skill"
+        },
+        {
+          "name": "impact assessments",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "threat hunting",
+          "type": "skill"
+        },
+        {
+          "name": "incident response playbooks",
+          "type": "skill"
+        },
+        {
+          "name": "runbooks",
+          "type": "skill"
+        },
+        {
+          "name": "metrics and reporting",
+          "type": "skill"
+        },
+        {
+          "name": "software supply chain security",
+          "type": "skill"
+        },
+        {
+          "name": "SBOM analysis",
+          "type": "skill"
+        },
+        {
+          "name": "digital forensics",
+          "type": "skill"
+        },
+        {
+          "name": "malware analysis",
+          "type": "skill"
+        },
+        {
+          "name": "building custom security tools",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "cloud-native",
+          "type": "skill"
+        },
+        {
+          "name": "AI domains",
+          "type": "skill"
+        },
+        {
+          "name": "cybersecurity",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "GCIH",
+          "type": "certification"
+        },
+        {
+          "name": "GCIA",
+          "type": "certification"
+        },
+        {
+          "name": "SANS",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Cybersecurity",
+          "type": "qualification"
+        },
+        {
+          "name": "related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3-5 years of experience in security operations",
+          "type": "requirement"
+        },
+        {
+          "name": "3-5 years of experience in incident response",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4559148007,
+  "job_title": "Detection & Response Engineer",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4559148007"
+}

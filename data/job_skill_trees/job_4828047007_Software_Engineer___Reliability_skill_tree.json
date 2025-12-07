@@ -1,0 +1,196 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Golang",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            },
+            {
+              "name": "Prometheus",
+              "type": "skill"
+            },
+            {
+              "name": "Grafana",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Linux system administration",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "networking",
+              "type": "skill"
+            },
+            {
+              "name": "storage technologies",
+              "type": "skill"
+            },
+            {
+              "name": "HPC environments",
+              "type": "skill"
+            },
+            {
+              "name": "GPU clusters",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale data processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "compute-intensive workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "DevOps",
+          "type": "skill"
+        },
+        {
+          "name": "systems engineering",
+          "type": "skill"
+        },
+        {
+          "name": "automation tools and scripts",
+          "type": "skill"
+        },
+        {
+          "name": "capacity planning",
+          "type": "skill"
+        },
+        {
+          "name": "disaster recovery strategies",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting complex issues",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "supercomputing environments",
+          "type": "skill"
+        },
+        {
+          "name": "high-performance computing (HPC)",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Computer Science, Engineering, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years of experience in site reliability engineering, DevOps, or systems engineering",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4828047007,
+  "job_title": "Software Engineer - Reliability",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4828047007"
+}

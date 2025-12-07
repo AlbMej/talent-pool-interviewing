@@ -1,0 +1,49 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "Tailwind",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CSS",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Expert knowledge of React",
+          "type": "requirement"
+        },
+        {
+          "name": "Expert knowledge of Tailwind/CSS",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4985397007,
+  "job_title": "Developer Experience - Frontend",
+  "location": "London, UK",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4985397007"
+}

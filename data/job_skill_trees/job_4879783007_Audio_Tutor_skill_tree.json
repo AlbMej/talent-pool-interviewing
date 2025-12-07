@@ -1,0 +1,169 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "waveform analysis",
+              "type": "skill"
+            },
+            {
+              "name": "equalization",
+              "type": "skill"
+            },
+            {
+              "name": "format compatibility",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "acoustics",
+              "type": "skill"
+            },
+            {
+              "name": "mixing",
+              "type": "skill"
+            },
+            {
+              "name": "signal processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "voice modulation",
+          "type": "skill"
+        },
+        {
+          "name": "noise reduction",
+          "type": "skill"
+        },
+        {
+          "name": "immersive sound design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "task development",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tools improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "audio engineering",
+          "type": "skill"
+        },
+        {
+          "name": "music production",
+          "type": "skill"
+        },
+        {
+          "name": "sound processing",
+          "type": "skill"
+        },
+        {
+          "name": "voice interactions",
+          "type": "skill"
+        },
+        {
+          "name": "auditory experiences",
+          "type": "skill"
+        },
+        {
+          "name": "sound design",
+          "type": "skill"
+        },
+        {
+          "name": "broadcasting",
+          "type": "skill"
+        },
+        {
+          "name": "studio recording",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Audio Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Music Production",
+          "type": "qualification"
+        },
+        {
+          "name": "Communications",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "audio post-production",
+          "type": "requirement"
+        },
+        {
+          "name": "episode creation",
+          "type": "requirement"
+        },
+        {
+          "name": "musical arrangement",
+          "type": "requirement"
+        },
+        {
+          "name": "sound manipulation",
+          "type": "requirement"
+        },
+        {
+          "name": "auditory critique",
+          "type": "requirement"
+        },
+        {
+          "name": "optimization",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4879783007,
+  "job_title": "Audio Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4879783007"
+}

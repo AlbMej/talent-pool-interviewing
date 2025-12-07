@@ -1,0 +1,160 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "SQL",
+              "type": "skill"
+            },
+            {
+              "name": "PowerBI",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "supply chain management",
+              "type": "skill"
+            },
+            {
+              "name": "procurement processes",
+              "type": "skill"
+            },
+            {
+              "name": "supplier relationship management",
+              "type": "skill"
+            },
+            {
+              "name": "KPI tracking",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "sourcing strategies",
+          "type": "skill"
+        },
+        {
+          "name": "supplier negotiations",
+          "type": "skill"
+        },
+        {
+          "name": "contract management",
+          "type": "skill"
+        },
+        {
+          "name": "Master Service Agreements",
+          "type": "skill"
+        },
+        {
+          "name": "supplier analysis",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "market research",
+          "type": "skill"
+        },
+        {
+          "name": "supply chain resilience",
+          "type": "skill"
+        },
+        {
+          "name": "quarterly business reviews",
+          "type": "skill"
+        },
+        {
+          "name": "procurement automation",
+          "type": "skill"
+        },
+        {
+          "name": "cost modeling",
+          "type": "skill"
+        },
+        {
+          "name": "performance tracking",
+          "type": "skill"
+        },
+        {
+          "name": "CapEx management",
+          "type": "skill"
+        },
+        {
+          "name": "OpEx management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "compute infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "facilities",
+          "type": "skill"
+        },
+        {
+          "name": "IT services",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years in procurement, sourcing, supply chain management, or contract negotiation",
+          "type": "requirement"
+        },
+        {
+          "name": "managing high-spend portfolios ($100M+)",
+          "type": "requirement"
+        },
+        {
+          "name": "negotiating complex supplier contracts",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4723983007,
+  "job_title": "Sr. Sourcing Specialist",
+  "location": "Memphis, TN; Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4723983007"
+}

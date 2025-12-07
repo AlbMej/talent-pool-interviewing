@@ -1,0 +1,170 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Zapier",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "web technologies",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "natural language processing",
+          "type": "skill"
+        },
+        {
+          "name": "model-related queries",
+          "type": "skill"
+        },
+        {
+          "name": "AI response behaviors",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "troubleshooting methodologies",
+          "type": "skill"
+        },
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "system health monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "performance metrics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "SaaS",
+          "type": "skill"
+        },
+        {
+          "name": "chatbot platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in technical support",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years in customer success",
+          "type": "requirement"
+        },
+        {
+          "name": "3+ years in software engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in AI",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in SaaS",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in tech products",
+          "type": "requirement"
+        },
+        {
+          "name": "scripting and automation",
+          "type": "requirement"
+        },
+        {
+          "name": "data analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "supporting AI platforms",
+          "type": "requirement"
+        },
+        {
+          "name": "supporting chatbot platforms",
+          "type": "requirement"
+        },
+        {
+          "name": "handling natural language processing issues",
+          "type": "requirement"
+        },
+        {
+          "name": "handling model-related queries",
+          "type": "requirement"
+        },
+        {
+          "name": "prior work in startups",
+          "type": "requirement"
+        },
+        {
+          "name": "prior work in high-growth tech companies",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4914576007,
+  "job_title": "Grok Field Engineer",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4914576007"
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Buildkite",
+              "type": "skill"
+            },
+            {
+              "name": "ArgoCD",
+              "type": "skill"
+            },
+            {
+              "name": "Prometheus",
+              "type": "skill"
+            },
+            {
+              "name": "Grafana",
+              "type": "skill"
+            },
+            {
+              "name": "PagerDuty",
+              "type": "skill"
+            },
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "nginx",
+              "type": "skill"
+            },
+            {
+              "name": "envoy",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes clusters",
+              "type": "skill"
+            },
+            {
+              "name": "continuous deployment systems",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring technologies",
+              "type": "skill"
+            },
+            {
+              "name": "infrastructure as code technologies",
+              "type": "skill"
+            },
+            {
+              "name": "traffic management",
+              "type": "skill"
+            },
+            {
+              "name": "HTTP proxies",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Expert knowledge of Kubernetes",
+          "type": "requirement"
+        },
+        {
+          "name": "Expert knowledge of continuous deployment systems such as Buildkite and ArgoCD",
+          "type": "requirement"
+        },
+        {
+          "name": "Expert knowledge of monitoring technologies such as Prometheus, Grafana, and PagerDuty",
+          "type": "requirement"
+        },
+        {
+          "name": "Expert knowledge of infrastructure as code technologies such as Pulumi or Terraform",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with traffic management and HTTP proxies such as nginx and envoy",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4681662007,
+  "job_title": "Site Reliability Engineer (SRE)",
+  "location": "London, UK",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4681662007"
+}

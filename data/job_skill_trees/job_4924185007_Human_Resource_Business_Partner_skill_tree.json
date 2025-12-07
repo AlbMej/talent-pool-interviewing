@@ -1,0 +1,27 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree or equivalent in relevant work experience",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "hands-on experience in human resources functions, including recruitment, onboarding, benefits administration, and compliance",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4924185007,
+  "job_title": "Human Resource Business Partner",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4924185007"
+}

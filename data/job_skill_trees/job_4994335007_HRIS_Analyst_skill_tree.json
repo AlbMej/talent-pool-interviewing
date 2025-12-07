@@ -1,0 +1,147 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Workday",
+              "type": "skill"
+            },
+            {
+              "name": "Rippling",
+              "type": "skill"
+            },
+            {
+              "name": "JIRA",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HRIS",
+              "type": "skill"
+            },
+            {
+              "name": "ATS",
+              "type": "skill"
+            },
+            {
+              "name": "system integrations",
+              "type": "skill"
+            },
+            {
+              "name": "solution architecture",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "configuration",
+          "type": "skill"
+        },
+        {
+          "name": "testing",
+          "type": "skill"
+        },
+        {
+          "name": "system maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "audits",
+          "type": "skill"
+        },
+        {
+          "name": "queries",
+          "type": "skill"
+        },
+        {
+          "name": "reports",
+          "type": "skill"
+        },
+        {
+          "name": "dashboards",
+          "type": "skill"
+        },
+        {
+          "name": "analytics",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "requirements gathering",
+          "type": "skill"
+        },
+        {
+          "name": "technical specifications",
+          "type": "skill"
+        },
+        {
+          "name": "interface design",
+          "type": "skill"
+        },
+        {
+          "name": "enhancements",
+          "type": "skill"
+        },
+        {
+          "name": "system migration",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "security roles",
+          "type": "skill"
+        },
+        {
+          "name": "approval workflows",
+          "type": "skill"
+        },
+        {
+          "name": "business policies",
+          "type": "skill"
+        },
+        {
+          "name": "Data Governance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3-5 years of Workday or Rippling experience",
+          "type": "requirement"
+        },
+        {
+          "name": "experience implementing large-scale system migration",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4994335007,
+  "job_title": "HRIS Analyst",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4994335007"
+}

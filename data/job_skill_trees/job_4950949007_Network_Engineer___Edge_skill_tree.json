@@ -1,0 +1,197 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "A10 Networks",
+              "type": "skill"
+            },
+            {
+              "name": "NGINX",
+              "type": "skill"
+            },
+            {
+              "name": "Route53",
+              "type": "skill"
+            },
+            {
+              "name": "UltraDNS",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes Ingress",
+              "type": "skill"
+            },
+            {
+              "name": "Fastly",
+              "type": "skill"
+            },
+            {
+              "name": "Cloudfront",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "OCI",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "peering infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "transit infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "routing policies",
+              "type": "skill"
+            },
+            {
+              "name": "eDNS",
+              "type": "skill"
+            },
+            {
+              "name": "cloud connectivity",
+              "type": "skill"
+            },
+            {
+              "name": "CGNAT",
+              "type": "skill"
+            },
+            {
+              "name": "load balancer fleets",
+              "type": "skill"
+            },
+            {
+              "name": "DNS infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "cloud VPCs",
+              "type": "skill"
+            },
+            {
+              "name": "TCP/IP",
+              "type": "skill"
+            },
+            {
+              "name": "traffic engineering",
+              "type": "skill"
+            },
+            {
+              "name": "routers",
+              "type": "skill"
+            },
+            {
+              "name": "switches",
+              "type": "skill"
+            },
+            {
+              "name": "backbones",
+              "type": "skill"
+            },
+            {
+              "name": "CDN",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Python scripting for automation",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting network issues",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "edge networking",
+          "type": "skill"
+        },
+        {
+          "name": "network architecture",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience with edge network hardware",
+          "type": "requirement"
+        },
+        {
+          "name": "routing experience in backbones, peering, and transit areas",
+          "type": "requirement"
+        },
+        {
+          "name": "Python scripting to automate deployments and break/fix tasks",
+          "type": "requirement"
+        },
+        {
+          "name": "managing DNS infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "managing and troubleshooting cloud VPCs and connected network hardware",
+          "type": "requirement"
+        },
+        {
+          "name": "troubleshoot complex TCP/IP issues",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4950949007,
+  "job_title": "Network Engineer - Edge",
+  "location": "Dublin, IE",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4950949007"
+}

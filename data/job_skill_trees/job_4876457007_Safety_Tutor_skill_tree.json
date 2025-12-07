@@ -1,0 +1,122 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI model vulnerabilities",
+          "type": "skill"
+        },
+        {
+          "name": "jailbreaking methods",
+          "type": "skill"
+        },
+        {
+          "name": "safety mechanisms",
+          "type": "skill"
+        },
+        {
+          "name": "AI safety policies",
+          "type": "skill"
+        },
+        {
+          "name": "ethical alignment",
+          "type": "skill"
+        },
+        {
+          "name": "unsafe behaviors detection",
+          "type": "skill"
+        },
+        {
+          "name": "red-teaming",
+          "type": "skill"
+        },
+        {
+          "name": "alignment research",
+          "type": "skill"
+        },
+        {
+          "name": "safety evaluations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "labels and annotations",
+          "type": "skill"
+        },
+        {
+          "name": "curated data",
+          "type": "skill"
+        },
+        {
+          "name": "risk scenarios",
+          "type": "skill"
+        },
+        {
+          "name": "policy compliance",
+          "type": "skill"
+        },
+        {
+          "name": "risk assessment",
+          "type": "skill"
+        },
+        {
+          "name": "safety-focused annotations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI safety",
+          "type": "skill"
+        },
+        {
+          "name": "existential risks",
+          "type": "skill"
+        },
+        {
+          "name": "radiological weapons",
+          "type": "skill"
+        },
+        {
+          "name": "biological weapons",
+          "type": "skill"
+        },
+        {
+          "name": "policy development",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4876457007,
+  "job_title": "Safety Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4876457007"
+}

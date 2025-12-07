@@ -1,0 +1,344 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Ansible",
+              "type": "skill"
+            },
+            {
+              "name": "Puppet",
+              "type": "skill"
+            },
+            {
+              "name": "VMware",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "hardware security modules (HSMs)",
+              "type": "skill"
+            },
+            {
+              "name": "intrusion detection systems",
+              "type": "skill"
+            },
+            {
+              "name": "physical monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "firmware security scanners",
+              "type": "skill"
+            },
+            {
+              "name": "GPU security tools",
+              "type": "skill"
+            },
+            {
+              "name": "MAAS",
+              "type": "skill"
+            },
+            {
+              "name": "Foreman",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "physical access controls",
+              "type": "skill"
+            },
+            {
+              "name": "GPU security configurations",
+              "type": "skill"
+            },
+            {
+              "name": "BIOS/UEFI hardening",
+              "type": "skill"
+            },
+            {
+              "name": "bare metal provisioning security",
+              "type": "skill"
+            },
+            {
+              "name": "on-prem network segmentation",
+              "type": "skill"
+            },
+            {
+              "name": "secure bare metal deployments",
+              "type": "skill"
+            },
+            {
+              "name": "servers (Dell, HPE)",
+              "type": "skill"
+            },
+            {
+              "name": "networking (Cisco, Arista)",
+              "type": "skill"
+            },
+            {
+              "name": "storage systems",
+              "type": "skill"
+            },
+            {
+              "name": "GPU clusters (NVIDIA)",
+              "type": "skill"
+            },
+            {
+              "name": "GPU passthrough security",
+              "type": "skill"
+            },
+            {
+              "name": "firmware security",
+              "type": "skill"
+            },
+            {
+              "name": "supply chain security for hardware",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI for datacenter security monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "AI for datacenter security automation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Infrastructure as Code (IaC)",
+          "type": "skill"
+        },
+        {
+          "name": "security assessments",
+          "type": "skill"
+        },
+        {
+          "name": "audits",
+          "type": "skill"
+        },
+        {
+          "name": "DevSecOps",
+          "type": "skill"
+        },
+        {
+          "name": "full stack security research",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "datacenter security",
+          "type": "skill"
+        },
+        {
+          "name": "physical security",
+          "type": "skill"
+        },
+        {
+          "name": "hardware security",
+          "type": "skill"
+        },
+        {
+          "name": "GPU security",
+          "type": "skill"
+        },
+        {
+          "name": "BIOS security",
+          "type": "skill"
+        },
+        {
+          "name": "bare metal provisioning",
+          "type": "skill"
+        },
+        {
+          "name": "on-prem infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "multi-datacenter environments",
+          "type": "skill"
+        },
+        {
+          "name": "hybrid cloud-on-prem security",
+          "type": "skill"
+        },
+        {
+          "name": "colocation",
+          "type": "skill"
+        },
+        {
+          "name": "owned facilities",
+          "type": "skill"
+        },
+        {
+          "name": "high-performance computing (HPC)",
+          "type": "skill"
+        },
+        {
+          "name": "AI/ML workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CISSP",
+          "type": "certification"
+        },
+        {
+          "name": "CISM",
+          "type": "certification"
+        },
+        {
+          "name": "CompTIA Security+",
+          "type": "certification"
+        },
+        {
+          "name": "GIAC",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Cybersecurity",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3-5 years in datacenter security",
+          "type": "requirement"
+        },
+        {
+          "name": "3-5 years in on-prem infrastructure roles",
+          "type": "requirement"
+        },
+        {
+          "name": "vulnerability analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "full stack security research",
+          "type": "requirement"
+        },
+        {
+          "name": "on-prem infrastructure management",
+          "type": "requirement"
+        },
+        {
+          "name": "secure datacenter automation",
+          "type": "requirement"
+        },
+        {
+          "name": "virtualization security",
+          "type": "requirement"
+        },
+        {
+          "name": "containerization security",
+          "type": "requirement"
+        },
+        {
+          "name": "scripting for automation",
+          "type": "requirement"
+        },
+        {
+          "name": "scripting for tool development",
+          "type": "requirement"
+        },
+        {
+          "name": "scripting for security research",
+          "type": "requirement"
+        },
+        {
+          "name": "multi-datacenter environments",
+          "type": "requirement"
+        },
+        {
+          "name": "hybrid cloud-on-prem security",
+          "type": "requirement"
+        },
+        {
+          "name": "regulatory compliance (GDPR, HIPAA, PCI DSS)",
+          "type": "requirement"
+        },
+        {
+          "name": "securing HPC workloads",
+          "type": "requirement"
+        },
+        {
+          "name": "securing AI/ML workloads",
+          "type": "requirement"
+        },
+        {
+          "name": "building custom datacenter security tools",
+          "type": "requirement"
+        },
+        {
+          "name": "open-source datacenter security projects",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4875081007,
+  "job_title": "Infrastructure Security Engineer, Datacenter",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4875081007"
+}

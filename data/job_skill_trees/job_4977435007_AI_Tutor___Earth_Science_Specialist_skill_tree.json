@@ -1,0 +1,132 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "model performance improvement",
+          "type": "skill"
+        },
+        {
+          "name": "model response evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tool design",
+          "type": "skill"
+        },
+        {
+          "name": "problem selection in Earth Science",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "earth science",
+          "type": "skill"
+        },
+        {
+          "name": "geophysics",
+          "type": "skill"
+        },
+        {
+          "name": "oceanography",
+          "type": "skill"
+        },
+        {
+          "name": "atmospheric science",
+          "type": "skill"
+        },
+        {
+          "name": "geology",
+          "type": "skill"
+        },
+        {
+          "name": "seismology",
+          "type": "skill"
+        },
+        {
+          "name": "geochemistry",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s or PhD in earth science, geophysics, oceanography, atmospheric science, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "expertise in Earth Science subdomain",
+          "type": "requirement"
+        },
+        {
+          "name": "publications in peer-reviewed journals",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4977435007,
+  "job_title": "AI Tutor - Earth Science Specialist",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4977435007"
+}

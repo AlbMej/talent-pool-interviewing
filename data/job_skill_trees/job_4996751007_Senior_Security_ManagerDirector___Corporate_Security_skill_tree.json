@@ -1,0 +1,112 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "physical security systems",
+              "type": "skill"
+            },
+            {
+              "name": "security engineering",
+              "type": "skill"
+            },
+            {
+              "name": "system architecture",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "crisis management",
+          "type": "skill"
+        },
+        {
+          "name": "physical security audits",
+          "type": "skill"
+        },
+        {
+          "name": "data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "data visualization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "corporate security",
+          "type": "skill"
+        },
+        {
+          "name": "physical security",
+          "type": "skill"
+        },
+        {
+          "name": "travel security",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "professional certificates",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "related university degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "12+ years experience in the security industry and relevant field (military / law enforcement)",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years experience in security operations in APAC",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with analyzing and visualizing data to create useful metrics",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with Crisis Management",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4996751007,
+  "job_title": "Senior Security Manager/Director - Corporate Security",
+  "location": "Singapore, SG",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4996751007"
+}

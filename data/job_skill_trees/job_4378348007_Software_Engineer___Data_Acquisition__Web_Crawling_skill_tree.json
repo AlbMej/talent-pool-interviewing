@@ -1,0 +1,199 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Spark",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "headless browsers",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            },
+            {
+              "name": "NoSQL",
+              "type": "skill"
+            },
+            {
+              "name": "columnar databases",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale crawlers",
+              "type": "skill"
+            },
+            {
+              "name": "crawler architectures",
+              "type": "skill"
+            },
+            {
+              "name": "cloud compute clusters",
+              "type": "skill"
+            },
+            {
+              "name": "DNS",
+              "type": "skill"
+            },
+            {
+              "name": "OSI model",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "dataset pre-processing for AI training",
+          "type": "skill"
+        },
+        {
+          "name": "AI training data preparation",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale classifiers",
+          "type": "skill"
+        },
+        {
+          "name": "modalities other than text",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data processing systems",
+          "type": "skill"
+        },
+        {
+          "name": "high-throughput data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "performance optimization of large-scale systems",
+          "type": "skill"
+        },
+        {
+          "name": "workload management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data acquisition",
+          "type": "skill"
+        },
+        {
+          "name": "web crawling",
+          "type": "skill"
+        },
+        {
+          "name": "pre-training",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building data processing libraries from scratch",
+          "type": "requirement"
+        },
+        {
+          "name": "designing distributed systems in Rust",
+          "type": "requirement"
+        },
+        {
+          "name": "organizing data across multiple clouds",
+          "type": "requirement"
+        },
+        {
+          "name": "debugging",
+          "type": "requirement"
+        },
+        {
+          "name": "operating crawlers",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4378348007,
+  "job_title": "Software Engineer - Data Acquisition / Web Crawling",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4378348007"
+}

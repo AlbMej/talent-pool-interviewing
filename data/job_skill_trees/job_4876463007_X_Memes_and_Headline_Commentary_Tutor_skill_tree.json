@@ -1,0 +1,116 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "curated data for AI training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "annotation workflows",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "memes identification",
+          "type": "skill"
+        },
+        {
+          "name": "trolling recognition",
+          "type": "skill"
+        },
+        {
+          "name": "virality mechanisms",
+          "type": "skill"
+        },
+        {
+          "name": "spam detection on X",
+          "type": "skill"
+        },
+        {
+          "name": "social media trends",
+          "type": "skill"
+        },
+        {
+          "name": "X platform behaviors",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "X power user",
+          "type": "requirement"
+        },
+        {
+          "name": "identifying bangers on X",
+          "type": "requirement"
+        },
+        {
+          "name": "creating or moderating content on X",
+          "type": "requirement"
+        },
+        {
+          "name": "viral posts",
+          "type": "requirement"
+        },
+        {
+          "name": "community management",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4876463007,
+  "job_title": "X Memes and Headline Commentary Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4876463007"
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "high performance systems",
+              "type": "skill"
+            },
+            {
+              "name": "scalable systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLMs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "performance optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "consumer products",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "building products with deep integrations to LLMs",
+          "type": "requirement"
+        },
+        {
+          "name": "building products from 0 to 1",
+          "type": "requirement"
+        },
+        {
+          "name": "building high performance systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4800726007,
+  "job_title": "Fullstack Engineer - Grok Experiments, DM's",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4800726007"
+}

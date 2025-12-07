@@ -1,0 +1,146 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Flink",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kafka",
+              "type": "skill"
+            },
+            {
+              "name": "SQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "RDBMS",
+              "type": "skill"
+            },
+            {
+              "name": "NoSQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "real-time data processing",
+              "type": "skill"
+            },
+            {
+              "name": "batch data processing",
+              "type": "skill"
+            },
+            {
+              "name": "hybrid storage technologies",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "prototyping software",
+          "type": "skill"
+        },
+        {
+          "name": "transforming large-scale data",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "distributed data systems",
+          "type": "skill"
+        },
+        {
+          "name": "data engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of professional software engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in data engineering or distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "experience solving large-scale problems",
+          "type": "requirement"
+        },
+        {
+          "name": "building new systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4929854007,
+  "job_title": "Software Engineer - Distributed Data Systems",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4929854007"
+}

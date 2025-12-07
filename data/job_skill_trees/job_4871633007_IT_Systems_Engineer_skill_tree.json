@@ -1,0 +1,152 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Bash",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Perl",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Puppet Enterprise",
+              "type": "skill"
+            },
+            {
+              "name": "Puppet Open Source",
+              "type": "skill"
+            },
+            {
+              "name": "VMware vCenter",
+              "type": "skill"
+            },
+            {
+              "name": "VMware ESX",
+              "type": "skill"
+            },
+            {
+              "name": "VMware Horizon",
+              "type": "skill"
+            },
+            {
+              "name": "NetApp",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "Windows",
+              "type": "skill"
+            },
+            {
+              "name": "virtualization",
+              "type": "skill"
+            },
+            {
+              "name": "configuration management",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "scripting",
+          "type": "skill"
+        },
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "performance monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "systems engineering",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure management",
+          "type": "skill"
+        },
+        {
+          "name": "storage solutions",
+          "type": "skill"
+        },
+        {
+          "name": "networking concepts",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3 to 5 years in Systems Engineering for Corporate Infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "Managing large-scale Windows and Linux server environments",
+          "type": "requirement"
+        },
+        {
+          "name": "Virtualization at scale",
+          "type": "requirement"
+        },
+        {
+          "name": "Configuration Management",
+          "type": "requirement"
+        },
+        {
+          "name": "Managing scalable storage solutions",
+          "type": "requirement"
+        },
+        {
+          "name": "Developing and maintaining performance metrics for systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4871633007,
+  "job_title": "IT Systems Engineer",
+  "location": "Bastrop, TX; New York, NY; Palo Alto, CA; San Jose, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4871633007"
+}

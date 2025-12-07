@@ -1,0 +1,95 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "AI task training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "electrical engineering",
+          "type": "skill"
+        },
+        {
+          "name": "computer engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's in electrical or computer engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in electrical or computer engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "navigating information resources, databases, and online resources",
+          "type": "requirement"
+        },
+        {
+          "name": "professional experience in electrical or computer engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing experience",
+          "type": "requirement"
+        },
+        {
+          "name": "publication in reputable journal",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925853007,
+  "job_title": "Electrical Engineering Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925853007"
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            },
+            {
+              "name": "XLA",
+              "type": "skill"
+            },
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "SGlang",
+              "type": "skill"
+            },
+            {
+              "name": "vLLM",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "model assessment",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "evaluation task development",
+          "type": "skill"
+        },
+        {
+          "name": "data collection",
+          "type": "skill"
+        },
+        {
+          "name": "data synthesis",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure building for model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "model assessment and evaluation task development",
+          "type": "requirement"
+        },
+        {
+          "name": "public and in-house benchmarking",
+          "type": "requirement"
+        },
+        {
+          "name": "data collection and synthesis for new evaluations",
+          "type": "requirement"
+        },
+        {
+          "name": "building infrastructure for model evaluation",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with inference frameworks",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4968984007,
+  "job_title": "Member of Technical Staff, Model Evaluation",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4968984007"
+}

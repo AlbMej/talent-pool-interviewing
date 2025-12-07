@@ -1,0 +1,181 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kafka",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Postgres",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "microservices",
+              "type": "skill"
+            },
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "system architecture",
+              "type": "skill"
+            },
+            {
+              "name": "testing",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "backend development",
+          "type": "skill"
+        },
+        {
+          "name": "high-concurrency transactions",
+          "type": "skill"
+        },
+        {
+          "name": "high-scale environments",
+          "type": "skill"
+        },
+        {
+          "name": "low-latency environments",
+          "type": "skill"
+        },
+        {
+          "name": "secure financial data",
+          "type": "skill"
+        },
+        {
+          "name": "fintech",
+          "type": "skill"
+        },
+        {
+          "name": "payments",
+          "type": "skill"
+        },
+        {
+          "name": "fraud detection",
+          "type": "skill"
+        },
+        {
+          "name": "compliance",
+          "type": "skill"
+        },
+        {
+          "name": "regulatory frameworks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "PCI-DSS",
+          "type": "certification"
+        },
+        {
+          "name": "AML/KYC",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of software engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "backend development",
+          "type": "requirement"
+        },
+        {
+          "name": "databases",
+          "type": "requirement"
+        },
+        {
+          "name": "streaming systems",
+          "type": "requirement"
+        },
+        {
+          "name": "distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "high-scale environments",
+          "type": "requirement"
+        },
+        {
+          "name": "low-latency environments",
+          "type": "requirement"
+        },
+        {
+          "name": "handling secure financial data",
+          "type": "requirement"
+        },
+        {
+          "name": "frontend development for internal tools",
+          "type": "requirement"
+        },
+        {
+          "name": "fintech",
+          "type": "requirement"
+        },
+        {
+          "name": "payments",
+          "type": "requirement"
+        },
+        {
+          "name": "regulatory frameworks",
+          "type": "requirement"
+        },
+        {
+          "name": "greenfield projects",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4931420007,
+  "job_title": "Software Engineer, X Money",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4931420007"
+}

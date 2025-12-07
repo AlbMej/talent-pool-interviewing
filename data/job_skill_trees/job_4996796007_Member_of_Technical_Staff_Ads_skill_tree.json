@@ -1,0 +1,117 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jax",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale systems",
+              "type": "skill"
+            },
+            {
+              "name": "high-throughput systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "Grok models",
+          "type": "skill"
+        },
+        {
+          "name": "candidate selection",
+          "type": "skill"
+        },
+        {
+          "name": "ranking",
+          "type": "skill"
+        },
+        {
+          "name": "auction",
+          "type": "skill"
+        },
+        {
+          "name": "campaign optimization",
+          "type": "skill"
+        },
+        {
+          "name": "creative generation",
+          "type": "skill"
+        },
+        {
+          "name": "prediction",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "bidding",
+          "type": "skill"
+        },
+        {
+          "name": "marketplace",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "advertising products",
+          "type": "skill"
+        },
+        {
+          "name": "ads platform",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years of industry experience working on large-scale, high-throughput AI-powered advertising products",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4996796007,
+  "job_title": "Member of Technical Staff, Ads",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4996796007"
+}

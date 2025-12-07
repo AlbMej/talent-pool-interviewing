@@ -1,0 +1,144 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Scala",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Golang",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "high-concurrency systems",
+              "type": "skill"
+            },
+            {
+              "name": "low-latency systems",
+              "type": "skill"
+            },
+            {
+              "name": "payments infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "SKU technology",
+              "type": "skill"
+            },
+            {
+              "name": "growth systems",
+              "type": "skill"
+            },
+            {
+              "name": "user acquisition systems",
+              "type": "skill"
+            },
+            {
+              "name": "user retention systems",
+              "type": "skill"
+            },
+            {
+              "name": "creator monetization systems",
+              "type": "skill"
+            },
+            {
+              "name": "Apache",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "rigorous testing",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "continuous deployment",
+          "type": "skill"
+        },
+        {
+          "name": "systems design",
+          "type": "skill"
+        },
+        {
+          "name": "fault-tolerant service design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "subscriptions infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "growth engineering",
+          "type": "skill"
+        },
+        {
+          "name": "fintech",
+          "type": "skill"
+        },
+        {
+          "name": "social platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years in backend or systems engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in high-scale platforms",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4783833007,
+  "job_title": "Backend Software Engineer, Subscriptions",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4783833007"
+}

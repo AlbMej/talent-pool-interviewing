@@ -1,0 +1,124 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "containerization",
+              "type": "skill"
+            },
+            {
+              "name": "multi-OS environments",
+              "type": "skill"
+            },
+            {
+              "name": "Windows",
+              "type": "skill"
+            },
+            {
+              "name": "Linux",
+              "type": "skill"
+            },
+            {
+              "name": "macOS",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLM agents",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning environments",
+          "type": "skill"
+        },
+        {
+          "name": "AI agent training",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data collection",
+          "type": "skill"
+        },
+        {
+          "name": "environment building",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation suites",
+          "type": "skill"
+        },
+        {
+          "name": "automating interactions",
+          "type": "skill"
+        },
+        {
+          "name": "system design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "computer use agents",
+          "type": "skill"
+        },
+        {
+          "name": "long-horizon tasks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "architecting isolated environments",
+          "type": "requirement"
+        },
+        {
+          "name": "developing custom tools",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4916827007,
+  "job_title": "Member of Technical Staff - Macrohard / Computer Control - RL Environments",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4916827007"
+}

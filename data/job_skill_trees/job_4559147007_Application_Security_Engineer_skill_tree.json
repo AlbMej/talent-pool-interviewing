@@ -1,0 +1,232 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Burp Suite",
+              "type": "skill"
+            },
+            {
+              "name": "OWASP ZAP",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CI/CD pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "static analysis",
+              "type": "skill"
+            },
+            {
+              "name": "dynamic code analysis",
+              "type": "skill"
+            },
+            {
+              "name": "software supply chain security",
+              "type": "skill"
+            },
+            {
+              "name": "SBOMs",
+              "type": "skill"
+            },
+            {
+              "name": "DevSecOps",
+              "type": "skill"
+            },
+            {
+              "name": "GitOps",
+              "type": "skill"
+            },
+            {
+              "name": "infrastructure-as-code",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML security",
+          "type": "skill"
+        },
+        {
+          "name": "OWASP LLM Top 10",
+          "type": "skill"
+        },
+        {
+          "name": "federated learning",
+          "type": "skill"
+        },
+        {
+          "name": "privacy-preserving machine learning",
+          "type": "skill"
+        },
+        {
+          "name": "OWASP Top 10",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "code reviews",
+          "type": "skill"
+        },
+        {
+          "name": "static analysis",
+          "type": "skill"
+        },
+        {
+          "name": "threat modeling",
+          "type": "skill"
+        },
+        {
+          "name": "risk assessments",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "secure coding practices",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "application security",
+          "type": "skill"
+        },
+        {
+          "name": "cloud-native applications",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning models",
+          "type": "skill"
+        },
+        {
+          "name": "data privacy",
+          "type": "skill"
+        },
+        {
+          "name": "compliance regulations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CSSLP",
+          "type": "certification"
+        },
+        {
+          "name": "OSWE",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science, Cybersecurity, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "application security",
+          "type": "requirement"
+        },
+        {
+          "name": "code security practices",
+          "type": "requirement"
+        },
+        {
+          "name": "securing CI/CD pipelines",
+          "type": "requirement"
+        },
+        {
+          "name": "DevSecOps practices",
+          "type": "requirement"
+        },
+        {
+          "name": "software supply chain security",
+          "type": "requirement"
+        },
+        {
+          "name": "SBOM generation",
+          "type": "requirement"
+        },
+        {
+          "name": "static/dynamic code analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "AI/ML security implications",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4559147007,
+  "job_title": "Application Security Engineer",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4559147007"
+}

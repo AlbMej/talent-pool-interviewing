@@ -1,0 +1,169 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "TensorFlow",
+              "type": "skill"
+            },
+            {
+              "name": "PyTorch",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable systems",
+              "type": "skill"
+            },
+            {
+              "name": "large datasets",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "machine learning lifecycle",
+          "type": "skill"
+        },
+        {
+          "name": "data gathering",
+          "type": "skill"
+        },
+        {
+          "name": "data cleaning",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "model serving",
+          "type": "skill"
+        },
+        {
+          "name": "ML models",
+          "type": "skill"
+        },
+        {
+          "name": "real-time inference",
+          "type": "skill"
+        },
+        {
+          "name": "high-throughput processing",
+          "type": "skill"
+        },
+        {
+          "name": "LLMs",
+          "type": "skill"
+        },
+        {
+          "name": "natural language understanding",
+          "type": "skill"
+        },
+        {
+          "name": "anomaly detection",
+          "type": "skill"
+        },
+        {
+          "name": "fraud detection",
+          "type": "skill"
+        },
+        {
+          "name": "content moderation",
+          "type": "skill"
+        },
+        {
+          "name": "abuse detection",
+          "type": "skill"
+        },
+        {
+          "name": "spam detection",
+          "type": "skill"
+        },
+        {
+          "name": "child safety",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data preparation",
+          "type": "skill"
+        },
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "ML infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Trust and Safety",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years in machine learning engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "managing full ML lifecycle",
+          "type": "requirement"
+        },
+        {
+          "name": "applying ML to content moderation",
+          "type": "requirement"
+        },
+        {
+          "name": "applying LLMs to real-world problems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4944324007,
+  "job_title": "Member of Technical Staff, Trust and Safety",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4944324007"
+}

@@ -1,0 +1,225 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "SIEM platforms",
+              "type": "skill"
+            },
+            {
+              "name": "code analysis tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "CI/CD pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "Infrastructure as Code",
+              "type": "skill"
+            },
+            {
+              "name": "containerized environments",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML-specific vulnerabilities",
+          "type": "skill"
+        },
+        {
+          "name": "OWASP LLM Top 10",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "monitoring security alerts",
+          "type": "skill"
+        },
+        {
+          "name": "refining detection rules",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        },
+        {
+          "name": "code reviews",
+          "type": "skill"
+        },
+        {
+          "name": "security assessments",
+          "type": "skill"
+        },
+        {
+          "name": "automation scripts",
+          "type": "skill"
+        },
+        {
+          "name": "DevSecOps practices",
+          "type": "skill"
+        },
+        {
+          "name": "endpoint protection",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "detection engineering",
+          "type": "skill"
+        },
+        {
+          "name": "application security",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure security",
+          "type": "skill"
+        },
+        {
+          "name": "cloud architectures",
+          "type": "skill"
+        },
+        {
+          "name": "AI environments",
+          "type": "skill"
+        },
+        {
+          "name": "software supply chain security",
+          "type": "skill"
+        },
+        {
+          "name": "digital forensics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "GCIH",
+          "type": "certification"
+        },
+        {
+          "name": "CSSLP",
+          "type": "certification"
+        },
+        {
+          "name": "CCSP",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science, Cybersecurity, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "1-3 years of experience in cybersecurity with exposure to detection, application, or infrastructure security",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience working across multiple security domains",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with containerized environments, Kubernetes, or DevSecOps practices",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience building custom security tools or integrations",
+          "type": "requirement"
+        },
+        {
+          "name": "Contributions to open-source security projects",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4767801007,
+  "job_title": "Information Security Engineer - Generalist",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4767801007"
+}

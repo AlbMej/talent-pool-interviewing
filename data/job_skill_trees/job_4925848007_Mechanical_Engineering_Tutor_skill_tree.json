@@ -1,0 +1,96 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Mechanical Engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's in Mechanical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Mechanical Engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience working on real-world problems in Mechanical Engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with at least one publication in a reputable journal",
+          "type": "requirement"
+        },
+        {
+          "name": "previous AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in technical writing",
+          "type": "requirement"
+        },
+        {
+          "name": "professional background as a mechanical engineer",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925848007,
+  "job_title": "Mechanical Engineering Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925848007"
+}

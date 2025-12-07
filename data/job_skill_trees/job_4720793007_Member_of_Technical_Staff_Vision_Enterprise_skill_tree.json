@@ -1,0 +1,257 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "WebRTC",
+              "type": "skill"
+            },
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "image processing pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "vision data pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "vision models",
+          "type": "skill"
+        },
+        {
+          "name": "video understanding",
+          "type": "skill"
+        },
+        {
+          "name": "VLMs",
+          "type": "skill"
+        },
+        {
+          "name": "image recognition",
+          "type": "skill"
+        },
+        {
+          "name": "object detection",
+          "type": "skill"
+        },
+        {
+          "name": "visual understanding",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning VLMs",
+          "type": "skill"
+        },
+        {
+          "name": "system prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic data generation",
+          "type": "skill"
+        },
+        {
+          "name": "image classification accuracy",
+          "type": "skill"
+        },
+        {
+          "name": "object detection precision",
+          "type": "skill"
+        },
+        {
+          "name": "real-time latency",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning fundamentals",
+          "type": "skill"
+        },
+        {
+          "name": "vision model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "training",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "deploying models to production",
+          "type": "skill"
+        },
+        {
+          "name": "low-latency optimization",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale image datasets",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale video datasets",
+          "type": "skill"
+        },
+        {
+          "name": "vision processing pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "scaling systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "benchmarking vision models",
+          "type": "skill"
+        },
+        {
+          "name": "writing evaluations",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing performance",
+          "type": "skill"
+        },
+        {
+          "name": "generating synthetic data",
+          "type": "skill"
+        },
+        {
+          "name": "human data collection",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing vision request logs",
+          "type": "skill"
+        },
+        {
+          "name": "building internal tools for VLM workflows",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing for high-throughput low-latency",
+          "type": "skill"
+        },
+        {
+          "name": "establishing benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "integrating Vision capabilities into workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "Vision",
+          "type": "skill"
+        },
+        {
+          "name": "Video Understanding",
+          "type": "skill"
+        },
+        {
+          "name": "enterprise vision use cases",
+          "type": "skill"
+        },
+        {
+          "name": "automated quality control",
+          "type": "skill"
+        },
+        {
+          "name": "surveillance",
+          "type": "skill"
+        },
+        {
+          "name": "augmented reality",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "implementing VLM or machine learning products",
+          "type": "requirement"
+        },
+        {
+          "name": "APIs",
+          "type": "requirement"
+        },
+        {
+          "name": "back-end",
+          "type": "requirement"
+        },
+        {
+          "name": "front-end vision interfaces",
+          "type": "requirement"
+        },
+        {
+          "name": "deploying Vision systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4720793007,
+  "job_title": "Member of Technical Staff, Vision (Enterprise)",
+  "location": "London, UK; Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4720793007"
+}

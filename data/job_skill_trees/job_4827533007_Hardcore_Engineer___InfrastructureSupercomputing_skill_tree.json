@@ -1,0 +1,149 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Golang",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "GPUs",
+              "type": "skill"
+            },
+            {
+              "name": "Linux kernel",
+              "type": "skill"
+            },
+            {
+              "name": "networking",
+              "type": "skill"
+            },
+            {
+              "name": "filesystems",
+              "type": "skill"
+            },
+            {
+              "name": "supercomputing clusters",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "GPU optimization",
+          "type": "skill"
+        },
+        {
+          "name": "AI training",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning frameworks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "performance profiling",
+          "type": "skill"
+        },
+        {
+          "name": "debugging",
+          "type": "skill"
+        },
+        {
+          "name": "optimization",
+          "type": "skill"
+        },
+        {
+          "name": "hardware-software-algorithm co-design",
+          "type": "skill"
+        },
+        {
+          "name": "tool development",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "large-scale infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "supercomputing",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Writing scalable and highly available containerized applications in Rust",
+          "type": "requirement"
+        },
+        {
+          "name": "Managing compute fleets with Pulumi, Terraform, Ansible",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4827533007,
+  "job_title": "Hardcore Engineer - Infrastructure/Supercomputing",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4827533007"
+}

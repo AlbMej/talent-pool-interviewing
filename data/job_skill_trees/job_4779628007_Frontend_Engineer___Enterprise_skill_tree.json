@@ -1,0 +1,111 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "Tailwind",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "performance best practices",
+              "type": "skill"
+            },
+            {
+              "name": "accessibility best practices",
+              "type": "skill"
+            },
+            {
+              "name": "frontend security best practices",
+              "type": "skill"
+            },
+            {
+              "name": "WebGL",
+              "type": "skill"
+            },
+            {
+              "name": "WebSockets",
+              "type": "skill"
+            },
+            {
+              "name": "WebAssembly",
+              "type": "skill"
+            },
+            {
+              "name": "web workers",
+              "type": "skill"
+            },
+            {
+              "name": "PWAs",
+              "type": "skill"
+            },
+            {
+              "name": "CSS animations",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "HTML",
+              "type": "skill"
+            },
+            {
+              "name": "CSS",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "UI design",
+          "type": "skill"
+        },
+        {
+          "name": "UX design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "delivering user-facing software at scale",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4779628007,
+  "job_title": "Frontend Engineer - Enterprise",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4779628007"
+}

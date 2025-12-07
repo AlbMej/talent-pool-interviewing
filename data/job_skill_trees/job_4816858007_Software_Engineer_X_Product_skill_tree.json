@@ -1,0 +1,83 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "large language models (LLMs)",
+          "type": "skill"
+        },
+        {
+          "name": "retrieval-augmented generation (RAG)",
+          "type": "skill"
+        },
+        {
+          "name": "graph-based AI techniques",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "rapid prototyping",
+          "type": "skill"
+        },
+        {
+          "name": "integrating AI models into workflows",
+          "type": "skill"
+        },
+        {
+          "name": "document analysis",
+          "type": "skill"
+        },
+        {
+          "name": "automation tools",
+          "type": "skill"
+        },
+        {
+          "name": "experimental prototypes",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI-driven applications",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of professional software engineering experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4816858007,
+  "job_title": "Software Engineer, X Product",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4816858007"
+}

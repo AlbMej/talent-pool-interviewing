@@ -1,0 +1,189 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "structured text",
+              "type": "skill"
+            },
+            {
+              "name": "ladder logic",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Ignition SCADA",
+              "type": "skill"
+            },
+            {
+              "name": "Siemens TIA Portal",
+              "type": "skill"
+            },
+            {
+              "name": "PLCs",
+              "type": "skill"
+            },
+            {
+              "name": "HMI",
+              "type": "skill"
+            },
+            {
+              "name": "BMS",
+              "type": "skill"
+            },
+            {
+              "name": "EPMS",
+              "type": "skill"
+            },
+            {
+              "name": "SCADA",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "industrial control systems",
+              "type": "skill"
+            },
+            {
+              "name": "chillers",
+              "type": "skill"
+            },
+            {
+              "name": "pumps",
+              "type": "skill"
+            },
+            {
+              "name": "power distribution",
+              "type": "skill"
+            },
+            {
+              "name": "fire safety controls",
+              "type": "skill"
+            },
+            {
+              "name": "emergency shutdown procedures",
+              "type": "skill"
+            },
+            {
+              "name": "PUE monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "demand response automation",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "HMI graphics standard implementation",
+          "type": "skill"
+        },
+        {
+          "name": "automated controls development",
+          "type": "skill"
+        },
+        {
+          "name": "reporting dashboard development",
+          "type": "skill"
+        },
+        {
+          "name": "infrastructure set point adjustment",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting approach",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "controls engineering",
+          "type": "skill"
+        },
+        {
+          "name": "automation engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's Degree in Controls and Computer Control Systems",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's Degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's Degree in Mechatronic Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's Degree in Automation Engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of experience as a hands-on Controls Engineer working with industrial control systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Ignition SCADA Programming Experience",
+          "type": "requirement"
+        },
+        {
+          "name": "Siemens TIA Portal PLC Programming Experience",
+          "type": "requirement"
+        },
+        {
+          "name": "programming industrial equipment in all IEC 61131-3 languages",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with industrial control hardware from Siemens, SEL, Rockwell",
+          "type": "requirement"
+        },
+        {
+          "name": "HMI/GUI development using Ignition, SEL",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4950703007,
+  "job_title": "Controls Engineer",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4950703007"
+}

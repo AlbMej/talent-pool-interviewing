@@ -1,0 +1,246 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "logic analyzers",
+              "type": "skill"
+            },
+            {
+              "name": "diagnostic software",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "firmware",
+              "type": "skill"
+            },
+            {
+              "name": "hardware specifications",
+              "type": "skill"
+            },
+            {
+              "name": "RMA processes",
+              "type": "skill"
+            },
+            {
+              "name": "datacenter hardware components",
+              "type": "skill"
+            },
+            {
+              "name": "servers",
+              "type": "skill"
+            },
+            {
+              "name": "GPUs",
+              "type": "skill"
+            },
+            {
+              "name": "networking equipment",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "firmware analysis",
+          "type": "skill"
+        },
+        {
+          "name": "hardware specifications review",
+          "type": "skill"
+        },
+        {
+          "name": "release validation",
+          "type": "skill"
+        },
+        {
+          "name": "hardware failure diagnosis",
+          "type": "skill"
+        },
+        {
+          "name": "failure analysis",
+          "type": "skill"
+        },
+        {
+          "name": "testing and data analysis",
+          "type": "skill"
+        },
+        {
+          "name": "vendor negotiations",
+          "type": "skill"
+        },
+        {
+          "name": "hardware troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "hardware repair",
+          "type": "skill"
+        },
+        {
+          "name": "hardware optimization",
+          "type": "skill"
+        },
+        {
+          "name": "hardware evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring tools development",
+          "type": "skill"
+        },
+        {
+          "name": "scripting for automation",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "high-performance computing",
+          "type": "skill"
+        },
+        {
+          "name": "datacenter environments",
+          "type": "skill"
+        },
+        {
+          "name": "AI/ML infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "supercomputing environments",
+          "type": "skill"
+        },
+        {
+          "name": "vendor ecosystems",
+          "type": "skill"
+        },
+        {
+          "name": "supply chain management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CRE",
+          "type": "certification"
+        },
+        {
+          "name": "CompTIA Server+",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Systems Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of experience in hardware reliability engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in high-performance computing",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in datacenter environments",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with firmware analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with hardware specifications review",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with release validation",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with RMA processes",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with vendor negotiations",
+          "type": "requirement"
+        },
+        {
+          "name": "experience diagnosing hardware failures",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in AI/ML infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in supercomputing environments",
+          "type": "requirement"
+        },
+        {
+          "name": "knowledge of vendor ecosystems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4974627007,
+  "job_title": "Site Reliability Engineer - Hardware",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4974627007"
+}

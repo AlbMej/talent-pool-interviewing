@@ -1,0 +1,136 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "input/labels provision",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "AI task training",
+          "type": "skill"
+        },
+        {
+          "name": "model performance improvement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "problem selection in space science",
+          "type": "skill"
+        },
+        {
+          "name": "data gathering in text, voice, and video formats",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "galactic astronomy",
+          "type": "skill"
+        },
+        {
+          "name": "extragalactic astronomy",
+          "type": "skill"
+        },
+        {
+          "name": "observational astronomy",
+          "type": "skill"
+        },
+        {
+          "name": "stellar astrophysics",
+          "type": "skill"
+        },
+        {
+          "name": "high-energy astrophysics",
+          "type": "skill"
+        },
+        {
+          "name": "cosmology",
+          "type": "skill"
+        },
+        {
+          "name": "planetary science",
+          "type": "skill"
+        },
+        {
+          "name": "earth sciences",
+          "type": "skill"
+        },
+        {
+          "name": "astroparticle physics",
+          "type": "skill"
+        },
+        {
+          "name": "general relativity",
+          "type": "skill"
+        },
+        {
+          "name": "interdisciplinary space sciences",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s or PhD in astrophysics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master’s or PhD in astronomy",
+          "type": "qualification"
+        },
+        {
+          "name": "Master’s or PhD in physics",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "navigate information resources, databases, and online resources",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925830007,
+  "job_title": "Space Science Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925830007"
+}

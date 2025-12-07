@@ -1,0 +1,225 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "FoundationDB",
+              "type": "skill"
+            },
+            {
+              "name": "ValKey",
+              "type": "skill"
+            },
+            {
+              "name": "Envoy",
+              "type": "skill"
+            },
+            {
+              "name": "S3",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "FoundationDB",
+              "type": "skill"
+            },
+            {
+              "name": "ValKey",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "scalable systems",
+              "type": "skill"
+            },
+            {
+              "name": "media processing pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "video distribution pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "WebRTC",
+              "type": "skill"
+            },
+            {
+              "name": "LL-HLS",
+              "type": "skill"
+            },
+            {
+              "name": "video transcoding pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "H.264",
+              "type": "skill"
+            },
+            {
+              "name": "H.265",
+              "type": "skill"
+            },
+            {
+              "name": "AV1",
+              "type": "skill"
+            },
+            {
+              "name": "MP4",
+              "type": "skill"
+            },
+            {
+              "name": "CMAF",
+              "type": "skill"
+            },
+            {
+              "name": "VMAF",
+              "type": "skill"
+            },
+            {
+              "name": "RTP",
+              "type": "skill"
+            },
+            {
+              "name": "RTMP",
+              "type": "skill"
+            },
+            {
+              "name": "HDR",
+              "type": "skill"
+            },
+            {
+              "name": "DRM",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "large-scale video services",
+          "type": "skill"
+        },
+        {
+          "name": "media processing pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "video distribution pipelines",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "video playback",
+          "type": "skill"
+        },
+        {
+          "name": "live streaming",
+          "type": "skill"
+        },
+        {
+          "name": "audio/video calls",
+          "type": "skill"
+        },
+        {
+          "name": "media quality",
+          "type": "skill"
+        },
+        {
+          "name": "media performance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "high performance C++",
+          "type": "requirement"
+        },
+        {
+          "name": "high performance Go",
+          "type": "requirement"
+        },
+        {
+          "name": "WebRTC",
+          "type": "requirement"
+        },
+        {
+          "name": "LL-HLS",
+          "type": "requirement"
+        },
+        {
+          "name": "video transcoding pipelines",
+          "type": "requirement"
+        },
+        {
+          "name": "scalable distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "resilient distributed systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4805874007,
+  "job_title": "Software Engineer - Media",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4805874007"
+}

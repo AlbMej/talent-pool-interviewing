@@ -1,0 +1,74 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data generation workflows",
+          "type": "skill"
+        },
+        {
+          "name": "scalable quality controls",
+          "type": "skill"
+        },
+        {
+          "name": "process improvements",
+          "type": "skill"
+        },
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "model development processes",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data generation",
+          "type": "skill"
+        },
+        {
+          "name": "data operations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "managing large-scale distributed teams",
+          "type": "requirement"
+        },
+        {
+          "name": "managing large-scale distributed workflows",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4940146007,
+  "job_title": "Strategic Projects Lead",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4940146007"
+}

@@ -1,0 +1,156 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "SQL",
+              "type": "skill"
+            },
+            {
+              "name": "PowerBI",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "compute infrastructure",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "sourcing strategies",
+          "type": "skill"
+        },
+        {
+          "name": "supplier contracts",
+          "type": "skill"
+        },
+        {
+          "name": "Master Service Agreements",
+          "type": "skill"
+        },
+        {
+          "name": "supplier analysis",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking",
+          "type": "skill"
+        },
+        {
+          "name": "market research",
+          "type": "skill"
+        },
+        {
+          "name": "supplier relationship management",
+          "type": "skill"
+        },
+        {
+          "name": "KPI tracking",
+          "type": "skill"
+        },
+        {
+          "name": "quarterly business reviews",
+          "type": "skill"
+        },
+        {
+          "name": "procurement processes",
+          "type": "skill"
+        },
+        {
+          "name": "automation",
+          "type": "skill"
+        },
+        {
+          "name": "cost modeling",
+          "type": "skill"
+        },
+        {
+          "name": "performance tracking",
+          "type": "skill"
+        },
+        {
+          "name": "capital expenditure management",
+          "type": "skill"
+        },
+        {
+          "name": "operational expenditure management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "supply chain management",
+          "type": "skill"
+        },
+        {
+          "name": "procurement",
+          "type": "skill"
+        },
+        {
+          "name": "contract negotiation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of experience in procurement, sourcing, supply chain management, or contract negotiation",
+          "type": "requirement"
+        },
+        {
+          "name": "6+ years of equivalent experience in lieu of a degree",
+          "type": "requirement"
+        },
+        {
+          "name": "managing high-spend portfolios ($100M+)",
+          "type": "requirement"
+        },
+        {
+          "name": "negotiating complex supplier contracts",
+          "type": "requirement"
+        },
+        {
+          "name": "sourcing for compute infrastructure, facilities, or indirect categories (e.g., IT, services)",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4970499007,
+  "job_title": "Sr. Buyer (Construction) ",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4970499007"
+}

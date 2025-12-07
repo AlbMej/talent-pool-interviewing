@@ -1,0 +1,120 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotations",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "buy-side finance",
+          "type": "skill"
+        },
+        {
+          "name": "portfolio management",
+          "type": "skill"
+        },
+        {
+          "name": "hedge fund strategies",
+          "type": "skill"
+        },
+        {
+          "name": "private equity investments",
+          "type": "skill"
+        },
+        {
+          "name": "venture capital deal sourcing",
+          "type": "skill"
+        },
+        {
+          "name": "high-frequency trading algorithms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CFA",
+          "type": "certification"
+        },
+        {
+          "name": "CAIA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "professional experience in buy-side finance",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in portfolio management",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in hedge fund strategies",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in private equity investments",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in venture capital deal sourcing",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in high-frequency trading algorithms",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in data annotation workflows",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4933179007,
+  "job_title": "AI Finance Tutor - Portfolio Management",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4933179007"
+}

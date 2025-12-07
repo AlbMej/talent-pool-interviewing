@@ -1,0 +1,391 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            },
+            {
+              "name": "Shell",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Mesos",
+              "type": "skill"
+            },
+            {
+              "name": "Puppet",
+              "type": "skill"
+            },
+            {
+              "name": "Chef",
+              "type": "skill"
+            },
+            {
+              "name": "Ansible",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "internet-scale *nix environments",
+              "type": "skill"
+            },
+            {
+              "name": "on-prem infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "cloud-based infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "TCP/IP",
+              "type": "skill"
+            },
+            {
+              "name": "HTTP",
+              "type": "skill"
+            },
+            {
+              "name": "Networking",
+              "type": "skill"
+            },
+            {
+              "name": "systems programming",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            },
+            {
+              "name": "orchestration",
+              "type": "skill"
+            },
+            {
+              "name": "systems management",
+              "type": "skill"
+            },
+            {
+              "name": "failure domains",
+              "type": "skill"
+            },
+            {
+              "name": "blast radii",
+              "type": "skill"
+            },
+            {
+              "name": "canary testing",
+              "type": "skill"
+            },
+            {
+              "name": "monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "alerting",
+              "type": "skill"
+            },
+            {
+              "name": "troubleshooting",
+              "type": "skill"
+            },
+            {
+              "name": "incident response",
+              "type": "skill"
+            },
+            {
+              "name": "problem management",
+              "type": "skill"
+            },
+            {
+              "name": "root cause analyses",
+              "type": "skill"
+            },
+            {
+              "name": "performance metrics analysis",
+              "type": "skill"
+            },
+            {
+              "name": "security",
+              "type": "skill"
+            },
+            {
+              "name": "resilience",
+              "type": "skill"
+            },
+            {
+              "name": "data centers",
+              "type": "skill"
+            },
+            {
+              "name": "hybrid infrastructures",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale GPU clusters",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI/ML infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "AI workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "incident management",
+          "type": "skill"
+        },
+        {
+          "name": "root cause analyses",
+          "type": "skill"
+        },
+        {
+          "name": "continuous improvement",
+          "type": "skill"
+        },
+        {
+          "name": "performance metrics analysis",
+          "type": "skill"
+        },
+        {
+          "name": "deployment",
+          "type": "skill"
+        },
+        {
+          "name": "support",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        },
+        {
+          "name": "administration",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting",
+          "type": "skill"
+        },
+        {
+          "name": "systems and application design",
+          "type": "skill"
+        },
+        {
+          "name": "operational trade-offs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "distributed environments",
+          "type": "skill"
+        },
+        {
+          "name": "production infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Electrical Engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5 years of software engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "5 years of systems engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "5 years of reliability engineering experience",
+          "type": "requirement"
+        },
+        {
+          "name": "managing services in distributed environments",
+          "type": "requirement"
+        },
+        {
+          "name": "managing services in internet-scale environments",
+          "type": "requirement"
+        },
+        {
+          "name": "managing services in *nix environments",
+          "type": "requirement"
+        },
+        {
+          "name": "on-call rotations",
+          "type": "requirement"
+        },
+        {
+          "name": "incident response in high-stakes environments",
+          "type": "requirement"
+        },
+        {
+          "name": "AI/ML infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "large-scale GPU clusters",
+          "type": "requirement"
+        },
+        {
+          "name": "deployment across on-prem infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "support across on-prem infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "monitoring across on-prem infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "administration across on-prem infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "troubleshooting across on-prem infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "deployment across cloud infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "support across cloud infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "monitoring across cloud infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "administration across cloud infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "troubleshooting across cloud infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "deployment across hybrid infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "support across hybrid infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "monitoring across hybrid infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "administration across hybrid infrastructures",
+          "type": "requirement"
+        },
+        {
+          "name": "troubleshooting across hybrid infrastructures",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4801451007,
+  "job_title": "Site Reliability Engineer - xAI Technical Operations",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4801451007"
+}

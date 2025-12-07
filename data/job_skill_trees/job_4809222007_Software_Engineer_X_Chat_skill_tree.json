@@ -1,0 +1,185 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Swift",
+              "type": "skill"
+            },
+            {
+              "name": "Objective-C",
+              "type": "skill"
+            },
+            {
+              "name": "Kotlin",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Coroutines",
+              "type": "skill"
+            },
+            {
+              "name": "Flow",
+              "type": "skill"
+            },
+            {
+              "name": "REST",
+              "type": "skill"
+            },
+            {
+              "name": "GraphQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Xcode",
+              "type": "skill"
+            },
+            {
+              "name": "Android Studio",
+              "type": "skill"
+            },
+            {
+              "name": "Gradle",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "mobile architectures",
+              "type": "skill"
+            },
+            {
+              "name": "performance optimization",
+              "type": "skill"
+            },
+            {
+              "name": "E2EE integration",
+              "type": "skill"
+            },
+            {
+              "name": "concurrency",
+              "type": "skill"
+            },
+            {
+              "name": "real-time messaging",
+              "type": "skill"
+            },
+            {
+              "name": "encrypted messaging",
+              "type": "skill"
+            },
+            {
+              "name": "high-throughput API integrations",
+              "type": "skill"
+            },
+            {
+              "name": "iOS ecosystems",
+              "type": "skill"
+            },
+            {
+              "name": "Android ecosystems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "designing mobile UIs",
+          "type": "skill"
+        },
+        {
+          "name": "shipping mobile apps",
+          "type": "skill"
+        },
+        {
+          "name": "owning features end-to-end",
+          "type": "skill"
+        },
+        {
+          "name": "architecture to app store deployment",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "mobile development",
+          "type": "skill"
+        },
+        {
+          "name": "iOS",
+          "type": "skill"
+        },
+        {
+          "name": "Android",
+          "type": "skill"
+        },
+        {
+          "name": "secure apps",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "deep knowledge of mobile architectures",
+          "type": "requirement"
+        },
+        {
+          "name": "performance optimization for responsive apps",
+          "type": "requirement"
+        },
+        {
+          "name": "designing and shipping mobile UIs with E2EE",
+          "type": "requirement"
+        },
+        {
+          "name": "concurrency for real-time encrypted messaging",
+          "type": "requirement"
+        },
+        {
+          "name": "building high-throughput API integrations with backend systems",
+          "type": "requirement"
+        },
+        {
+          "name": "owning features from architecture to deployment",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4809222007,
+  "job_title": "Software Engineer, X Chat",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4809222007"
+}

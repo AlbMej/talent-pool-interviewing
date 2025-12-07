@@ -1,0 +1,243 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Pulumi",
+              "type": "skill"
+            },
+            {
+              "name": "Terraform",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "PostgreSQL",
+              "type": "skill"
+            },
+            {
+              "name": "Clickhouse",
+              "type": "skill"
+            },
+            {
+              "name": "CockroachDB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "back-end",
+              "type": "skill"
+            },
+            {
+              "name": "front-end interfaces",
+              "type": "skill"
+            },
+            {
+              "name": "data processing architectures",
+              "type": "skill"
+            },
+            {
+              "name": "model serving architectures",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "prompt engineering",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning fundamentals",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "training",
+          "type": "skill"
+        },
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "deploying machine learning models to production",
+          "type": "skill"
+        },
+        {
+          "name": "creating and maintaining SDKs",
+          "type": "skill"
+        },
+        {
+          "name": "work with massive datasets",
+          "type": "skill"
+        },
+        {
+          "name": "optimize performance",
+          "type": "skill"
+        },
+        {
+          "name": "scale systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI product implementation",
+          "type": "skill"
+        },
+        {
+          "name": "machine learning product implementation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Software Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Physics",
+          "type": "qualification"
+        },
+        {
+          "name": "Data Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing, implementing, and maintaining reliable and horizontally scalable distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "operating databases",
+          "type": "requirement"
+        },
+        {
+          "name": "full stack with product architecture",
+          "type": "requirement"
+        },
+        {
+          "name": "AI or machine learning product implementation with APIs, back-end, and front-end interfaces",
+          "type": "requirement"
+        },
+        {
+          "name": "prompt engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "work with large, complex codebases",
+          "type": "requirement"
+        },
+        {
+          "name": "designing efficient data processing and model serving architectures",
+          "type": "requirement"
+        },
+        {
+          "name": "building evals for new capabilities",
+          "type": "requirement"
+        },
+        {
+          "name": "evaluating systems",
+          "type": "requirement"
+        },
+        {
+          "name": "deploying machine learning models to production",
+          "type": "requirement"
+        },
+        {
+          "name": "writing developer documentation",
+          "type": "requirement"
+        },
+        {
+          "name": "creating and maintaining SDKs",
+          "type": "requirement"
+        },
+        {
+          "name": "work with massive datasets, optimize performance, and scale systems to handle high-throughput workloads",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4939278007,
+  "job_title": "Engineering Technical Lead Manager (TLM) - Enterprise",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4939278007"
+}

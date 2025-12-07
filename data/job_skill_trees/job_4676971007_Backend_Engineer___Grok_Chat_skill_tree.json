@@ -1,0 +1,96 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "real-time signals",
+              "type": "skill"
+            },
+            {
+              "name": "massive datasets",
+              "type": "skill"
+            },
+            {
+              "name": "high-performance chat systems",
+              "type": "skill"
+            },
+            {
+              "name": "personalized chat systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "language models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "large-scale experimentation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "chat systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "developing experimentation frameworks for consumer products at massive scale",
+          "type": "requirement"
+        },
+        {
+          "name": "designing and maintaining large-scale data infrastructure systems",
+          "type": "requirement"
+        },
+        {
+          "name": "shipping consumer-facing products to millions of users",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4676971007,
+  "job_title": "Backend Engineer - Grok Chat",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4676971007"
+}

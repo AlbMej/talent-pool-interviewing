@@ -1,0 +1,174 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Golang",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "gRPC",
+              "type": "skill"
+            },
+            {
+              "name": "Envoy",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "Bazel",
+              "type": "skill"
+            },
+            {
+              "name": "Buildkite",
+              "type": "skill"
+            },
+            {
+              "name": "Argo",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "key-value stores",
+              "type": "skill"
+            },
+            {
+              "name": "relational databases",
+              "type": "skill"
+            },
+            {
+              "name": "RDBMS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "compute platforms",
+              "type": "skill"
+            },
+            {
+              "name": "data infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "service meshes",
+              "type": "skill"
+            },
+            {
+              "name": "service discovery systems",
+              "type": "skill"
+            },
+            {
+              "name": "logging",
+              "type": "skill"
+            },
+            {
+              "name": "tracing",
+              "type": "skill"
+            },
+            {
+              "name": "metrics",
+              "type": "skill"
+            },
+            {
+              "name": "traffic shaping",
+              "type": "skill"
+            },
+            {
+              "name": "load balancing",
+              "type": "skill"
+            },
+            {
+              "name": "object stores",
+              "type": "skill"
+            },
+            {
+              "name": "network file systems",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes controllers",
+              "type": "skill"
+            },
+            {
+              "name": "admission plugins",
+              "type": "skill"
+            },
+            {
+              "name": "exabyte-scale data processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "performance optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "large-scale storage systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years of industry experience working with large-scale, high-throughput distributed systems, compute platforms, or data infrastructure",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4704879007,
+  "job_title": "Software Engineer - Infrastructure",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4704879007"
+}

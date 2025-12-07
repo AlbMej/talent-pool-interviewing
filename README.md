@@ -1,0 +1,83 @@
+# Interview Assessment Application
+
+A simple Python Flask application that replicates the Svelte interview assessment interface with video recording, skill tree visualization, and question management.
+
+## Features
+
+- **Video Recording**: Access camera and microphone with start/stop controls
+- **Audio Waveform**: Animated waveform visualization during recording
+- **Skill Tree Visualization**: Beautiful D3.js hierarchical tree visualization with progress tracking
+- **Recommended Questions**: AI-generated interview questions based on skill tree
+- **Question History**: Track asked questions with timestamps
+- **Live Transcript**: Display interview transcript in real-time
+- **Mute/Unmute**: Control audio input during recording
+
+## Installation
+
+1. Install Python dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Install Node.js dependencies (for TypeScript compilation):
+```bash
+npm install
+```
+
+3. Build TypeScript files:
+```bash
+npm run build
+```
+
+Or for development with auto-rebuild:
+```bash
+npm run watch
+```
+
+4. Run the application:
+```bash
+python app.py
+```
+
+5. Open your browser and navigate to:
+```
+http://localhost:5000
+```
+
+## Development
+
+The frontend is written in TypeScript and compiled to JavaScript. To make changes:
+
+1. Edit files in the `src/` directory
+2. Run `npm run build` to compile, or `npm run watch` for auto-compilation
+3. Refresh your browser
+
+## Usage
+
+1. Allow camera and microphone access when prompted
+2. Click "Start" to begin recording
+3. Use recommended questions or ask your own
+4. Watch skill progress update as the interview progresses
+5. View transcript and question history in the left panel
+6. Explore the beautiful hierarchical skill tree visualization
+
+## API Endpoints
+
+- `GET /` - Main application page
+- `GET /api/v1/skill-trees/<job_id>` - Get skill tree by job ID
+- `GET /api/v1/skill-trees/default` - Get default skill tree
+- `POST /api/v1/generate-interview-questions` - Generate interview questions
+
+## Technology Stack
+
+- **Backend**: Flask (Python)
+- **Frontend**: TypeScript compiled to JavaScript
+- **Visualization**: D3.js for hierarchical tree visualization
+- **Media**: WebRTC APIs for camera/microphone access
+
+## Notes
+
+- The application uses browser WebRTC APIs for media access
+- Skill progress updates are simulated based on transcript keywords
+- The skill tree uses D3.js for a beautiful hierarchical visualization
+- In production, integrate with actual AI services for question generation and skill assessment

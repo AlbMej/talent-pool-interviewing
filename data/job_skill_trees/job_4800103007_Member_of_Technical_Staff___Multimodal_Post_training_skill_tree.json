@@ -1,0 +1,151 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data processing pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "training pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "scalable video pipelines",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning techniques",
+          "type": "skill"
+        },
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal large language models",
+          "type": "skill"
+        },
+        {
+          "name": "computer vision",
+          "type": "skill"
+        },
+        {
+          "name": "video processing",
+          "type": "skill"
+        },
+        {
+          "name": "real-time video understanding",
+          "type": "skill"
+        },
+        {
+          "name": "noisy visual data handling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "pre-training",
+          "type": "skill"
+        },
+        {
+          "name": "SFT",
+          "type": "skill"
+        },
+        {
+          "name": "RL",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "training algorithm",
+          "type": "skill"
+        },
+        {
+          "name": "model architecture",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "tool usage",
+          "type": "skill"
+        },
+        {
+          "name": "video-based multimodal capabilities",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal datasets",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "experience in multimodal large language models",
+          "type": "requirement"
+        },
+        {
+          "name": "publications in multimodal large language models",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in real-world computer vision",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in video processing",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in multimodal datasets",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4800103007,
+  "job_title": "Member of Technical Staff - Multimodal Post-training",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4800103007"
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Kotlin",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jetpack Compose",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Android Studio",
+              "type": "skill"
+            },
+            {
+              "name": "Gradle",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "reactive programming",
+              "type": "skill"
+            },
+            {
+              "name": "Android ecosystem",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "architecting large production apps",
+          "type": "skill"
+        },
+        {
+          "name": "performance optimization",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "mobile development",
+          "type": "skill"
+        },
+        {
+          "name": "media processing",
+          "type": "skill"
+        },
+        {
+          "name": "video processing",
+          "type": "skill"
+        },
+        {
+          "name": "audio processing",
+          "type": "skill"
+        },
+        {
+          "name": "live streaming",
+          "type": "skill"
+        },
+        {
+          "name": "iOS development",
+          "type": "skill"
+        },
+        {
+          "name": "full-stack development",
+          "type": "skill"
+        },
+        {
+          "name": "data science",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "shipping apps",
+          "type": "requirement"
+        },
+        {
+          "name": "shipping features",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4892323007,
+  "job_title": "Mobile Android Engineer - Grok",
+  "location": "London, UK",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4892323007"
+}

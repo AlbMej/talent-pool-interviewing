@@ -1,0 +1,161 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "QuickBooks",
+              "type": "skill"
+            },
+            {
+              "name": "NetSuite",
+              "type": "skill"
+            },
+            {
+              "name": "SAP",
+              "type": "skill"
+            },
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Tableau",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "accounting systems",
+              "type": "skill"
+            },
+            {
+              "name": "internal controls",
+              "type": "skill"
+            },
+            {
+              "name": "risk management processes",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "financial statements preparation",
+          "type": "skill"
+        },
+        {
+          "name": "audits",
+          "type": "skill"
+        },
+        {
+          "name": "tax compliance",
+          "type": "skill"
+        },
+        {
+          "name": "regulatory filings",
+          "type": "skill"
+        },
+        {
+          "name": "cash management",
+          "type": "skill"
+        },
+        {
+          "name": "disbursements",
+          "type": "skill"
+        },
+        {
+          "name": "financial reporting",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "GAAP",
+          "type": "skill"
+        },
+        {
+          "name": "SEC guidelines",
+          "type": "skill"
+        },
+        {
+          "name": "revenue recognition",
+          "type": "skill"
+        },
+        {
+          "name": "R&D accounting",
+          "type": "skill"
+        },
+        {
+          "name": "tech accounting practices",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        },
+        {
+          "name": "CMA",
+          "type": "certification"
+        },
+        {
+          "name": "CGMA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Accounting, Finance, or related field",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's degree or MBA",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7-10 years of progressive accounting experience",
+          "type": "requirement"
+        },
+        {
+          "name": "senior roles in a tech company",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in enterprise and consumer sectors",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4870885007,
+  "job_title": "Assistant Controller",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4870885007"
+}

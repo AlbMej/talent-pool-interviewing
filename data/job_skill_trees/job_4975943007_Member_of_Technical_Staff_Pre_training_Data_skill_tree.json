@@ -1,0 +1,153 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Ray",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale data processing",
+              "type": "skill"
+            },
+            {
+              "name": "petabyte-scale data transformation",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "multimodal pre-training data",
+          "type": "skill"
+        },
+        {
+          "name": "pre-training models",
+          "type": "skill"
+        },
+        {
+          "name": "scaling laws",
+          "type": "skill"
+        },
+        {
+          "name": "ML experiments",
+          "type": "skill"
+        },
+        {
+          "name": "curating AI training data",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluations",
+          "type": "skill"
+        },
+        {
+          "name": "designing experiments",
+          "type": "skill"
+        },
+        {
+          "name": "scaling pre-training data",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale data processing",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "pre-training",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "text modalities",
+          "type": "skill"
+        },
+        {
+          "name": "image modalities",
+          "type": "skill"
+        },
+        {
+          "name": "audio modalities",
+          "type": "skill"
+        },
+        {
+          "name": "video modalities",
+          "type": "skill"
+        },
+        {
+          "name": "omni-model",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "expertise in ML",
+          "type": "requirement"
+        },
+        {
+          "name": "large model scaling",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with scaling laws",
+          "type": "requirement"
+        },
+        {
+          "name": "techniques for curating AI training data",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4975943007,
+  "job_title": "Member of Technical Staff, Pre-training Data",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4975943007"
+}

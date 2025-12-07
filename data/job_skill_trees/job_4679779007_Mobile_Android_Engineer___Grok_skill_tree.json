@@ -1,0 +1,92 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Kotlin",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Jetpack Compose",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Android Studio",
+              "type": "skill"
+            },
+            {
+              "name": "Gradle",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "reactive programming",
+              "type": "skill"
+            },
+            {
+              "name": "Android ecosystem",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "architecting modern large production apps",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "media (video, audio, live streaming)",
+          "type": "skill"
+        },
+        {
+          "name": "iOS",
+          "type": "skill"
+        },
+        {
+          "name": "full-stack",
+          "type": "skill"
+        },
+        {
+          "name": "data science",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4679779007,
+  "job_title": "Mobile Android Engineer - Grok",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4679779007"
+}

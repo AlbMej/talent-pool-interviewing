@@ -1,0 +1,104 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "React",
+              "type": "skill"
+            },
+            {
+              "name": "NextJS",
+              "type": "skill"
+            },
+            {
+              "name": "Tailwind",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HTTP protocol",
+              "type": "skill"
+            },
+            {
+              "name": "gRPC",
+              "type": "skill"
+            },
+            {
+              "name": "containerized applications",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLM APIs",
+          "type": "skill"
+        },
+        {
+          "name": "embeddings",
+          "type": "skill"
+        },
+        {
+          "name": "RAG patterns",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "backend engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "delivering user-facing software at scale",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4991553007,
+  "job_title": "Frontend Engineer",
+  "location": "London, UK",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4991553007"
+}

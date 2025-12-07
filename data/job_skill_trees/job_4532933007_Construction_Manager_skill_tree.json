@@ -1,0 +1,119 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "KPIs",
+              "type": "skill"
+            },
+            {
+              "name": "dashboards",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data center",
+              "type": "skill"
+            },
+            {
+              "name": "mission-critical facilities",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "construction management",
+          "type": "skill"
+        },
+        {
+          "name": "commissioning",
+          "type": "skill"
+        },
+        {
+          "name": "site operations",
+          "type": "skill"
+        },
+        {
+          "name": "quantity take-offs",
+          "type": "skill"
+        },
+        {
+          "name": "field verifications",
+          "type": "skill"
+        },
+        {
+          "name": "change order management",
+          "type": "skill"
+        },
+        {
+          "name": "risk mitigation",
+          "type": "skill"
+        },
+        {
+          "name": "site safety",
+          "type": "skill"
+        },
+        {
+          "name": "pre-construction",
+          "type": "skill"
+        },
+        {
+          "name": "site development",
+          "type": "skill"
+        },
+        {
+          "name": "controls",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center construction",
+          "type": "skill"
+        },
+        {
+          "name": "mission-critical construction projects",
+          "type": "skill"
+        },
+        {
+          "name": "building codes and regulations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "10+ years of experience managing large-scale data center or mission-critical construction projects",
+          "type": "requirement"
+        },
+        {
+          "name": "experience managing large programs with multiple vendors",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4532933007,
+  "job_title": "Construction Manager",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4532933007"
+}

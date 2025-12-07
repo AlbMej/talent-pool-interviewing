@@ -1,0 +1,149 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Microsoft Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Power Point",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Word",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Teams",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Project",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "fiber optic cabling installation",
+              "type": "skill"
+            },
+            {
+              "name": "fiber optic cabling modification",
+              "type": "skill"
+            },
+            {
+              "name": "fiber splicing",
+              "type": "skill"
+            },
+            {
+              "name": "optical fiber installation",
+              "type": "skill"
+            },
+            {
+              "name": "optical fiber routing",
+              "type": "skill"
+            },
+            {
+              "name": "data center commissioning",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "project scheduling",
+          "type": "skill"
+        },
+        {
+          "name": "critical path management",
+          "type": "skill"
+        },
+        {
+          "name": "Method of Procedures (MOP)",
+          "type": "skill"
+        },
+        {
+          "name": "commissioning processes",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data center infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "network infrastructure",
+          "type": "skill"
+        },
+        {
+          "name": "construction specifications",
+          "type": "skill"
+        },
+        {
+          "name": "building materials",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Journeyman certificate",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma or equivalency certificate",
+          "type": "qualification"
+        },
+        {
+          "name": "postsecondary diploma in related discipline",
+          "type": "qualification"
+        },
+        {
+          "name": "engineering degree in related discipline",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "managing teams of data center cabling technicians",
+          "type": "requirement"
+        },
+        {
+          "name": "installing and routing optical fiber in Tier 3 or 4 facilities",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4426129007,
+  "job_title": "Fiber Superintendent",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4426129007"
+}

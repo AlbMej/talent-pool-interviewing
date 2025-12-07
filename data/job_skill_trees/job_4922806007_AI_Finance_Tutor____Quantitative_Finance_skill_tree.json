@@ -1,0 +1,224 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "R",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "QuantLib",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Bloomberg",
+              "type": "skill"
+            },
+            {
+              "name": "Reuters",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "SEC filings",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "portfolio optimization",
+          "type": "skill"
+        },
+        {
+          "name": "derivatives pricing",
+          "type": "skill"
+        },
+        {
+          "name": "high-frequency trading backtests",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "quantitative finance",
+          "type": "skill"
+        },
+        {
+          "name": "algorithmic investment strategies",
+          "type": "skill"
+        },
+        {
+          "name": "financial engineering",
+          "type": "skill"
+        },
+        {
+          "name": "financial mathematics",
+          "type": "skill"
+        },
+        {
+          "name": "applied mathematics",
+          "type": "skill"
+        },
+        {
+          "name": "statistics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "FRM",
+          "type": "certification"
+        },
+        {
+          "name": "CQF",
+          "type": "certification"
+        },
+        {
+          "name": "PRM",
+          "type": "certification"
+        },
+        {
+          "name": "CAIA",
+          "type": "certification"
+        },
+        {
+          "name": "CFA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's in Quantitative Finance",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Quantitative Finance",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Financial Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Financial Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Financial Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Financial Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Applied Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Applied Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Statistics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Statistics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Economics with quantitative focus",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Economics with quantitative focus",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "quantitative trader",
+          "type": "requirement"
+        },
+        {
+          "name": "quantitative analyst",
+          "type": "requirement"
+        },
+        {
+          "name": "publication in finance journal",
+          "type": "requirement"
+        },
+        {
+          "name": "publication in economics journal",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching as professor",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4922806007,
+  "job_title": "AI Finance Tutor -  Quantitative Finance",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4922806007"
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data analytics",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "growth strategies",
+          "type": "skill"
+        },
+        {
+          "name": "funnels",
+          "type": "skill"
+        },
+        {
+          "name": "pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "growth operations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "on-demand business models",
+          "type": "skill"
+        },
+        {
+          "name": "marketplace",
+          "type": "skill"
+        },
+        {
+          "name": "logistics",
+          "type": "skill"
+        },
+        {
+          "name": "supply chain",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "STEM degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years in growth, product, operations, or software engineering roles",
+          "type": "requirement"
+        },
+        {
+          "name": "operations-heavy business models",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4940149007,
+  "job_title": "Growth Lead",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4940149007"
+}

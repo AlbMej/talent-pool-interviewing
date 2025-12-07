@@ -1,0 +1,228 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Terraform",
+              "type": "skill"
+            },
+            {
+              "name": "CloudFormation",
+              "type": "skill"
+            },
+            {
+              "name": "CSPM",
+              "type": "skill"
+            },
+            {
+              "name": "CWPP",
+              "type": "skill"
+            },
+            {
+              "name": "CASB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Infrastructure as Code",
+              "type": "skill"
+            },
+            {
+              "name": "containerization",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            },
+            {
+              "name": "network security",
+              "type": "skill"
+            },
+            {
+              "name": "multi-cloud environments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI for cloud security monitoring and automation",
+          "type": "skill"
+        },
+        {
+          "name": "securing AI/ML workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "DevSecOps",
+          "type": "skill"
+        },
+        {
+          "name": "CI/CD pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "security assessments",
+          "type": "skill"
+        },
+        {
+          "name": "security audits",
+          "type": "skill"
+        },
+        {
+          "name": "security event monitoring",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "cloud security",
+          "type": "skill"
+        },
+        {
+          "name": "container security",
+          "type": "skill"
+        },
+        {
+          "name": "cloud architectures",
+          "type": "skill"
+        },
+        {
+          "name": "compliance frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "regulatory compliance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CCSP",
+          "type": "certification"
+        },
+        {
+          "name": "CSSK",
+          "type": "certification"
+        },
+        {
+          "name": "AWS Security Specialty",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science, Cybersecurity, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3-5 years of experience in cloud security or related roles",
+          "type": "requirement"
+        },
+        {
+          "name": "Proficiency in at least one cloud platform and associated security services",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with Infrastructure as Code tools",
+          "type": "requirement"
+        },
+        {
+          "name": "Familiarity with containerization technologies",
+          "type": "requirement"
+        },
+        {
+          "name": "Knowledge of network security concepts and protocols",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with scripting languages for automation and tool development",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with multi-cloud environments",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with Kubernetes and container security",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in building custom cloud security tools or integrations",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with securing AI/ML workloads in cloud environments",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4559149007,
+  "job_title": "Infrastructure Security Engineer",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4559149007"
+}

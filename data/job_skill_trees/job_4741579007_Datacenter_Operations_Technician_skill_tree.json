@@ -1,0 +1,182 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Bash",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Jira",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "Oracle",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "server hardware",
+              "type": "skill"
+            },
+            {
+              "name": "storage hardware",
+              "type": "skill"
+            },
+            {
+              "name": "compute hardware",
+              "type": "skill"
+            },
+            {
+              "name": "network hardware",
+              "type": "skill"
+            },
+            {
+              "name": "fiber optics cables",
+              "type": "skill"
+            },
+            {
+              "name": "power supply cabling",
+              "type": "skill"
+            },
+            {
+              "name": "structured cabling copper",
+              "type": "skill"
+            },
+            {
+              "name": "structured cabling fiber",
+              "type": "skill"
+            },
+            {
+              "name": "power concepts",
+              "type": "skill"
+            },
+            {
+              "name": "cooling concepts",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "troubleshooting servers",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting network",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring servers",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring network",
+          "type": "skill"
+        },
+        {
+          "name": "rack and stack",
+          "type": "skill"
+        },
+        {
+          "name": "inventory management",
+          "type": "skill"
+        },
+        {
+          "name": "asset management",
+          "type": "skill"
+        },
+        {
+          "name": "labeling fiber optics",
+          "type": "skill"
+        },
+        {
+          "name": "installation racks",
+          "type": "skill"
+        },
+        {
+          "name": "installation servers",
+          "type": "skill"
+        },
+        {
+          "name": "installation switches",
+          "type": "skill"
+        },
+        {
+          "name": "decommissioning hardware",
+          "type": "skill"
+        },
+        {
+          "name": "network layout design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "datacenter operations",
+          "type": "skill"
+        },
+        {
+          "name": "network infrastructure",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "High school diploma or equivalency certificate",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years working with server, storage, compute and network hardware",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years troubleshooting and repairing servers and networking infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in Inventory Management, ordering, receiving and shipping server and network equipment",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4741579007,
+  "job_title": "Datacenter Operations Technician ",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4741579007"
+}

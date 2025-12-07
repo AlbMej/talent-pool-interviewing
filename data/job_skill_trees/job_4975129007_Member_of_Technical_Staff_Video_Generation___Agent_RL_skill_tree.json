@@ -1,0 +1,188 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            },
+            {
+              "name": "SGLang",
+              "type": "skill"
+            },
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Ray",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "agentic planners",
+          "type": "skill"
+        },
+        {
+          "name": "video generation",
+          "type": "skill"
+        },
+        {
+          "name": "temporal reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "action recognition",
+          "type": "skill"
+        },
+        {
+          "name": "long-horizon prediction",
+          "type": "skill"
+        },
+        {
+          "name": "controllable generation",
+          "type": "skill"
+        },
+        {
+          "name": "long-video planning",
+          "type": "skill"
+        },
+        {
+          "name": "evals",
+          "type": "skill"
+        },
+        {
+          "name": "reward models",
+          "type": "skill"
+        },
+        {
+          "name": "video understanding",
+          "type": "skill"
+        },
+        {
+          "name": "agent training",
+          "type": "skill"
+        },
+        {
+          "name": "neural networks",
+          "type": "skill"
+        },
+        {
+          "name": "SFT",
+          "type": "skill"
+        },
+        {
+          "name": "RL",
+          "type": "skill"
+        },
+        {
+          "name": "agentic RL training",
+          "type": "skill"
+        },
+        {
+          "name": "video models",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "human/synthetic data",
+          "type": "skill"
+        },
+        {
+          "name": "data generation techniques",
+          "type": "skill"
+        },
+        {
+          "name": "captioning",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven experiment designs",
+          "type": "skill"
+        },
+        {
+          "name": "systematic analysis",
+          "type": "skill"
+        },
+        {
+          "name": "iterative model debugging",
+          "type": "skill"
+        },
+        {
+          "name": "training recipes",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        },
+        {
+          "name": "agentic systems",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "SFT",
+          "type": "requirement"
+        },
+        {
+          "name": "RL",
+          "type": "requirement"
+        },
+        {
+          "name": "evals",
+          "type": "requirement"
+        },
+        {
+          "name": "human/synthetic data",
+          "type": "requirement"
+        },
+        {
+          "name": "agentic RL training",
+          "type": "requirement"
+        },
+        {
+          "name": "video models",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4975129007,
+  "job_title": "Member of Technical Staff, Video Generation - Agent, RL",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4975129007"
+}

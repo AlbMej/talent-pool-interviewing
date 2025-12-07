@@ -1,0 +1,128 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "model training",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "problem selection",
+          "type": "skill"
+        },
+        {
+          "name": "task execution",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "statistics",
+          "type": "skill"
+        },
+        {
+          "name": "numerical analysis",
+          "type": "skill"
+        },
+        {
+          "name": "optimization",
+          "type": "skill"
+        },
+        {
+          "name": "operations research",
+          "type": "skill"
+        },
+        {
+          "name": "dynamical systems",
+          "type": "skill"
+        },
+        {
+          "name": "data modeling",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s in Mathematics with specialization in applied mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Mathematics with specialization in applied mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "medal in International Math Olympiad (IMO)",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "peer-reviewed applied math publications",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching college courses",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925878007,
+  "job_title": "Applied Math Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925878007"
+}

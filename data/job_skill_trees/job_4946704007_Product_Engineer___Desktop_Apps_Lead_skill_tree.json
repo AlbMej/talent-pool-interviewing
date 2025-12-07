@@ -1,0 +1,190 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "JavaScript",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            },
+            {
+              "name": "Node.js",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Electron",
+              "type": "skill"
+            },
+            {
+              "name": "React",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Electron Forge",
+              "type": "skill"
+            },
+            {
+              "name": "Electron Builder",
+              "type": "skill"
+            },
+            {
+              "name": "node-gyp",
+              "type": "skill"
+            },
+            {
+              "name": "Rust bindings",
+              "type": "skill"
+            },
+            {
+              "name": "debugging tools for desktop environments",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "cross-platform packaging",
+              "type": "skill"
+            },
+            {
+              "name": "native modules",
+              "type": "skill"
+            },
+            {
+              "name": "file system access",
+              "type": "skill"
+            },
+            {
+              "name": "notifications",
+              "type": "skill"
+            },
+            {
+              "name": "hardware APIs",
+              "type": "skill"
+            },
+            {
+              "name": "main process optimizations",
+              "type": "skill"
+            },
+            {
+              "name": "renderer optimizations",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI-driven features",
+          "type": "skill"
+        },
+        {
+          "name": "resource-intensive AI workloads",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "web-to-desktop migrations",
+          "type": "skill"
+        },
+        {
+          "name": "optimizing for desktop performance",
+          "type": "skill"
+        },
+        {
+          "name": "integrating native features",
+          "type": "skill"
+        },
+        {
+          "name": "modular Electron architectures",
+          "type": "skill"
+        },
+        {
+          "name": "test and debug across platforms",
+          "type": "skill"
+        },
+        {
+          "name": "rapid prototyping and iteration",
+          "type": "skill"
+        },
+        {
+          "name": "performance tuning",
+          "type": "skill"
+        },
+        {
+          "name": "security optimization",
+          "type": "skill"
+        },
+        {
+          "name": "offline functionality",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "desktop application architecture",
+          "type": "skill"
+        },
+        {
+          "name": "operating system integration",
+          "type": "skill"
+        },
+        {
+          "name": "cross-platform experiences for Windows, macOS, and Linux",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years building and shipping Electron-based applications",
+          "type": "requirement"
+        },
+        {
+          "name": "focus on web-to-desktop migrations",
+          "type": "requirement"
+        },
+        {
+          "name": "optimizing applications for performance, security, and offline functionality",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4946704007,
+  "job_title": "Product Engineer - Desktop Apps Lead",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4946704007"
+}

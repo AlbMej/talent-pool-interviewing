@@ -1,0 +1,95 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Greenhouse ATS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "high-volume recruitment workflows",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "full-cycle recruiting",
+          "type": "skill"
+        },
+        {
+          "name": "high-volume sourcing strategies",
+          "type": "skill"
+        },
+        {
+          "name": "data-driven decisions",
+          "type": "skill"
+        },
+        {
+          "name": "talent market analysis",
+          "type": "skill"
+        },
+        {
+          "name": "post-event ROI analysis",
+          "type": "skill"
+        },
+        {
+          "name": "scalable talent acquisition solutions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "technical recruiting",
+          "type": "skill"
+        },
+        {
+          "name": "research recruiting",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "recruiting experience in fast-paced environments",
+          "type": "requirement"
+        },
+        {
+          "name": "managing high-volume pipelines",
+          "type": "requirement"
+        },
+        {
+          "name": "managing specialty technical positions",
+          "type": "requirement"
+        },
+        {
+          "name": "full-cycle recruiting experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4940152007,
+  "job_title": "Growth Recruiter",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4940152007"
+}

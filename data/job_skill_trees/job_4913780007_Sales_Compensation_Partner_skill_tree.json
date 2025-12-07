@@ -1,0 +1,121 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Excel",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "financial modeling",
+              "type": "skill"
+            },
+            {
+              "name": "data analysis",
+              "type": "skill"
+            },
+            {
+              "name": "commission calculations",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "sales compensation plan design",
+          "type": "skill"
+        },
+        {
+          "name": "pay mixes",
+          "type": "skill"
+        },
+        {
+          "name": "commission structures",
+          "type": "skill"
+        },
+        {
+          "name": "incentive programs",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarking industry compensation",
+          "type": "skill"
+        },
+        {
+          "name": "establishing pay bands",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "enterprise sales",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CCP",
+          "type": "certification"
+        },
+        {
+          "name": "GRP",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Business, Finance, Human Resources, or related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "At least 5 years of experience in sales compensation",
+          "type": "requirement"
+        },
+        {
+          "name": "Proven track record building compensation plans from scratch, including pay mixes, commission structures, and incentive programs for enterprise sales",
+          "type": "requirement"
+        },
+        {
+          "name": "Strong expertise in Excel for financial modeling, data analysis, and commission calculations",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience benchmarking industry compensation and establishing pay bands",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4913780007,
+  "job_title": "Sales Compensation Partner",
+  "location": "New York, NY; Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4913780007"
+}

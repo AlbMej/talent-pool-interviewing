@@ -1,0 +1,148 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "problem selection in chemical sciences",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "organic chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "physical chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "inorganic chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "organometallic chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "biochemistry",
+          "type": "skill"
+        },
+        {
+          "name": "nuclear chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "computational chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "theoretical chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "polymer chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "materials chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "medicinal chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "catalysis",
+          "type": "skill"
+        },
+        {
+          "name": "surface chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "colloid chemistry",
+          "type": "skill"
+        },
+        {
+          "name": "drug discovery",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s or PhD in chemistry-related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "publications in peer-reviewed journals",
+          "type": "requirement"
+        },
+        {
+          "name": "first-author paper",
+          "type": "requirement"
+        },
+        {
+          "name": "AI tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching experience",
+          "type": "requirement"
+        },
+        {
+          "name": "technical writing experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925805007,
+  "job_title": "Chemistry Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925805007"
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Ray",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed data processing systems",
+              "type": "skill"
+            },
+            {
+              "name": "petabyte-scale data processing",
+              "type": "skill"
+            },
+            {
+              "name": "high-throughput data processing",
+              "type": "skill"
+            },
+            {
+              "name": "CPU-based processing",
+              "type": "skill"
+            },
+            {
+              "name": "GPU-based processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "generative models",
+          "type": "skill"
+        },
+        {
+          "name": "pre-training",
+          "type": "skill"
+        },
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "training data creation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data pipelines orchestration",
+          "type": "skill"
+        },
+        {
+          "name": "data quality at scale",
+          "type": "skill"
+        },
+        {
+          "name": "configuring distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "troubleshooting distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "building data processing systems",
+          "type": "skill"
+        },
+        {
+          "name": "pre-training data preparation",
+          "type": "skill"
+        },
+        {
+          "name": "post-training data preparation",
+          "type": "skill"
+        },
+        {
+          "name": "data organization across multiple clouds",
+          "type": "skill"
+        },
+        {
+          "name": "data bookkeeping",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4378344007,
+  "job_title": "Member of Technical Staff, Pre-training Data Infrastructure",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4378344007"
+}

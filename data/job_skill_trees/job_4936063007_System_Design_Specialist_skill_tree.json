@@ -1,0 +1,244 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "JavaScript",
+              "type": "skill"
+            },
+            {
+              "name": "C",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Java",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "ReactJS",
+              "type": "skill"
+            },
+            {
+              "name": "SpringBoot",
+              "type": "skill"
+            },
+            {
+              "name": "ASP.NET",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Podman",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "MySQL",
+              "type": "skill"
+            },
+            {
+              "name": "MongoDB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "Azure",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "data structures",
+              "type": "skill"
+            },
+            {
+              "name": "algorithms",
+              "type": "skill"
+            },
+            {
+              "name": "database schemas",
+              "type": "skill"
+            },
+            {
+              "name": "logging systems",
+              "type": "skill"
+            },
+            {
+              "name": "performance monitoring",
+              "type": "skill"
+            },
+            {
+              "name": "alerting systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "AI-generated code evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "curating code examples",
+          "type": "skill"
+        },
+        {
+          "name": "code corrections",
+          "type": "skill"
+        },
+        {
+          "name": "code refinement",
+          "type": "skill"
+        },
+        {
+          "name": "system design",
+          "type": "skill"
+        },
+        {
+          "name": "implementing distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "deploying distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "testing distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "integrating databases",
+          "type": "skill"
+        },
+        {
+          "name": "creating database schemas",
+          "type": "skill"
+        },
+        {
+          "name": "extending database schemas",
+          "type": "skill"
+        },
+        {
+          "name": "integrating cloud services",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "system design",
+          "type": "skill"
+        },
+        {
+          "name": "distributed systems",
+          "type": "skill"
+        },
+        {
+          "name": "multimodal data",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years working with large codebases",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years designing distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years implementing distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years deploying distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "5+ years testing distributed systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4936063007,
+  "job_title": "System Design Specialist",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4936063007"
+}

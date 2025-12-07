@@ -1,0 +1,186 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "secure design tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "back-end systems",
+              "type": "skill"
+            },
+            {
+              "name": "front-end prototypes",
+              "type": "skill"
+            },
+            {
+              "name": "cloud-based environments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "machine learning interfaces",
+          "type": "skill"
+        },
+        {
+          "name": "model interaction",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "user-facing tuning",
+          "type": "skill"
+        },
+        {
+          "name": "prompt tuning",
+          "type": "skill"
+        },
+        {
+          "name": "AI-driven designs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "evaluation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "secure design principles",
+          "type": "skill"
+        },
+        {
+          "name": "production-ready deployments",
+          "type": "skill"
+        },
+        {
+          "name": "optimize user flows",
+          "type": "skill"
+        },
+        {
+          "name": "scale designs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "government missions",
+          "type": "skill"
+        },
+        {
+          "name": "secure environments",
+          "type": "skill"
+        },
+        {
+          "name": "regulated contexts",
+          "type": "skill"
+        },
+        {
+          "name": "interaction design",
+          "type": "skill"
+        },
+        {
+          "name": "user experience design",
+          "type": "skill"
+        },
+        {
+          "name": "computer science",
+          "type": "skill"
+        },
+        {
+          "name": "web platforms",
+          "type": "skill"
+        },
+        {
+          "name": "mobile platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "U.S. security clearance",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "interaction design",
+          "type": "qualification"
+        },
+        {
+          "name": "user experience design",
+          "type": "qualification"
+        },
+        {
+          "name": "computer science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "6+ years of design experience",
+          "type": "requirement"
+        },
+        {
+          "name": "government partnership experience",
+          "type": "requirement"
+        },
+        {
+          "name": "implementing AI or machine learning interfaces",
+          "type": "requirement"
+        },
+        {
+          "name": "deploying AI-enhanced designs to production",
+          "type": "requirement"
+        },
+        {
+          "name": "working with complex datasets",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4876452007,
+  "job_title": "Product Designer - Government",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4876452007"
+}

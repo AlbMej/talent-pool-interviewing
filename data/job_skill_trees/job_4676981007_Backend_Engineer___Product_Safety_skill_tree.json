@@ -1,0 +1,151 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            },
+            {
+              "name": "NoSQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "major cloud service providers",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "RESTful APIs",
+              "type": "skill"
+            },
+            {
+              "name": "gRPC",
+              "type": "skill"
+            },
+            {
+              "name": "microservices",
+              "type": "skill"
+            },
+            {
+              "name": "on-prem deployments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI safety",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "monitoring frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "moderation frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "DevOps",
+          "type": "skill"
+        },
+        {
+          "name": "CI/CD pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "system design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "product safety",
+          "type": "skill"
+        },
+        {
+          "name": "moderation platforms",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing high-performance systems",
+          "type": "requirement"
+        },
+        {
+          "name": "designing high-load systems for production",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4676981007,
+  "job_title": "Backend Engineer - Product Safety",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4676981007"
+}

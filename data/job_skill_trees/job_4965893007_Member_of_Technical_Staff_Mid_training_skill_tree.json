@@ -1,0 +1,173 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "JAX",
+              "type": "skill"
+            },
+            {
+              "name": "XLA",
+              "type": "skill"
+            },
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Ray",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "large-scale data processing",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "synthetic data algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "model distillation",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic data generation",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "long-context data recipes",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "large model scaling",
+          "type": "skill"
+        },
+        {
+          "name": "scaling laws",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "design ML experiments",
+          "type": "skill"
+        },
+        {
+          "name": "curating AI training data",
+          "type": "skill"
+        },
+        {
+          "name": "mid-training data mixtures",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation for mid-training checkpoints",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "multimodal mid-training",
+          "type": "skill"
+        },
+        {
+          "name": "omni model",
+          "type": "skill"
+        },
+        {
+          "name": "text modalities",
+          "type": "skill"
+        },
+        {
+          "name": "image modalities",
+          "type": "skill"
+        },
+        {
+          "name": "audio modalities",
+          "type": "skill"
+        },
+        {
+          "name": "video modalities",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "expertise in ML",
+          "type": "requirement"
+        },
+        {
+          "name": "expertise in large model scaling",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with scaling laws",
+          "type": "requirement"
+        },
+        {
+          "name": "familiarity with curating AI training data for multimodal",
+          "type": "requirement"
+        },
+        {
+          "name": "engineering abilities in Spark",
+          "type": "requirement"
+        },
+        {
+          "name": "engineering abilities in Ray",
+          "type": "requirement"
+        },
+        {
+          "name": "engineering abilities in large-scale data processing",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4965893007,
+  "job_title": "Member of Technical Staff, Mid-training",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4965893007"
+}

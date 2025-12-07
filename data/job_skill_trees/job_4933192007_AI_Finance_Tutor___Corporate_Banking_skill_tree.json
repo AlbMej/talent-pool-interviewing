@@ -1,0 +1,153 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            },
+            {
+              "name": "Chromebook",
+              "type": "skill"
+            },
+            {
+              "name": "macOS 11.0 or later",
+              "type": "skill"
+            },
+            {
+              "name": "Windows 10 or later",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "data annotation",
+              "type": "skill"
+            },
+            {
+              "name": "data curation",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "AI model training",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data annotation workflows",
+          "type": "skill"
+        },
+        {
+          "name": "annotation tools design",
+          "type": "skill"
+        },
+        {
+          "name": "data collection via audio/video sessions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "corporate banking operations",
+          "type": "skill"
+        },
+        {
+          "name": "retail banking services",
+          "type": "skill"
+        },
+        {
+          "name": "loan processing",
+          "type": "skill"
+        },
+        {
+          "name": "customer account management",
+          "type": "skill"
+        },
+        {
+          "name": "financial product offerings",
+          "type": "skill"
+        },
+        {
+          "name": "legal and compliance expertise",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "Chartered Financial Analyst (CFA)",
+          "type": "certification"
+        },
+        {
+          "name": "Commercial Banking & Credit Analyst (CBCA)",
+          "type": "certification"
+        },
+        {
+          "name": "Financial Risk Manager (FRM)",
+          "type": "certification"
+        },
+        {
+          "name": "Certified Anti-Money Laundering Specialist (CAMS)",
+          "type": "certification"
+        },
+        {
+          "name": "Certified Public Accountant (CPA)",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Professional experience in banking or related fields",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in corporate banking, retail banking, loan processing, customer account management, or financial product offerings",
+          "type": "requirement"
+        },
+        {
+          "name": "Data annotation experience",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4933192007,
+  "job_title": "AI Finance Tutor - Corporate Banking",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4933192007"
+}

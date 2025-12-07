@@ -1,0 +1,52 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "Self Serve APIs",
+              "type": "skill"
+            },
+            {
+              "name": "Enterprise APIs",
+              "type": "skill"
+            },
+            {
+              "name": "API suite",
+              "type": "skill"
+            },
+            {
+              "name": "data visualizations",
+              "type": "skill"
+            },
+            {
+              "name": "real-time data display",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "developer platform",
+          "type": "skill"
+        },
+        {
+          "name": "API roadmap",
+          "type": "skill"
+        }
+      ]
+    }
+  ],
+  "job_id": 4963927007,
+  "job_title": "Sr. Partner Manager, Developer Platform",
+  "location": "New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4963927007"
+}

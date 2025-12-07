@@ -1,0 +1,145 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "QuickBooks",
+              "type": "skill"
+            },
+            {
+              "name": "SAP",
+              "type": "skill"
+            },
+            {
+              "name": "Oracle",
+              "type": "skill"
+            },
+            {
+              "name": "ERP systems",
+              "type": "skill"
+            },
+            {
+              "name": "Microsoft Excel",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "general ledger",
+              "type": "skill"
+            },
+            {
+              "name": "account reconciliations",
+              "type": "skill"
+            },
+            {
+              "name": "journal entries",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "month-end close",
+          "type": "skill"
+        },
+        {
+          "name": "reconciliations",
+          "type": "skill"
+        },
+        {
+          "name": "financial reporting",
+          "type": "skill"
+        },
+        {
+          "name": "process improvement",
+          "type": "skill"
+        },
+        {
+          "name": "variance analysis",
+          "type": "skill"
+        },
+        {
+          "name": "budget preparation",
+          "type": "skill"
+        },
+        {
+          "name": "system implementations",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "accounting",
+          "type": "skill"
+        },
+        {
+          "name": "finance",
+          "type": "skill"
+        },
+        {
+          "name": "technology industry",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CPA",
+          "type": "certification"
+        },
+        {
+          "name": "CMA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Accounting, Finance, or a related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years of progressive accounting experience",
+          "type": "requirement"
+        },
+        {
+          "name": "focus on the technology industry",
+          "type": "requirement"
+        },
+        {
+          "name": "experience with process automation or system migrations",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4872294007,
+  "job_title": "Senior Accountant - Entries + Reconciliations",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4872294007"
+}

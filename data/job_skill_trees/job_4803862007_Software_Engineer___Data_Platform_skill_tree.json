@@ -1,0 +1,229 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "Go",
+              "type": "skill"
+            },
+            {
+              "name": "Scala",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Apache Kafka",
+              "type": "skill"
+            },
+            {
+              "name": "Spark",
+              "type": "skill"
+            },
+            {
+              "name": "Flink",
+              "type": "skill"
+            },
+            {
+              "name": "Trino",
+              "type": "skill"
+            },
+            {
+              "name": "Hadoop",
+              "type": "skill"
+            },
+            {
+              "name": "HDFS",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "stream processing",
+              "type": "skill"
+            },
+            {
+              "name": "large-scale data platforms",
+              "type": "skill"
+            },
+            {
+              "name": "data ingestion systems",
+              "type": "skill"
+            },
+            {
+              "name": "data transport systems",
+              "type": "skill"
+            },
+            {
+              "name": "multi-tenant infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "real-time workloads",
+              "type": "skill"
+            },
+            {
+              "name": "production pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "APIs",
+              "type": "skill"
+            },
+            {
+              "name": "data pipelines",
+              "type": "skill"
+            },
+            {
+              "name": "petabyte scale data processing",
+              "type": "skill"
+            },
+            {
+              "name": "high-throughput streaming",
+              "type": "skill"
+            },
+            {
+              "name": "latency-critical workloads",
+              "type": "skill"
+            },
+            {
+              "name": "fault tolerance",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "real-time ML pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "feed ranking",
+          "type": "skill"
+        },
+        {
+          "name": "experimentation",
+          "type": "skill"
+        },
+        {
+          "name": "analytics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "debugging",
+          "type": "skill"
+        },
+        {
+          "name": "profiling",
+          "type": "skill"
+        },
+        {
+          "name": "performance optimization",
+          "type": "skill"
+        },
+        {
+          "name": "scaling",
+          "type": "skill"
+        },
+        {
+          "name": "tuning",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "data movement",
+          "type": "skill"
+        },
+        {
+          "name": "data compute",
+          "type": "skill"
+        },
+        {
+          "name": "performance",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "proven expertise in distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "proven expertise in stream processing",
+          "type": "requirement"
+        },
+        {
+          "name": "proven expertise in large-scale data platforms",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with Kafka in production",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with Flink in production",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with Spark in production",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with Trino in production",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with Hadoop in production",
+          "type": "requirement"
+        },
+        {
+          "name": "track record of shipping critical infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "track record of maintaining critical infrastructure",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4803862007,
+  "job_title": "Software Engineer - Data Platform",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4803862007"
+}

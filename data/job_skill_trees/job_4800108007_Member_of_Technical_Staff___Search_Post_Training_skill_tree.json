@@ -1,0 +1,113 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "reinforcement learning",
+          "type": "skill"
+        },
+        {
+          "name": "large language models",
+          "type": "skill"
+        },
+        {
+          "name": "information retrieval",
+          "type": "skill"
+        },
+        {
+          "name": "search agents",
+          "type": "skill"
+        },
+        {
+          "name": "agentic search systems",
+          "type": "skill"
+        },
+        {
+          "name": "RL algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "verification algorithms",
+          "type": "skill"
+        },
+        {
+          "name": "evaluation benchmarks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "benchmark development",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic data generation",
+          "type": "skill"
+        },
+        {
+          "name": "human data generation",
+          "type": "skill"
+        },
+        {
+          "name": "scalable data pipelines",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "AI search",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning models",
+          "type": "skill"
+        },
+        {
+          "name": "open-ended development system",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Experience with LLM and information retrieval evaluation data curation",
+          "type": "requirement"
+        },
+        {
+          "name": "Experiences with human/synthetic data generation for RL",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience with AI search or Agentic search systems",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4800108007,
+  "job_title": "Member of Technical Staff - Search Post Training",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4800108007"
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "web layouts",
+              "type": "skill"
+            },
+            {
+              "name": "visual elements",
+              "type": "skill"
+            },
+            {
+              "name": "design principles",
+              "type": "skill"
+            },
+            {
+              "name": "color theory",
+              "type": "skill"
+            },
+            {
+              "name": "typography",
+              "type": "skill"
+            },
+            {
+              "name": "responsiveness",
+              "type": "skill"
+            },
+            {
+              "name": "UI/UX standards",
+              "type": "skill"
+            },
+            {
+              "name": "front-end development",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "labels",
+          "type": "skill"
+        },
+        {
+          "name": "annotations",
+          "type": "skill"
+        },
+        {
+          "name": "curated data",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "annotation workflows",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "web design",
+          "type": "skill"
+        },
+        {
+          "name": "UI/UX design",
+          "type": "skill"
+        },
+        {
+          "name": "Graphic Design",
+          "type": "skill"
+        },
+        {
+          "name": "Web Development",
+          "type": "skill"
+        },
+        {
+          "name": "Computer Science",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Graphic Design",
+          "type": "qualification"
+        },
+        {
+          "name": "Web Development",
+          "type": "qualification"
+        },
+        {
+          "name": "Computer Science",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "1-2 years of experience in web design",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4879789007,
+  "job_title": "Web Design Tutor",
+  "location": "Palo Alto, CA; Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4879789007"
+}

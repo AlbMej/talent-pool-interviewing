@@ -1,0 +1,161 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "OSPF",
+              "type": "skill"
+            },
+            {
+              "name": "ZTP",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable network architectures",
+              "type": "skill"
+            },
+            {
+              "name": "AI/HPC workloads",
+              "type": "skill"
+            },
+            {
+              "name": "inter-DC network fabrics",
+              "type": "skill"
+            },
+            {
+              "name": "Backbone network fabrics",
+              "type": "skill"
+            },
+            {
+              "name": "Data Center networks",
+              "type": "skill"
+            },
+            {
+              "name": "GPU clusters",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "Python scripting",
+          "type": "skill"
+        },
+        {
+          "name": "automating tasks",
+          "type": "skill"
+        },
+        {
+          "name": "acquiring metrics",
+          "type": "skill"
+        },
+        {
+          "name": "analyzing large data sets",
+          "type": "skill"
+        },
+        {
+          "name": "network operations",
+          "type": "skill"
+        },
+        {
+          "name": "network deployment",
+          "type": "skill"
+        },
+        {
+          "name": "monitoring",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "hyper scale networks",
+          "type": "skill"
+        },
+        {
+          "name": "large-scale GPU clusters",
+          "type": "skill"
+        },
+        {
+          "name": "RoCEv2",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor's degree in Computer Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's degree in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "or a related field (or equivalent experience)",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in deploying or operating large scale production Data Center or Backbone networks",
+          "type": "requirement"
+        },
+        {
+          "name": "3 years in deploying or operating hyper scale networks",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with networking protocols and tools",
+          "type": "requirement"
+        },
+        {
+          "name": "designing hyper scale network infrastructure",
+          "type": "requirement"
+        },
+        {
+          "name": "automating deployment process",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4961359007,
+  "job_title": "Network Development Engineer (Ops&Deploy)",
+  "location": "Dublin, IE",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4961359007"
+}

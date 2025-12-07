@@ -1,0 +1,161 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "PyTorch",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "model architectures",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "fine-tuning",
+          "type": "skill"
+        },
+        {
+          "name": "reinforcement learning variants",
+          "type": "skill"
+        },
+        {
+          "name": "data augmentation",
+          "type": "skill"
+        },
+        {
+          "name": "RLHF",
+          "type": "skill"
+        },
+        {
+          "name": "DPO",
+          "type": "skill"
+        },
+        {
+          "name": "alignment methods",
+          "type": "skill"
+        },
+        {
+          "name": "custom prompting frameworks",
+          "type": "skill"
+        },
+        {
+          "name": "synthetic reasoning datasets",
+          "type": "skill"
+        },
+        {
+          "name": "hybrid techniques",
+          "type": "skill"
+        },
+        {
+          "name": "benchmarks",
+          "type": "skill"
+        },
+        {
+          "name": "metrics",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "logical inference",
+          "type": "skill"
+        },
+        {
+          "name": "multi-step problem-solving",
+          "type": "skill"
+        },
+        {
+          "name": "adaptive thinking",
+          "type": "skill"
+        },
+        {
+          "name": "debugging logical inconsistencies",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "post-training methods",
+          "type": "skill"
+        },
+        {
+          "name": "iterative experimentation",
+          "type": "skill"
+        },
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "post-training",
+          "type": "skill"
+        },
+        {
+          "name": "reasoning",
+          "type": "skill"
+        },
+        {
+          "name": "logic",
+          "type": "skill"
+        },
+        {
+          "name": "cognitive science",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "3+ years in multifaceted AI roles",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with post-training techniques",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4799294007,
+  "job_title": "Member of Technical Staff - Reasoning Post-training",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4799294007"
+}

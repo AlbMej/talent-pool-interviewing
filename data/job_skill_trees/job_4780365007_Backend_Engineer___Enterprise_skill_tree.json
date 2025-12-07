@@ -1,0 +1,138 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Rust",
+              "type": "skill"
+            },
+            {
+              "name": "C++",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "gRPC",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Docker",
+              "type": "skill"
+            },
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "PostgreSQL",
+              "type": "skill"
+            },
+            {
+              "name": "Clickhouse",
+              "type": "skill"
+            },
+            {
+              "name": "CockroachDB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "distributed systems",
+              "type": "skill"
+            },
+            {
+              "name": "containerized applications",
+              "type": "skill"
+            },
+            {
+              "name": "horizontally scalable systems",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "LLM APIs",
+          "type": "skill"
+        },
+        {
+          "name": "embeddings",
+          "type": "skill"
+        },
+        {
+          "name": "RAG patterns",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "distributed systems design",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "designing, implementing, and maintaining reliable and horizontally scalable distributed systems",
+          "type": "requirement"
+        },
+        {
+          "name": "operating databases",
+          "type": "requirement"
+        },
+        {
+          "name": "hands-on experience with LLM APIs, embeddings, or RAG patterns",
+          "type": "requirement"
+        },
+        {
+          "name": "delivering user-facing software at scale",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4780365007,
+  "job_title": "Backend Engineer - Enterprise",
+  "location": "Palo Alto, CA; San Francisco, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4780365007"
+}

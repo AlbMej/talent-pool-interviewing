@@ -1,0 +1,128 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "TypeScript",
+              "type": "skill"
+            },
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "Rust",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Kubernetes",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "scalable architectures",
+              "type": "skill"
+            },
+            {
+              "name": "type systems",
+              "type": "skill"
+            },
+            {
+              "name": "containerized applications",
+              "type": "skill"
+            },
+            {
+              "name": "microservices architecture",
+              "type": "skill"
+            },
+            {
+              "name": "functional programming principles",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "designing scalable architectures",
+          "type": "skill"
+        },
+        {
+          "name": "developing scalable architectures",
+          "type": "skill"
+        },
+        {
+          "name": "maintaining scalable architectures",
+          "type": "skill"
+        },
+        {
+          "name": "tuning production services for performance",
+          "type": "skill"
+        },
+        {
+          "name": "building libraries",
+          "type": "skill"
+        },
+        {
+          "name": "building frameworks",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "AI coding tools",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "Experience in designing, developing, and maintaining scalable architectures",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in setting up observability best practices",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience working with Kubernetes and containerized applications",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience in tuning production services for performance, reliability, and scalability",
+          "type": "requirement"
+        },
+        {
+          "name": "Experience building libraries or frameworks",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4964294007,
+  "job_title": "Exceptional Engineer - AI Coding Tools",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4964294007"
+}

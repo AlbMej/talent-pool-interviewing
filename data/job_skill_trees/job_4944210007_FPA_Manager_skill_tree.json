@@ -1,0 +1,167 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "SQL",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Excel",
+              "type": "skill"
+            },
+            {
+              "name": "Google Sheets",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "children": [
+            {
+              "name": "relational databases",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "financial modeling",
+              "type": "skill"
+            },
+            {
+              "name": "data manipulation",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "revenue forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "cost of revenue analysis",
+          "type": "skill"
+        },
+        {
+          "name": "headcount planning",
+          "type": "skill"
+        },
+        {
+          "name": "scenario modeling",
+          "type": "skill"
+        },
+        {
+          "name": "P&L management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "revenue recognition",
+          "type": "skill"
+        },
+        {
+          "name": "accounting processes",
+          "type": "skill"
+        },
+        {
+          "name": "compensation structures",
+          "type": "skill"
+        },
+        {
+          "name": "product launch costs",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CFA",
+          "type": "certification"
+        },
+        {
+          "name": "ACA",
+          "type": "certification"
+        },
+        {
+          "name": "ACCA",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree in Finance, Accounting, Economics, or related field",
+          "type": "qualification"
+        },
+        {
+          "name": "MBA",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "7 years in investment banking, investment management, management consulting, FP&A, or technology/social media industry",
+          "type": "requirement"
+        },
+        {
+          "name": "managing P&Ls and cost of revenue",
+          "type": "requirement"
+        },
+        {
+          "name": "writing SQL queries",
+          "type": "requirement"
+        },
+        {
+          "name": "pulling data from relational databases",
+          "type": "requirement"
+        },
+        {
+          "name": "financial modeling",
+          "type": "requirement"
+        },
+        {
+          "name": "manipulating complex and large data sets",
+          "type": "requirement"
+        },
+        {
+          "name": "process improvements and automation in revenue and billing workflows",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4944210007,
+  "job_title": "FP&A Manager",
+  "location": "London, UK; New York, NY",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4944210007"
+}

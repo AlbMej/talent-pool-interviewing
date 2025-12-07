@@ -1,0 +1,290 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            },
+            {
+              "name": "MATLAB",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "PSSE",
+              "type": "skill"
+            },
+            {
+              "name": "PSCAD",
+              "type": "skill"
+            },
+            {
+              "name": "ETAP",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "BESS",
+              "type": "skill"
+            },
+            {
+              "name": "Megapack",
+              "type": "skill"
+            },
+            {
+              "name": "lithium-ion systems",
+              "type": "skill"
+            },
+            {
+              "name": "PCS",
+              "type": "skill"
+            },
+            {
+              "name": "BMS",
+              "type": "skill"
+            },
+            {
+              "name": "EMS",
+              "type": "skill"
+            },
+            {
+              "name": "SCADA",
+              "type": "skill"
+            },
+            {
+              "name": "substations",
+              "type": "skill"
+            },
+            {
+              "name": "inverters",
+              "type": "skill"
+            },
+            {
+              "name": "Powerwall",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "electrical integration",
+          "type": "skill"
+        },
+        {
+          "name": "mechanical integration",
+          "type": "skill"
+        },
+        {
+          "name": "thermal integration",
+          "type": "skill"
+        },
+        {
+          "name": "control strategies",
+          "type": "skill"
+        },
+        {
+          "name": "firmware logic",
+          "type": "skill"
+        },
+        {
+          "name": "dynamic load balancing",
+          "type": "skill"
+        },
+        {
+          "name": "peak shaving",
+          "type": "skill"
+        },
+        {
+          "name": "frequency regulation",
+          "type": "skill"
+        },
+        {
+          "name": "capacity modeling",
+          "type": "skill"
+        },
+        {
+          "name": "cycle-life forecasting",
+          "type": "skill"
+        },
+        {
+          "name": "degradation analysis",
+          "type": "skill"
+        },
+        {
+          "name": "field telemetry",
+          "type": "skill"
+        },
+        {
+          "name": "digital-twin simulations",
+          "type": "skill"
+        },
+        {
+          "name": "system commissioning",
+          "type": "skill"
+        },
+        {
+          "name": "performance validation",
+          "type": "skill"
+        },
+        {
+          "name": "predictive maintenance",
+          "type": "skill"
+        },
+        {
+          "name": "custom firmware",
+          "type": "skill"
+        },
+        {
+          "name": "hardware revisions",
+          "type": "skill"
+        },
+        {
+          "name": "supply-chain scaling",
+          "type": "skill"
+        },
+        {
+          "name": "interconnection studies",
+          "type": "skill"
+        },
+        {
+          "name": "root-cause investigations",
+          "type": "skill"
+        },
+        {
+          "name": "corrective actions",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "utility-scale BESS",
+          "type": "skill"
+        },
+        {
+          "name": "industrial power systems",
+          "type": "skill"
+        },
+        {
+          "name": "AI training power profiles",
+          "type": "skill"
+        },
+        {
+          "name": "AI/datacenter power architectures",
+          "type": "skill"
+        },
+        {
+          "name": "microgrid controls",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "PE license",
+          "type": "certification"
+        },
+        {
+          "name": "NABCEP certification",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "BS in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "MS in Electrical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "BS in Mechanical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "MS in Mechanical Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "BS in Energy Systems Engineering",
+          "type": "qualification"
+        },
+        {
+          "name": "MS in Energy Systems Engineering",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "5+ years in utility-scale BESS or industrial power systems",
+          "type": "requirement"
+        },
+        {
+          "name": "Hands-on experience with lithium-ion systems ≥10 MWh",
+          "type": "requirement"
+        },
+        {
+          "name": "PCS integration",
+          "type": "requirement"
+        },
+        {
+          "name": "BMS integration",
+          "type": "requirement"
+        },
+        {
+          "name": "EMS integration",
+          "type": "requirement"
+        },
+        {
+          "name": "SCADA integration",
+          "type": "requirement"
+        },
+        {
+          "name": "power system modeling",
+          "type": "requirement"
+        },
+        {
+          "name": "control programming",
+          "type": "requirement"
+        },
+        {
+          "name": "IEC 61850",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4952104007,
+  "job_title": "Systems Engineer - Battery Storage",
+  "location": "Memphis, TN",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4952104007"
+}

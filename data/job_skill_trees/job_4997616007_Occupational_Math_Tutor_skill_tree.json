@@ -1,0 +1,437 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary tools",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "model evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data annotation",
+          "type": "skill"
+        },
+        {
+          "name": "data evaluation",
+          "type": "skill"
+        },
+        {
+          "name": "task design",
+          "type": "skill"
+        },
+        {
+          "name": "task refinement",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "applied mathematics",
+          "type": "skill"
+        },
+        {
+          "name": "financial math",
+          "type": "skill"
+        },
+        {
+          "name": "optimization under constraints",
+          "type": "skill"
+        },
+        {
+          "name": "geometric calculations",
+          "type": "skill"
+        },
+        {
+          "name": "measurement calculations",
+          "type": "skill"
+        },
+        {
+          "name": "risk modeling",
+          "type": "skill"
+        },
+        {
+          "name": "inventory policies",
+          "type": "skill"
+        },
+        {
+          "name": "reorder policies",
+          "type": "skill"
+        },
+        {
+          "name": "capacity calculations",
+          "type": "skill"
+        },
+        {
+          "name": "throughput calculations",
+          "type": "skill"
+        },
+        {
+          "name": "cost optimization",
+          "type": "skill"
+        },
+        {
+          "name": "surveying calculations",
+          "type": "skill"
+        },
+        {
+          "name": "land measurement",
+          "type": "skill"
+        },
+        {
+          "name": "electrical load calculations",
+          "type": "skill"
+        },
+        {
+          "name": "machining tolerances",
+          "type": "skill"
+        },
+        {
+          "name": "material estimation",
+          "type": "skill"
+        },
+        {
+          "name": "blueprint calculations",
+          "type": "skill"
+        },
+        {
+          "name": "scale calculations",
+          "type": "skill"
+        },
+        {
+          "name": "loan amortization schedules",
+          "type": "skill"
+        },
+        {
+          "name": "time value of money",
+          "type": "skill"
+        },
+        {
+          "name": "portfolio metrics",
+          "type": "skill"
+        },
+        {
+          "name": "risk metrics",
+          "type": "skill"
+        },
+        {
+          "name": "financial statements",
+          "type": "skill"
+        },
+        {
+          "name": "reconciliations",
+          "type": "skill"
+        },
+        {
+          "name": "depreciation",
+          "type": "skill"
+        },
+        {
+          "name": "multi-bracket tax calculations",
+          "type": "skill"
+        },
+        {
+          "name": "payroll",
+          "type": "skill"
+        },
+        {
+          "name": "rates",
+          "type": "skill"
+        },
+        {
+          "name": "ratios",
+          "type": "skill"
+        },
+        {
+          "name": "biostatistics",
+          "type": "skill"
+        },
+        {
+          "name": "survey-based metrics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "children": [
+        {
+          "name": "CFA",
+          "type": "certification"
+        },
+        {
+          "name": "FRM",
+          "type": "certification"
+        },
+        {
+          "name": "SOA exams",
+          "type": "certification"
+        },
+        {
+          "name": "CPA",
+          "type": "certification"
+        },
+        {
+          "name": "Six Sigma",
+          "type": "certification"
+        },
+        {
+          "name": "PE",
+          "type": "certification"
+        },
+        {
+          "name": "licensed surveyor",
+          "type": "certification"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master's in Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Statistics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Operations Research",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Economics",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Finance",
+          "type": "qualification"
+        },
+        {
+          "name": "Master's in Actuarial Science",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Statistics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Operations Research",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Economics",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Finance",
+          "type": "qualification"
+        },
+        {
+          "name": "PhD in Actuarial Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's in Mathematics",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's in Statistics",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's in Operations Research",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's in Economics",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's in Finance",
+          "type": "qualification"
+        },
+        {
+          "name": "Bachelor's in Actuarial Science",
+          "type": "qualification"
+        },
+        {
+          "name": "Professional licensure in skilled trade",
+          "type": "qualification"
+        },
+        {
+          "name": "Professional certification in skilled trade",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "2+ years in finance",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in banking",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in insurance",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in accounting",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in logistics",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in supply chain",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in healthcare analytics",
+          "type": "requirement"
+        },
+        {
+          "name": "2+ years in policy analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in asset management",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in retail banking",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in commercial banking",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in insurance pricing",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in insurance reserving",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in accounting",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in audit",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in logistics planning",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in supply chain planning",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in public policy analysis",
+          "type": "requirement"
+        },
+        {
+          "name": "experience in skilled trades",
+          "type": "requirement"
+        },
+        {
+          "name": "AI Tutoring experience",
+          "type": "requirement"
+        },
+        {
+          "name": "teaching applied math",
+          "type": "requirement"
+        },
+        {
+          "name": "training occupational math",
+          "type": "requirement"
+        },
+        {
+          "name": "building complex spreadsheets",
+          "type": "requirement"
+        },
+        {
+          "name": "reviewing complex spreadsheets",
+          "type": "requirement"
+        },
+        {
+          "name": "building financial models",
+          "type": "requirement"
+        },
+        {
+          "name": "reviewing financial models",
+          "type": "requirement"
+        },
+        {
+          "name": "building risk models",
+          "type": "requirement"
+        },
+        {
+          "name": "reviewing risk models",
+          "type": "requirement"
+        },
+        {
+          "name": "building dashboards",
+          "type": "requirement"
+        },
+        {
+          "name": "reviewing dashboards",
+          "type": "requirement"
+        },
+        {
+          "name": "building technical drawings",
+          "type": "requirement"
+        },
+        {
+          "name": "reviewing technical drawings",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4997616007,
+  "job_title": "Occupational Math Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4997616007"
+}

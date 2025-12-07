@@ -1,0 +1,177 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "proprietary software applications",
+              "type": "skill"
+            },
+            {
+              "name": "annotation tools",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "text data",
+              "type": "skill"
+            },
+            {
+              "name": "voice data",
+              "type": "skill"
+            },
+            {
+              "name": "video data",
+              "type": "skill"
+            },
+            {
+              "name": "annotations",
+              "type": "skill"
+            },
+            {
+              "name": "audio recordings",
+              "type": "skill"
+            },
+            {
+              "name": "video sessions",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ML/AI Concepts",
+      "children": [
+        {
+          "name": "data labeling",
+          "type": "skill"
+        },
+        {
+          "name": "data curation",
+          "type": "skill"
+        },
+        {
+          "name": "AI task training",
+          "type": "skill"
+        },
+        {
+          "name": "model performance improvement",
+          "type": "skill"
+        },
+        {
+          "name": "model response evaluation",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "problem selection in physics",
+          "type": "skill"
+        },
+        {
+          "name": "data gathering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "condensed matter physics",
+          "type": "skill"
+        },
+        {
+          "name": "high energy physics",
+          "type": "skill"
+        },
+        {
+          "name": "nuclear physics",
+          "type": "skill"
+        },
+        {
+          "name": "atomic physics",
+          "type": "skill"
+        },
+        {
+          "name": "molecular physics",
+          "type": "skill"
+        },
+        {
+          "name": "optical physics",
+          "type": "skill"
+        },
+        {
+          "name": "quantum computing",
+          "type": "skill"
+        },
+        {
+          "name": "quantum information",
+          "type": "skill"
+        },
+        {
+          "name": "computational physics",
+          "type": "skill"
+        },
+        {
+          "name": "mathematical physics",
+          "type": "skill"
+        },
+        {
+          "name": "interdisciplinary physics",
+          "type": "skill"
+        },
+        {
+          "name": "biophysics",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Master’s or PhD in physics or a highly related field",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "expertise in physics subdomains",
+          "type": "requirement"
+        },
+        {
+          "name": "navigating information resources",
+          "type": "requirement"
+        },
+        {
+          "name": "navigating databases",
+          "type": "requirement"
+        },
+        {
+          "name": "navigating online resources",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4925832007,
+  "job_title": "Physics Tutor",
+  "location": "Remote",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4925832007"
+}

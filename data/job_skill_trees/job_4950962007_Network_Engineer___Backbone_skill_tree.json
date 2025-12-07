@@ -1,0 +1,158 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Programming Languages",
+          "children": [
+            {
+              "name": "Python",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "children": [
+            {
+              "name": "Ansible",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Juniper",
+              "type": "skill"
+            },
+            {
+              "name": "Cisco",
+              "type": "skill"
+            },
+            {
+              "name": "Arista",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Cloud Platforms",
+          "children": [
+            {
+              "name": "AWS",
+              "type": "skill"
+            },
+            {
+              "name": "GCP",
+              "type": "skill"
+            },
+            {
+              "name": "OCI",
+              "type": "skill"
+            }
+          ]
+        },
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "MPLS",
+              "type": "skill"
+            },
+            {
+              "name": "RSVP-TE",
+              "type": "skill"
+            },
+            {
+              "name": "BGP",
+              "type": "skill"
+            },
+            {
+              "name": "IS-IS",
+              "type": "skill"
+            },
+            {
+              "name": "traffic engineering",
+              "type": "skill"
+            },
+            {
+              "name": "cloud VPCs",
+              "type": "skill"
+            },
+            {
+              "name": "backbone infrastructure",
+              "type": "skill"
+            },
+            {
+              "name": "hyperscale environments",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "capacity planning",
+          "type": "skill"
+        },
+        {
+          "name": "incident response",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Domain Expertise",
+      "children": [
+        {
+          "name": "backbone networks",
+          "type": "skill"
+        },
+        {
+          "name": "network engineering",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "backbone network hardware and protocols",
+          "type": "requirement"
+        },
+        {
+          "name": "routing with BGP and IS-IS",
+          "type": "requirement"
+        },
+        {
+          "name": "traffic engineering",
+          "type": "requirement"
+        },
+        {
+          "name": "Python scripting for automation",
+          "type": "requirement"
+        },
+        {
+          "name": "managing and troubleshooting cloud VPCs",
+          "type": "requirement"
+        },
+        {
+          "name": "network hardware",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4950962007,
+  "job_title": "Network Engineer - Backbone",
+  "location": "Seattle, WA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4950962007"
+}

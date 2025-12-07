@@ -1,0 +1,70 @@
+{
+  "name": "Skills",
+  "children": [
+    {
+      "name": "Technical Skills",
+      "children": [
+        {
+          "name": "Technologies",
+          "children": [
+            {
+              "name": "HRIS platforms",
+              "type": "skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Methodologies & Techniques",
+      "children": [
+        {
+          "name": "HRIS audits",
+          "type": "skill"
+        },
+        {
+          "name": "background checks",
+          "type": "skill"
+        },
+        {
+          "name": "onboarding processes",
+          "type": "skill"
+        },
+        {
+          "name": "off-boarding process",
+          "type": "skill"
+        },
+        {
+          "name": "employee file management",
+          "type": "skill"
+        },
+        {
+          "name": "HR documentation management",
+          "type": "skill"
+        }
+      ]
+    },
+    {
+      "name": "Education & Qualifications",
+      "children": [
+        {
+          "name": "Bachelor’s degree",
+          "type": "qualification"
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "children": [
+        {
+          "name": "1+ years of experience in HR administration, operations, or generalist role",
+          "type": "requirement"
+        }
+      ]
+    }
+  ],
+  "job_id": 4961223007,
+  "job_title": "People Operations Specialist",
+  "location": "Palo Alto, CA",
+  "application_url": "https://job-boards.greenhouse.io/xai/jobs/4961223007"
+}
